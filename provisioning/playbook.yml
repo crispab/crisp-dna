@@ -1,0 +1,31 @@
+- hosts: all
+
+  tasks:
+    - local_action: command git checkout gh-pages
+
+    - apt: pkg=git state=latest
+      sudo: yes
+
+    - apt: pkg=ruby-dev state=latest
+      sudo: yes
+
+    # TODO: Verify that this simpler install doesnt work
+    #- gem: name=jekyll version=2.5.3 state=present
+    #  sudo: yes
+
+    - shell: gem install jekyll -v 2.5.3 --no-ri --no-rdoc
+      sudo: yes
+
+    - shell: curl -sL https://deb.nodesource.com/setup | sudo bash -
+      sudo: yes
+
+    - apt: pkg=nodejs state=latest
+      sudo: yes
+
+    # TODO: Figure out why this task never returns (it runs, but never releases control)
+    - shell: "jekyll serve --detach --host 0.0.0.0 --verbose"
+      args:
+        chdir: /vagrant
+
+    # Since the above task doesnt release control, this debug statement never happens...
+    - debug: msg="Done! Now edit pages on your local machine and browse http://127.0.0.1:4000/ to see changes!"
