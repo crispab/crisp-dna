@@ -1,2 +1,3 @@
 .vagrant/
 _site/
+Gemfile.lock
