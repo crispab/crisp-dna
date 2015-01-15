@@ -11,7 +11,7 @@ Crisp is an IT consulting company based in Stockholm. But we aren't a very typic
 * Our operating model is [open-source](https://github.com/crispab/crisp-model)
 * Crisp does not try to earn money from it's consultants. It is in practice a non-profit company (although not formally so). All profit is handed out to the consultants.
 * Crisp's main purpose is to enable consultants to be happy, and Crisp Happiness Index is our driving metric.
-* Our partnership contract is designed to keep our stock worthless.
+* Our partnership contract is designed to make our stock financially worthless.
 * Consultants can do whatever they want, and work as much or as little as they want.
 
 # The purpose of Crisp
