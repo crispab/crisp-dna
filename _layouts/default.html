@@ -52,27 +52,14 @@
           </aside>
           
         </div>
-
-
       </div>
 
 
       <footer>
-        
-
-            {% assign sourcepath = page.path | replace_first: '/repo', '/blob/gh-pages' %}
-            <div>
-             sourcepath = {{sourcepath}}
+            {% assign sourcePathRelativeToGithubRepoUrl = page.path | replace_first: '/repo', '/blob/gh-pages' %}
+            <div class="inner">
+             Github source for this page: <a href="{{site.github.repository_url}}{{sourcepath}}">{{site.github.repository_url}}{{sourcePathRelativeToGithubRepoUrl}}</a>
             </div>
-            <div>
-              site.github.repository_url = {{site.github.repository_url}}
-            </div>
-            <div>
-             sourceurl = <a href="{{site.github.repository_url}}{{sourcepath}}">{{site.github.repository_url}}{{sourcepath}}</a>
-            </div>
-            <div>page.url:  {{page.url}}</div>
-            <div>page.path: {{page.path}}</div>
-            <div class="inner">Github source for this page: <a href="{{site.github.repository_url}}/blob/gh-pages/{{page.github_path}}{{site.github.repository_url}}/blob/gh-pages/{{page.github_path}}">{{site.github.repository_url}}/blob/gh-pages/{{page.github_path}}</a>  </div>
       </footer>    
 
               <script type="text/javascript">
