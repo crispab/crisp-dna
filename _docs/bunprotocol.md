@@ -1,5 +1,6 @@
 ---
 title: Buns
+github_path: _docs/bunprotocol.md
 ---
 
 The Bun Protocol!!

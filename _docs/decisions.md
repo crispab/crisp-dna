@@ -1,5 +1,6 @@
 ---
 title: Decisions
+github_path: _docs/decisions.md
 ---
 
 How we make decisions
