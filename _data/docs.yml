@@ -1,0 +1,18 @@
+- title: Driving principles
+  docs:
+  - what-is-crisp.html
+  - how-crisp-works.html
+
+- title: Core structure and practices
+  docs:
+  - happiness-index.html
+  - ownership-model.html
+  - economic-model.html
+  - decisions.html
+  - recruiting.html
+  - bun-protocol.html
+
+- title: Supporting practices
+  docs:
+  - hack-summit.html
+  - how-to-clone.html

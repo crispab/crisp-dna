@@ -1,7 +1,6 @@
 ---
-title: What is Crisp?
+title: "What is Crisp?"
 ---
-
 
 # What is Crisp and why?
 
