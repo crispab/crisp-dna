@@ -27,7 +27,8 @@ We won't cover everything, but we'll try to cover the most important and most st
 * The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
 * Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
 
-# Contents
+
+##Contents
 
 **Driving principles:**
 
@@ -49,6 +50,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 
 **Details** (may or may not be filled in)
 
+* [Rocket Days] - how we learn from each other
 * [Crisp unconference] - how our bi-annual unconference works
 * [Hack summit] - how we geek out together and learn from each other
 * [Email conventions] - how we get transparancy without information overflow
@@ -60,5 +62,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 * [Shared assets] - what are our shared assets and how do we manage them?
 * [Contracts] - our team contract, ownership contract, etc.
 
+
+* [How to clone]
 
 
