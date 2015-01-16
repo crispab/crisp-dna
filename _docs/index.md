@@ -64,7 +64,7 @@ Want to start a similar org? See [How to copy the Crisp model](how-to-copy.html)
 * [Sales] - how do we actually sell consultants?
 * [Invoicing] - how do we know which invoices to send?
 * [Shared assets] - what are our shared assets and how do we manage them?
-* [Contracts] - our team contract, ownership contract, etc.
+* [Contracts](contracts.html) - our internal contracts for Crisp membership, ownership, etc.
 * [Brand building] - how do we build the brand, both Crisp and personal brands?
 
 
