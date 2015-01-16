@@ -29,14 +29,17 @@ We won't cover everything, but we'll try to cover the most important and most st
 
 # Contents
 
-Core stuff:
+**Driving principles:**
 
 * [What is Crisp](what-is-crisp.html) - the purpose of the company
 * [How Crisp works](how-crisp-works.html) - summary of our model, and some driving principles.
+
+**Core structure and practices** (really just a consequence of the principles above)
+
 * [Happiness index](happiness-index.html) - how we know if we are succeeding
-* [Ownership model] - what does ownership mean and how does it work?
+* [Ownership model] - how people become owners, and what ownership actually means
 * [Economic model] - how money flows through the system
-* [How we make decisions](decisions.html) - how do decisions get made when there is no manager?
+* [How we make decisions](decisions.html) - how  decisions get made when there is no manager?
 * [Recruiting] - how do new people get in?
 * [Communication] - how do we collaborate, sync, and improve?
 * [Bun protocol](bun-protocol.html) - how we handle customer enquiries and route to the right consultant?
@@ -44,7 +47,7 @@ Core stuff:
 * [Board of directors] - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
 
 
-Details:
+**Details** (may or may not be filled in)
 
 * [Crisp unconference] - how our bi-annual unconference works
 * [Hack summit] - how we geek out together and learn from each other
