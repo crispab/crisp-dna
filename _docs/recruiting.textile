@@ -38,4 +38,4 @@ After everyone who so wishes has had a chance to meet and talk to you, we have a
 
 h2. What if we like you?
 
-Welcome! You'll have to sign our partnership contract, and you must also have a corporation who will be your formal employer. We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies.
+Welcome! You'll have to sign our "team contract":team-contract-en.html, and you must also have a corporation who will be your formal employer. We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies.
