@@ -1,13 +1,38 @@
 ---
-title: "How to clone"
+title: "How to copy this model"
 ---
 
-h1. How to clone
+The Crisp model is open-source, so you are welcome to copy it and create something similar. 
 
-You can make your own clone of the crisp-model by forking the repository on GitHub. 
+h1. Why copy the Crisp model?
+
+Perhaps you are an independent consultant and want to start some kind of collaboration with others. You don't want to run it as a tradtional consulting company, and yet you don't want to invent a model from scratch. In that case you can start from our model and modify it to fit your needs.
+
+Although we happen to work as IT consultants, there is nothing in our model that is specific to the IT consulting business. 
+
+h1. How to copy the Crisp model
+
+We encourage sharing, so the best is if you "fork":https://help.github.com/articles/fork-a-repo/ the "crisp-model repo":https://github.com/crispab/crisp-model on github. Something like this:
+
+# Surf to http://github.com/crispab/crisp-model 
+# Press the "Fork" button on the top right somewhere
+# You should now have your own copy of the crisp model! 
+# Start editing! The articles are all in the _docs folder. Try opening _docs/index.md, and press the little pencil icon on the top right to edit it, and then commit. 
+# After your first commit the site will be auto-published at http://YOURNAME.github.io/crisp-model. 
+
+h2. What's the licensing model?
+
 The Crisp Model is licensed under "Attribution-ShareAlike 4.0 International":http://creativecommons.org/licenses/by-sa/4.0/
 
-h2. Wishes
+h2. Can I call my company Crisp?
 
-# If you use the Crisp Model to create a business or other organization, we would appreciate if you do NOT use the name "Crisp" in your company name or marketing material.
-# Just because you fork the Crisp Model does not mean that Crisp has any formal relationship with you, nor does it mean that we endorse you.
+Please don't. We can't legally stop you from calling your organization Crisp, but we prefer you to use a different name. Otherwise people may think there is some kind of relationship between our companies. If you pick a different name, our brands can evolve independently. 
+
+h2. How to improve the Crisp model
+
+Once you've forked the model, it's no longer the Crisp model. It's your model! Change it as you like. But if you do have some improvements that you would like to give back to us, feel free to issue a "pull request":https://help.github.com/articles/using-pull-requests/ 
+
+h2. How to ask questions or give suggestions
+
+Feel free to "File an issue":https://github.com/crispab/crisp-model/issues/new on the crisp.model repo. We appreciate all feedback and hopefully someone will respond, but we can't guarantee it.
+
