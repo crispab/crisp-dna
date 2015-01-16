@@ -25,7 +25,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 * Open-sourcing it is a fun social experiment, we're curious about what's going to happen :o)
 * By making our model public, we're more likely to keep it up-to-date and improve it as we learn.
 * The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
-* Putting it on GitHub makes it easier for others to clone it, and for us to follow up on how the model evolves and spreads.
+* Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
 
 # Contents
 
@@ -36,13 +36,13 @@ We won't cover everything, but we'll try to cover the most important and most st
 
 **Core structure and practices** (really just a consequence of the principles above)
 
-* [Happiness index](happiness-index.html) - how we know if we are succeeding
-* [Ownership model] - how people become owners, and what ownership actually means
-* [Economic model] - how money flows through the system
-* [How we make decisions](decisions.html) - how  decisions get made when there is no manager?
+* [Happiness index](happiness-index.html) - how do we know if we are succeeding?
+* [Ownership model] - how do people become owners, and what ownership actually means?
+* [Economic model] - how does money flow through the system?
+* [How we make decisions](decisions.html) - how do decisions get made when there is no manager?
 * [Recruiting] - how do new people get in?
 * [Communication] - how do we collaborate, sync, and improve?
-* [Bun protocol](bun-protocol.html) - how we handle customer enquiries and route to the right consultant?
+* [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 * [Office team] - how do we handle admin and day-to-day operations?
 * [Board of directors] - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
 
