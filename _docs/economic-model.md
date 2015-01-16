@@ -1,0 +1,5 @@
+---
+title: Economic model
+---
+
+
