@@ -5,12 +5,14 @@ title: Ownership model
 
 h1. Ownership model
 
-Crisp is a swedish "aktiebolag":http://sv.wikipedia.org/wiki/Aktiebolag (comparable to a english Limited company). That means there are shares that someone needs to own.
+Crisp is a swedish "aktiebolag":http://sv.wikipedia.org/wiki/Aktiebolag (comparable to an english Limited company). This means there are shares that must be owned by someone.
 
-bq. "every Crisper that is still a Crisper after 2 years is offered to become a owner"
+bq. "every Crisper that is still a Crisper after 2 years is offered to become an owner"
 
-Since we strive to be a flat company, we want all the Crispers to share the burden to own the shares. On the other hand, we don't dare to let brand new Crispers to become owners right away. To balance that, every Crisper that is still a Crisper after 2 years is offered to become a owner (partner).
+Since we strive to be a flat company, we want all Crispers to have an equal share of the company. On the other hand, we're a little bit cautious of letting brand new Crispers become owners right away. To balance that, every member who has been with us for 2 years is offered to become an owner (partner).
 
-If, after two years, we do not trust a Crisper to become a partner, we do not trust them to stay in Crisp at all. If this happens, the person will be asked to leave Crisp.
+If, after two years, we do not trust a Crisper to become a partner, we probably don't trust them to stay in Crisp at all. If this happens, the person will be asked to leave Crisp. So far this has never happened.
 
-Since we strive to keep the financial value of Crisp as low as possible, new owners can buy their shares to a reasonably low cost. When you are offered to become an owner, you can ofcourse decline. If you do, you will be offered again, every year.
+Since we strive to keep the financial value of Crisp as low as possible, new owners can buy their shares to the lowest possible price that complies with Swedish law. Over the years this has been a bit over 1000 Euros.
+
+When you are offered to become an owner, you can ofcourse decline. If you do, you will be offered again, every year (until you surrender :-).

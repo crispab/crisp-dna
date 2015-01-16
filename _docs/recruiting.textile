@@ -1,22 +1,21 @@
 ---
 title: Recruiting
 ---
+h1. How we recruit new consultants
 
-How we recruit new consultants
-===
 Crisp doesn't actively recruit consultants. There isn't really an economic incentive, and each new addition makes Crisp a bit more anonymous, a bit less personal.
 
-## So, how did you get to be more than 30 consultants?
+h2. So, how did you get to be more than 30 consultants?
 
 Like vampires, fresh blood makes us stronger. We like people who challenge us with new ideas, so we are happy that 2-3 new consultants joins us each year. Very few people have ever left Crisp (we are not just like vampires, we're mafia vampires), so we grow with about 2-3 consultants each year.
 
 The only way in is by having worked with someone who is already at Crisp. This is not just to make sure the person is top notch as a consultant, we also want to know they're someone we'd like to work with for many years, even decades.
 
-## But there's danger here
+h2. But there's danger here
 
 One golden rule as a consultant is to never ever hire a co-worker where you do your consulting. IT-managers don't want consultants to recruit his or her employees, so we often wait a few years down the line, when none of us are at the place where we met and worked together.
 
-## Who are typically joining Crisp?
+h2. Who are typically joining Crisp?
 
 Since we don't have any safety-net, base salary or such, consultants at Crisp are
 
@@ -28,7 +27,7 @@ Since we don't have any safety-net, base salary or such, consultants at Crisp ar
 
 This considerably limits the number applicants.
 
-## So, you want to join Crisp?
+h2. So, you want to join Crisp?
 
 * Make sure you have worked with someone at Crisp at a previous job
 * Make sure you understand the economical implications, there is no safety-net
@@ -37,6 +36,6 @@ Now is the time to show your skills, technical and social! Present something new
 
 After everyone who so wishes has had a chance to meet and talk to you, we have a deadline for vetoing your application. We're not really fond of vetoes, but for recruiting we actually traditionally have had a way for any current member to throw in a veto, blocking someone. But, the veto has never been used!
 
-## What if we like you?
+h2. What if we like you?
 
-Welcome! You'll have to sign our team contract, and you must also have a corporation who will be your formal employer. We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies.
+Welcome! You'll have to sign our partnership contract, and you must also have a corporation who will be your formal employer. We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies.
