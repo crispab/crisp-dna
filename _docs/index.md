@@ -56,7 +56,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 * [Industries that we avoid] - 
 * [Rocket Days] - how we learn from each other
 * [Crisp unconference] - how our bi-annual unconference works
-* [Hack summit] - how we geek out together and learn from each other
+* [Hack summit](hack-summit.html) - how we geek out together and learn from each other
 * [Email conventions] - how we get transparancy without information overflow
 * [Communication tools] - other stuff that we use: wiki, slack, google docs, trello, etc.
 * [Courses and event production] - how do courses and events get produced?
