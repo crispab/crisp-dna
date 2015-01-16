@@ -8,12 +8,12 @@ This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) product 
 [Crisp](http://www.crisp.se) is a consulting company based in Stockholm. But we aren't a very typical consulting company. 
 For example:
 
-* None of the consultants are actually employed by Crisp.
+* None of the consultants are actually employed by Crisp (although we do have employed office staff).
 * We have no managers, not even a CEO. Instead we rely on self-organization and transparancy. Almost everything is bottom-up.
 * Crisp's main purpose is to enable consultants to be happy, and Crisp Happiness Index is our driving metric. Everything else is secondary.
 * Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants keep most of what they earn.
 * Our partnership contract is designed to make our stock financially worthless. There is no "cashing out" incentive.
-* Consultants are 100% autonomous. They can do whatever they want, and work as much or as little as they want.
+* Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand), and work as much or as little as they want.
 
 We get a lot of questions about how this works in practice, especially from other consultants looking to create something similar. After many years of experimenting we've converged on a model that works well, basically the sweet spot between being an independent consultant and being an employee. So we decided to [open source](http://en.wikipedia.org/wiki/Open_source) it.
 
@@ -46,10 +46,14 @@ We won't cover everything, but we'll try to cover the most important and most st
 * [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 * [Office team] - how do we handle admin and day-to-day operations?
 * [Board of directors] - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
+* [Our business] - what type of work we do
+* [Conflict handling] - 
 
 
-**Details** (may or may not be filled in)
 
+**Supporting practices** 
+
+* [Industries that we avoid] - 
 * [Rocket Days] - how we learn from each other
 * [Crisp unconference] - how our bi-annual unconference works
 * [Hack summit] - how we geek out together and learn from each other
@@ -61,6 +65,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 * [Invoicing] - how do we know which invoices to send?
 * [Shared assets] - what are our shared assets and how do we manage them?
 * [Contracts] - our team contract, ownership contract, etc.
+* [Brand building] - how do we build the brand, both Crisp and personal brands?
 
 * [How to clone]
 
