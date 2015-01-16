@@ -16,13 +16,27 @@ The only way in is by having worked with someone who is already at Crisp. This i
 
 One golden rule as a consultant is to never ever hire a co-worker where you do your consulting. IT-managers don't want consultants to recruit his or her employees, so we often wait a few years down the line, when none of us are at the place where we met and worked together.
 
-## So, who are typically joining Crisp?
+## Who are typically joining Crisp?
 
-Since we don't have any safety-net, base salary or such, the people who join us are
+Since we don't have any safety-net, base salary or such, consultants at Crisp are
 
-* **Comfortable with their skills**
-* **A bit adventurous**, a few months without an assignment doesn't make us nervous
-* **Social**, like to maintain contacts, negotiating salaries
-* **Curious** enough to learn new things, every day
-* **Generous** enough to share knowledge with people inside and outside of Crisp
+* **Comfortable about our skills**, we know we're in high demand
+* **Adventurous**, a few months without an assignment doesn't make us nervous
+* **Social**, like to maintain contacts, passion for working out agreements
+* **Curious**, learn new things, every day
+* **Generous**, sharing knowledge is what we do, not for potential profit but because it is fun, and rewarding in itself
 
+This considerably limits the number applicants.
+
+## So, you want to join Crisp?
+
+* Make sure you have worked with someone at Crisp at a previous job
+* Make sure you understand the economical implications, there is no safety-net
+
+Now is the time to show your skills, technical and social! Present something new and exciting at an internal education evening, or join us for a hack summit. Prepare for lots of intense discussions, critique and laughter - we're a merry bunch, but as you understand, we want to be convinced you are good at what you do. Why? Because we want to know you will do a solid job as a Crisp consultant. We've spent more than a decade building up our reputation, and we want you to make it even better!
+
+After everyone who so wishes has had a chance to meet and talk to you, we have a deadline for vetoing your application. We're not really fond of vetoes, but for recruiting we actually traditionally have had a way for any current member to throw in a veto, blocking someone. But, the veto has never been used!
+
+## What if we like you?
+
+Welcome! You'll have to sign our team contract, and you must also have a corporation who will be your formal employer. We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies.
