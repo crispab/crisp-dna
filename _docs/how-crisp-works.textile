@@ -8,14 +8,14 @@ Our second A3 is called "Crisp strategy" but it's really more about how we opera
 
 !../assets/CrispStrategyA3-sv.jpg(Crisp Strategy A3)!
 
-It hangs on the wall next to the other one. Here's an "english translation":../assets/CrispStrategyA3-en.pdf of the pic. Summarized below:
+It hangs on the wall next to the "What is Crisp":what-is-crisp.html A3. Here's an "english translation":../assets/CrispStrategyA3-en.pdf of the pic. Summarized below:
 
 h1. What do we measure?
 
 We measure:
 
 * How happy we are (see "Happiness Index":happiness-index.html)
-* How happy our customers are. (actually, this point is partly aspirational. Currently our only systemtic customer satisfaction metric is Net Promoter Score for course participants).
+* How happy our customers are. (actually, this point is partly aspirational. Currently our only systematic customer satisfaction metric is Net Promoter Score for course participants).
 
 h1. How do we finance the home?
 
@@ -32,14 +32,14 @@ This picture sums it up:
 The guiding principles are:
 
 * *Naked in, Naked out* - you don't need to cash out to join Crisp, and there's nothing to cash out when you leave.  
-* *No gold on the table* - we don't tried to build financial value in the company.
+* *No gold on the table* - we don't try to build financial value in the company.
 * *No pot of gold at that end* - there's no financial incentive to sell the company.
 * *A gold-strewn road* - you keep most of what you earn, as you earn it.
 
 bq. **Why don't we try to build financial value?** If Crisp has a big pile of money, that creates a financial incentive to own the company, and increases the risk of conflict as the "value" of the company goes up and down. If we keep the company lean, with only a small liquidity buffer, then we don't need to argue about who owns what.
 
 
-See "Economic model":economic-model.html for more details on how money flows through the system. 
+See "Economic model":economic-model.html and "Ownership model":ownership-model.html for more details on how money flows through the system. 
 
 
 
