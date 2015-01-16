@@ -41,7 +41,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 * [Ownership model] - how do people become owners, and what ownership actually means?
 * [Economic model] - how does money flow through the system?
 * [How we make decisions](decisions.html) - how do decisions get made when there is no manager?
-* [Recruiting] - how do new people get in?
+* [Recruiting](recruiting.html) - how do new people get in?
 * [Communication] - how do we collaborate, sync, and improve?
 * [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 * [Office team] - how do we handle admin and day-to-day operations?
