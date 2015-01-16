@@ -12,6 +12,8 @@ Hack Summit gives a opportunity to:
 * hear about other experiences of techniques and tools
 * try out ideas for producs
 * focus on a task for 2 days
+* get to know eachother, and people who wish to join Crisp
+* flee family chores ;)
 
 ## Why is it called Crisp Hack Summit?
 
