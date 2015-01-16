@@ -1,0 +1,3 @@
+---
+title: Ownership model
+---

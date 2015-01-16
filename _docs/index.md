@@ -38,7 +38,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 **Core structure and practices** (really just a consequence of the principles above)
 
 * [Happiness index](happiness-index.html) - how do we know if we are succeeding?
-* [Ownership model] - how do people become owners, and what ownership actually means?
+* [Ownership model](ownership-model.html) - how do people become owners, and what ownership actually means?
 * [Economic model](economic-model.html) - how does money flow through the system?
 * [How we make decisions](decisions.html) - how do decisions get made when there is no manager?
 * [Recruiting](recruiting.html) - how do new people get in?
