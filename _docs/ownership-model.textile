@@ -5,7 +5,7 @@ title: Ownership model
 
 h1. Ownership model
 
-Crisp is a swedish "aktiebolag" (comparable to a limited company). That means there are shares that someone needs to own.
+Crisp is a swedish "aktiebolag":http://sv.wikipedia.org/wiki/Aktiebolag (comparable to a english Limited company). That means there are shares that someone needs to own.
 
 bq. "every Crisper that is still a Crisper after 2 years is offered to become a owner"
 
