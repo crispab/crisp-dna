@@ -5,7 +5,7 @@ title: "How to clone"
 h1. How to clone
 
 You can make your own clone of the crisp-model by forking the repository on GitHub. 
-The Crisp Model is licensed under "Creative Commons Attribution 4.0 International (CC BY 4.0)":http://creativecommons.org/licenses/by/4.0/
+The Crisp Model is licensed under "Attribution-ShareAlike 4.0 International":http://creativecommons.org/licenses/by-sa/4.0/
 
 h2. Wishes
 
