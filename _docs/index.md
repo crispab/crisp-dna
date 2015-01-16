@@ -41,7 +41,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 * [Ownership model] - how do people become owners, and what ownership actually means?
 * [Economic model](economic-model.html) - how does money flow through the system?
 * [How we make decisions](decisions.html) - how do decisions get made when there is no manager?
-* [Recruiting] - how do new people get in?
+* [Recruiting](recruiting.html) - how do new people get in?
 * [Communication] - how do we collaborate, sync, and improve?
 * [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 * [Office team] - how do we handle admin and day-to-day operations?
@@ -56,7 +56,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 * [Industries that we avoid] - 
 * [Rocket Days] - how we learn from each other
 * [Crisp unconference] - how our bi-annual unconference works
-* [Hack summit] - how we geek out together and learn from each other
+* [Hack summit](hack-summit.html) - how we geek out together and learn from each other
 * [Email conventions] - how we get transparancy without information overflow
 * [Communication tools] - other stuff that we use: wiki, slack, google docs, trello, etc.
 * [Courses and event production] - how do courses and events get produced?
