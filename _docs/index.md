@@ -28,7 +28,6 @@ Want to start a similar org? See [How to copy the Crisp model](how-to-copy.html)
 * The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
 * Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
 
-
 #Contents
 
 **Driving principles:**
