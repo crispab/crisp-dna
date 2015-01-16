@@ -5,8 +5,9 @@ title: "How to clone"
 h1. How to clone
 
 You can make your own clone of the crisp-model by forking the repository on GitHub. 
-The Crisp Model is released into the Public Domain under "Creative Commons 1.0":http://creativecommons.org/publicdomain/zero/1.0/
+The Crisp Model is licensed under "Creative Commons Attribution 4.0 International (CC BY 4.0)":http://creativecommons.org/licenses/by/4.0/
 
-h2. Restrictions
+h2. Wishes
 
-# You are not allowed to use the name "Crisp" in your company name or marketing material. 
+# If you use the Crisp Model to create a business or other organization, we would appreciate if you do NOT use the name "Crisp" in your company name or marketing material.
+# Just because you fork the Crisp Model does not mean that Crisp has any formal relationship with you, nor does it mean that we endorse you.
