@@ -58,7 +58,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 * [Sales] - how do we actually sell consultants?
 * [Invoicing] - how do we know which invoices to send?
 * [Shared assets] - what are our shared assets and how do we manage them?
-* [Contracts] - our team contract, owernship contract, etc.
+* [Contracts] - our team contract, ownership contract, etc.
 
 
 
