@@ -28,7 +28,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 * Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
 
 
-##Contents
+#Contents
 
 **Driving principles:**
 
@@ -61,7 +61,6 @@ We won't cover everything, but we'll try to cover the most important and most st
 * [Invoicing] - how do we know which invoices to send?
 * [Shared assets] - what are our shared assets and how do we manage them?
 * [Contracts] - our team contract, ownership contract, etc.
-
 
 * [How to clone]
 
