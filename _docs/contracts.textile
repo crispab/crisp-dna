@@ -9,7 +9,9 @@ This is the contract you sign when you join Crisp.
 * "Team contract, Swedish original":team-contract-sv.html
 * "Team contract, English translation":team-contract-en.html
 
-h2. Stockholder contract
+h1. Stockholder contract
+
+This is the contract you sign if you become a shareholder (see "Ownership model":ownership-model.html).
 
 * "Shareholder contract, Swedish original":shareholder-contract-sv.html
 * "Shareholder contract, English translation":shareholder-contract-en.html
