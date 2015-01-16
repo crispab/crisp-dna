@@ -10,7 +10,7 @@ For example:
 
 * None of the consultants are actually employed by Crisp (although we do have employed office staff).
 * We have no managers, not even a CEO. Instead we rely on self-organization and transparancy. Almost everything is bottom-up.
-* Crisp's main purpose is to enable consultants to be happy, and Crisp Happiness Index is our driving metric. Everything else is secondary.
+* Crisp's main purpose is to enable consultants to be happy, and [Crisp Happiness Index](happiness-index.html) is our driving metric. Everything else is secondary.
 * Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants keep most of what they earn.
 * Our partnership contract is designed to make our stock financially worthless. There is no "cashing out" incentive.
 * Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand), and work as much or as little as they want.
@@ -67,6 +67,6 @@ We won't cover everything, but we'll try to cover the most important and most st
 * [Contracts] - our team contract, ownership contract, etc.
 * [Brand building] - how do we build the brand, both Crisp and personal brands?
 
-* [How to clone]
+* [How to clone](how-to-clone.html)
 
 
