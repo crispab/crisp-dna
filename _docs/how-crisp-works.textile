@@ -39,7 +39,7 @@ The guiding principles are:
 bq. **Why don't we try to build financial value?** If Crisp has a big pile of money, that creates a financial incentive to own the company, and increases the risk of conflict as the "value" of the company goes up and down. If we keep the company lean, with only a small liquidity buffer, then we don't need to argue about who owns what.
 
 
-See "Economic model":economic-model.html for more details on how money flows through the system. 
+See "Economic model":economic-model.html and "Ownership model":ownership-model.html for more details on how money flows through the system. 
 
 
 
