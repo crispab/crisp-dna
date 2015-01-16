@@ -15,4 +15,8 @@
 - title: Supporting practices
   docs:
   - hack-summit.html
-  - how-to-clone.html
+  - contracts.html
+
+- title: Meta
+  docs:
+  - how-to-copy.html
