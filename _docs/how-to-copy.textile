@@ -1,5 +1,7 @@
 ---
 title: "How to copy this model"
+prev_section: contracts.html
+next_section: 
 ---
 
 The Crisp model is open-source, so you are welcome to copy it and create something similar. 

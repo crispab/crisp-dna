@@ -1,5 +1,7 @@
 ---
 title: Decisions
+prev_section: economic-model.html
+next_section: recruiting.html
 ---
 
 How we make decisions

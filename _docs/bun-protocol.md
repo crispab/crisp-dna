@@ -1,5 +1,7 @@
 ---
 title: Buns
+prev_section: recruiting.html
+next_section: hack-summit.html
 ---
 
 The Bun Protocol!!

@@ -1,5 +1,7 @@
 ---
 title: "What is Crisp?"
+prev_section: index.html
+next_section: how-crisp-works.html
 ---
 
 # What is Crisp and why?

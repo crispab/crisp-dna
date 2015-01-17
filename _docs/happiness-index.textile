@@ -1,5 +1,7 @@
 ---
 title: Crisp Happiness Index
+prev_section: how-crisp-works.html
+next_section: ownership-model.html
 ---
 
 h1. Crisp Happiness Index

@@ -1,5 +1,7 @@
 ---
 title: How Crisp works
+prev_section: what-is-crisp.html
+next_section: happiness-index.html
 ---
 
 h1. How Crisp works

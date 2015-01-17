@@ -1,5 +1,7 @@
 ---
 title: Recruiting
+prev_section: decisions.html
+next_section: bun-protocol.html
 ---
 h1. How we recruit new consultants
 

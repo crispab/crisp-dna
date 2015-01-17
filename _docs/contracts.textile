@@ -1,5 +1,7 @@
 ---
 title: Contracts
+prev_section: hack-summit.html
+next_section: how-to-copy.html
 ---
 
 h1. Team contract
