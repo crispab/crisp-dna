@@ -1,5 +1,5 @@
 ---
-title: Crisp model        
+title: Crisp DNA
 ---
 #What is this?
 
@@ -21,7 +21,7 @@ We won't cover everything, but we'll try to cover the most important and most st
 
 Want to start a similar org? See [How to copy the Crisp model](how-to-copy.html).
 
-##Why open-source the Crisp model?
+##Why open-source the Crisp DNA?
 
 * Open-sourcing it is a fun social experiment, we're curious about what's going to happen :o)
 * By making our model public, we're more likely to keep it up-to-date and improve it as we learn.
