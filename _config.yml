@@ -1,4 +1,3 @@
-baseurl: /crisp-dna
 defaults:
   -
     scope:
