@@ -1,4 +1,4 @@
-baseurl: /crisp-model
+baseurl: /crisp-dna
 defaults:
   -
     scope:
