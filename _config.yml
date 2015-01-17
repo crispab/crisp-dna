@@ -8,3 +8,4 @@ defaults:
 collections:
   docs:
     output: true
+company_name: "Crisp"
