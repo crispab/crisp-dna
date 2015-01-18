@@ -14,15 +14,15 @@ It hangs on the wall in our office, and we bring it to our conferences so it can
 
 **Crisp is a home for IT consultants who value:**
     
-* **Community** - We want to hang out with other people who share our values
+* **Community** - We like to hang out with people who share our values
 * **Freedom** - We want to control our own time
 * **Competence** - We want to continuously learn
-* **Good citizenship** - Heart over wallet
-* **Professionalism** - We genuinely care about solving our customers' problems
+* **Good citizenship** - Heart over wallet (money isn't the main thing in life)
+* **Professionalism** - We genuinely care about solving our customers problems
     
 We believe these values lead to personal happiness as well as business success.
 
-Basically, we are trying to find the sweet spot between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support). 
+Basically, we're trying to find the sweet spot between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support). 
 
 In geek-terms, Crisp is a "runtime environment for consultants" :o)
 

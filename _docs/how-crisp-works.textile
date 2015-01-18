@@ -21,9 +21,11 @@ We measure:
 
 h1. How do we finance the home?
 
-To cover our costs, every Crisper pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around SEK 3000-5000, and the variable fee is usually around 7-15%. The fee is intended only to cover Crisp's costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa. 
+To cover our costs, every Crisper pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around SEK 3500-5000, and the variable fee is usually around 8-12%. The fee is intended only to cover Crisp's costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa. 
 
-bq. *Why a fixed + variable fee?* If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable. It is also typical Sweeedish to pick a model that is "lagom":https://en.wikipedia.org/wiki/Lagom - noone is really happy with the end result ;-).
+bq. *Why a fixed + variable fee?* If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable. It is also typical Sveeedish to pick a model that is "lagom":https://en.wikipedia.org/wiki/Lagom - as in, nobody is totally happy and nobody is totally disappointed ;-)
+
+We also have a ceiling, to limit the total fee a consultant pays to Crisp per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because Crisp gets too expensive. The ceiling is usually around kSEK 250-300. 
 
 h1. What do we do with the money?
 

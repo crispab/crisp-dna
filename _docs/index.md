@@ -44,6 +44,7 @@ Want to start a similar org? See [How to copy the Crisp model](how-to-copy.html)
 * [Economic model](economic-model.html) - how does money flow through the system?
 * [How we make decisions](decisions.html) - how do decisions get made when there is no manager?
 * [Recruiting](recruiting.html) - how do new people get in?
+* [Dashboard] - how do we see the big picture?
 * [Communication] - how do we collaborate, sync, and improve?
 * [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 * [Office team] - how do we handle admin and day-to-day operations?
@@ -51,9 +52,9 @@ Want to start a similar org? See [How to copy the Crisp model](how-to-copy.html)
 * [Our business] - what type of work we do
 * [Conflict handling] - 
 
-
-
 **Supporting practices** 
+Interesting stuff, but not core. Some of these haven't been written up. [Ping us](https://github.com/crispab/crisp-dna/issues) if something feels extra interesting!
+
 
 * [Industries that we avoid] - 
 * [Rocket Days] - how we learn from each other
