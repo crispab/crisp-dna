@@ -6,12 +6,12 @@ next_section: what-is-crisp.html
 
 This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) product describing how Crisp works and why. 
 
-[Crisp](http://www.crisp.se) is a consulting company based in Stockholm. But we aren't a very typical consulting company. 
+[Crisp](http://www.crisp.se) is a consulting company based in Stockholm But we aren't a very typical consulting company. 
 For example:
 
 * None of the 30+ consultants are actually employed by {{ site.company_name }} (although we do have employed office staff).
 * We have no managers, not even a CEO. Instead we rely on self-organization and transparancy. Almost everything is bottom-up.
-* Crisp's main purpose is to enable consultants to be happy, and [Crisp Happiness Index](happiness-index.html) is our driving metric. Everything else is secondary.
+* Crisp's main purpose is to enable consultants to be happy, and [Crisp Happiness Index](happiness-index.html) is our driving metric. Strong revenue and customer satisfication is a side effect, not a goal.
 * Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants keep most of what they earn.
 * Our partnership contract is designed to make our stock financially worthless. There is no incentive to "cash in".
 * Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand), and work as much or as little as they want.
@@ -35,6 +35,7 @@ Want to start a similar org? See [How to copy the Crisp model](how-to-copy.html)
 
 * [What is Crisp](what-is-crisp.html) - the purpose of the company
 * [How Crisp works](how-crisp-works.html) - summary of our model, and some driving principles.
+* [Why this works](why-this-works.html) - why this model has served us so well
 
 **Core structure and practices** (really just a consequence of the principles above)
 

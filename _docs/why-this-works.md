@@ -1,10 +1,13 @@
 ---
-title: Why it works
+title: Why this works well for us
+
+prev_section: what-is-crisp.html
+next_section: happiness-index.html
 ---
 
 # Why this model works (for us)
 
-This model really works for us! We keep tweaking it, but the overall model has served us well for years now. Our staff turnover is almost zero, the happiness index is rarely below 4, revenue is off the charts, and our clients gives us amazingly good reviews that we are too humble to write here :o)
+This model really works for us! We keep tweaking it, but the overall model has served us well for years now. Our staff turnover is almost zero, the happiness index is rarely below 4, revenue per consultant is about twice as high as a typical consulting company, and our clients gives us amazingly good reviews that we are too humble to write here :o)
 
 But why? Why is this working for us? Here is our guess, illustrated using a [cause-effect diagram](http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000):
 
