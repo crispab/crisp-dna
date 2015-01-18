@@ -22,4 +22,7 @@ It hangs on the wall in our office, and we bring it to our conferences so it can
     
 We believe these values lead to personal happiness as well as business success.
 
-Basically, we are trying to find the sweet spot between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support).
+Basically, we are trying to find the sweet spot between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support). 
+
+In geek-terms, Crisp is a "runtime environment for consultants" :o)
+
