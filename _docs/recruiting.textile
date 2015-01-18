@@ -20,32 +20,33 @@ OK, maybe vampire isn't the best metaphor. But you get the idea :o)
 
 h2. Hire awesome people, or don't hire at all
 
-Already stated, but it's worth repeating: hire awesome people, or don't hire at all! 
+Worth repeating: *hire awesome people, or don't hire at all!*
+That's what "makes our model work":why-this-works.html. 
 
 h2. Who gets to join
 
-The only way in is by having worked with someone who is already at Crisp. This is not just to make sure the person is top notch as a consultant, we also want to know they're someone we'd like to work with for many years, even decades.
+The only way in (with very few exceptions) is by having worked with someone who is already at Crisp. This is not just to make sure the person is top notch as a consultant, we also want to know they're someone we'd like to work with for many years, even decades.
 
 h2. But there's danger here
 
-One golden rule as a consultant is to never ever hire a co-worker where you do your consulting. IT-managers don't want consultants to recruit his or her employees, so we often wait until none of us are at the place where we met and worked together.
+One golden rule as a consultant is to never ever hire a co-worker where you do your consulting. IT-managers don't want consultants to recruit their employees, so we often wait until none of us are at the place where we met and worked together.
 
-h2. Who are typically joining Crisp?
+h2. What kind of people fit in at Crisp?
 
-Since we don't have any safety-net, base salary or such, consultants at Crisp are
+Since we don't have any economic safety net (like base salary), people that end up at Crisp are usually:
 
-* **Comfortable about our skills**, we know we're in high demand
+* **Comfortable about own skills**, we know we're in high demand
 * **Adventurous**, a few months without an assignment don't make us nervous
-* **Social**, like to maintain contacts, passion for working out agreements
-* **Curious**, learn new things, every day
-* **Generous**, sharing knowledge is what we do, not for potential profit but because it is fun, and rewarding in itself
+* **Social**, like to maintaining a strong network and collaborating with people
+* **Curious**, learn new things, every day. Love geeking out on new technologies, processes, etc.
+* **Generous**, sharing knowledge is what we do, not for potential profit but because it is fun, and rewarding in itself.
 
 This considerably limits the number of applicants.
 
 h2. So, you want to join Crisp?
 
 * Make sure you have worked with someone at Crisp at a previous job
-* Make sure you understand the economical implications, there is no safety-net
+* Make sure you understand the economical implications, there is no safety net
 
 Now is the time to show your skills, technical and social! Present something new and exciting at an internal education evening, or join us for a "hack summit":hack-summit.html. Prepare for lots of intense discussions, critique and laughter - we're a merry bunch, but as you understand, we want to be convinced you are good at what you do. Why? Because we want to know you will do a solid job as a Crisp consultant. We've spent more than a decade building up our reputation, and we want you to make it even better!
 
