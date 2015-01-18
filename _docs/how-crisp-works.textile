@@ -71,7 +71,7 @@ How are we different from a typical consulting company?
 How are different from a typical network of independents?
 * We are dedicated to Crisp - that is, consultants are expected to do all their work and invoicing through Crisp.
 
-h1. Why does this strategy
+h1. Why does this strategy work?
 
 Although this is part of the A3, it's really separate topic: "Why this model works":why-this-works.html
 
