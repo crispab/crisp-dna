@@ -29,7 +29,7 @@ h2. Typical schedule
 
 h3. Friday
 
-* ~08.30 Coffee and sandwish
+* ~08.30 Coffee and sandwich
 * 09.00 Short briefing where everyone presents what they intend to work on (1 minute per person). Ideal for finding pairing partners if not already found.
 * ~10.30 Coffee
 * ~12.30 Lunch
