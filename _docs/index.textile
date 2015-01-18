@@ -29,7 +29,7 @@ h2. Why open-source the Crisp DNA?
 * The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
 * Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
 
-h1.Contents
+h1. Contents
 
 *Driving principles:*
 
