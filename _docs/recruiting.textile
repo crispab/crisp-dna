@@ -3,13 +3,26 @@ title: Recruiting
 prev_section: decisions.html
 next_section: bun-protocol.html
 ---
-h1. How we recruit new consultants
 
-Crisp doesn't actively recruit consultants. There isn't really an economic incentive, and each new addition makes Crisp a bit more anonymous, a bit less personal.
+h1. Recruitment - how we grow
 
-h2. So, how did you get to be more than 30 consultants?
+h2. We are in no hurry to grow
 
-Like vampires, fresh blood makes us stronger. We like people who challenge us with new ideas, so we are happy that 2-3 new consultants joins us each year. Very few people have ever left Crisp (we are not just like vampires, we're mafia vampires), so we grow with about 2-3 consultants each year.
+We don't actively recruit consultants. There's no economic incentive to do so, and each new addition makes Crisp a bit more anonymous, a bit less personal, and a bit harder to coordinate.
+
+h2. So... how did we get to be more than 30 consultants then?
+
+Like vampires, fresh blood makes us stronger. New people who are smart and passionate will challenge the status quo and inject new ideas! That compensates for the pain of growing. 
+
+The right balance seems to be about 1-3 new consultants per year, so that's what we aim for. Enough to keep us on our toes without excessive growth pain. Very few people have ever left Crisp (we're not just like vampires, we're mafia vampires), so our rate of growth has been pretty linear.
+
+OK, maybe vampire isn't the best metaphor. But you get the idea :o)
+
+h2. Hire awesome people, or don't hire at all
+
+Already stated, but it's worth repeating: hire awesome people, or don't hire at all! 
+
+h2. Who gets to join
 
 The only way in is by having worked with someone who is already at Crisp. This is not just to make sure the person is top notch as a consultant, we also want to know they're someone we'd like to work with for many years, even decades.
 
