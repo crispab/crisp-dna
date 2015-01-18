@@ -1,0 +1,9 @@
+---
+title: Economic Model
+prev_section: ownership-model.html
+next_section: decisions.html
+---
+
+h1. Economic Model
+
+The high level economic model is summarized in "How Crisp Works":how-crisp-works.html, but we may add more details here.
