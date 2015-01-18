@@ -44,31 +44,31 @@ h1. Contents
 * "Economic model":economic-model.html - how does money flow through the system?
 * "How we make decisions":decisions.html - how do decisions get made when there is no manager?
 * "Recruiting":recruiting.html - how do new people get in?
-* "Dashboard] - how do we see the big picture?
+* "Dashboard" - how do we see the big picture?
 * "Communication] - how do we collaborate, sync, and improve?
 * "Bun protocol":bun-protocol.html - how do we handle customer enquiries and route to the right consultant?
-* "Office team] - how do we handle admin and day-to-day operations?
-* "Board of directors] - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
-* "Our business] - what type of work we do
-* "Conflict handling] - 
+* "Office team" - how do we handle admin and day-to-day operations?
+* "Board of directors":board.html - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
+* "Our business" - what type of work we do
+* "Conflict handling" - 
 
 *Supporting practices*
 Interesting stuff, but not core. Some of these haven't been written up. "Ping us":https://github.com/crispab/crisp-dna/issues if something feels extra interesting!
 
 
-* "Industries that we avoid] - 
-* "Rocket Days] - how we learn from each other
-* "Crisp unconference] - how our bi-annual unconference works
+* "Industries that we avoid" - 
+* "Rocket Days" - how we learn from each other
+* "Crisp unconference":unconference.html - how our bi-annual unconference works
 * "Hack summit":hack-summit.html - how we geek out together and learn from each other
-* "Email conventions] - how we get transparancy without information overflow
-* "Communication tools] - other stuff that we use: wiki, slack, google docs, trello, etc.
-* "Courses and event production] - how do courses and events get produced?
-* "Crisplets] - how do bottom-up initiatives get funded?
-* "Sales] - how do we actually sell consultants?
-* "Invoicing] - how do we know which invoices to send?
-* "Shared assets] - what are our shared assets and how do we manage them?
+* "Email conventions" - how we get transparancy without information overflow
+* "Communication tools" - other stuff that we use: wiki, slack, google docs, trello, etc.
+* "Courses and event production" - how do courses and events get produced?
+* "Crisplets" - how do bottom-up initiatives get funded?
+* "Sales" - how do we actually sell consultants?
+* "Invoicing" - how do we know which invoices to send?
+* "Shared assets" - what are our shared assets and how do we manage them?
 * "Contracts":contracts.html - our internal contracts for Crisp membership, ownership, etc.
-* "Brand building] - how do we build the brand, both Crisp and personal brands?
+* "Brand building" - how do we build the brand, both Crisp and personal brands?
 
 
 
