@@ -20,7 +20,7 @@ We encourage sharing, so the best is if you  "fork":https://help.github.com/arti
 # Press the "Fork" button on the top right somewhere.
 # You should now have your own copy of the crisp dna! 
 # Start editing! The articles are all in the _docs folder. Try opening _docs/index.md, and press the little pencil icon on the top right to edit it, and then commit. 
-# After your first commit the site will be auto-published at http://YOURNAME.github.io/crisp-dna. 
+# After your first commit the site will be auto-published at http://YOURNAME.github.io/crisp-dna (or whatever you decide to call your repo)
 
 h2. What's the licensing model?
 
