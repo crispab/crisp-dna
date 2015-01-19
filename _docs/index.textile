@@ -20,7 +20,7 @@ We get a lot of questions about how this works in practice, especially from othe
 
 We won't cover everything, but we'll try to cover the most important and most stable aspects of our model.
 
-Want to start a similar org? See "How to copy the Crisp model":how-to-copy.html.
+Want to start a similar org? See "How to clone the Crisp DNA":how-to-copy.html.
 
 h2. Why open-source the Crisp DNA?
 
@@ -69,6 +69,10 @@ Interesting stuff, but not core. Some of these haven't been written up. "Ping us
 * "Shared assets" - what are our shared assets and how do we manage them?
 * "Contracts":contracts.html - our internal contracts for Crisp membership, ownership, etc.
 * "Brand building" - how do we build the brand, both Crisp and personal brands?
+
+*Meta*
+
+* "How to clone the Crisp DNA":how-to-copy.html
 
 
 

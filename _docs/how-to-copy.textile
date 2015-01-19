@@ -1,40 +1,42 @@
 ---
-title: "How to copy this model"
+title: "How to clone the Crisp DNA"
 prev_section: contracts.html
 next_section: 
 ---
 
-The Crisp model is open-source, so you are welcome to copy it and create something similar. 
+The Crisp DNA is open-source, so you are welcome to copy it and create something similar. 
 
-h1. Why copy the Crisp model?
+h1. Why clone the Crisp DNA?
 
 Perhaps you are an independent consultant and want to start some kind of collaboration with others. You don't want to run it as a tradtional consulting company, and yet you don't want to invent a model from scratch. In that case you can start from our model and modify it to fit your needs.
 
 Although we happen to work as IT consultants, there is nothing in our model that is specific to the IT consulting business. 
 
-h1. How to copy the Crisp model
+h1. How to clone the Crisp DNA
 
-We encourage sharing, so the best is if you "fork":https://help.github.com/articles/fork-a-repo/ the "crisp-model repo":https://github.com/crispab/crisp-model on github. Something like this:
+We encourage sharing, so the best is if you clone and "fork":https://help.github.com/articles/fork-a-repo/ the "crisp-dna repo":https://github.com/crispab/crisp-dna on github. Something like this:
 
-# Surf to http://github.com/crispab/crisp-model 
-# Press the "Fork" button on the top right somewhere
-# You should now have your own copy of the crisp model! 
+# Surf to "http://github.com/crispab/crisp-dna":http://github.com/crispab/crisp-dna.
+# Press the "Fork" button on the top right somewhere.
+# You should now have your own copy of the crisp dna! 
 # Start editing! The articles are all in the _docs folder. Try opening _docs/index.md, and press the little pencil icon on the top right to edit it, and then commit. 
-# After your first commit the site will be auto-published at http://YOURNAME.github.io/crisp-model. 
+# After your first commit the site will be auto-published at http://YOURNAME.github.io/crisp-dna. 
 
 h2. What's the licensing model?
 
-The Crisp Model is licensed under "Attribution-ShareAlike 4.0 International":http://creativecommons.org/licenses/by-sa/4.0/ This means you are welcome to edit the text anyway you wish, even for commercial purposes, as long as you attribute the original text to us, and keep the license, so that others can fork off of your ingenious changes. But go read the license, it is well worth the effort!
+The Crisp DNA is licensed under "Attribution-ShareAlike 4.0 International":http://creativecommons.org/licenses/by-sa/4.0/. This means you are welcome to edit the text anyway you wish, even for commercial purposes, as long as you attribute the original text to us, and keep the license, so that others can fork off of your ingenious changes. But go read the license, it is well worth the effort!
 
 h2. Can I call my company Crisp?
 
 Please don't. We can't legally stop you from calling your organization Crisp, but we prefer you to use a different name. Otherwise people may think there is some kind of relationship between our companies. If you pick a different name, our brands can evolve independently. 
 
-h2. How to improve the Crisp model
+h2. How to improve the Crisp DNA
 
-Once you've forked the model, it's no longer the Crisp model. It's your model! Change it as you like. But if you do have some improvements that you would like to give back to us, feel free to issue a "pull request":https://help.github.com/articles/using-pull-requests/ 
+Once you've forked the dna, it's no longer the Crisp model, it's your model! Crisp is just your ancestral uncle. Change stuff as you like. But if you do have some improvements that you would like to give back to us, feel free to issue a "pull request":https://help.github.com/articles/using-pull-requests/.
+
+Uncle Crisp always wants to improve :o)
 
 h2. How to ask questions or give suggestions
 
-Feel free to "File an issue":https://github.com/crispab/crisp-model/issues/new on the crisp-model repo. We appreciate all feedback and hopefully someone will respond, but we can't guarantee it.
+Feel free to "File an issue":https://github.com/crispab/crisp-dna/issues/new on the crisp-dna repo. We appreciate all feedback and hopefully someone will respond, but we can't guarantee it.
 

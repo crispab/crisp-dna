@@ -35,9 +35,9 @@ h2. What kind of people fit in at Crisp?
 
 Since we don't have any economic safety net (like base salary), people that end up at Crisp are usually:
 
-* **Comfortable about own skills**, we know we're in high demand
-* **Adventurous**, a few months without an assignment don't make us nervous
-* **Social**, like to maintaining a strong network and collaborating with people
+* **Comfortable about own skills**, we know we're in high demand.
+* **Adventurous**, a few months without an assignment don't make us nervous.
+* **Social**, like to maintain a strong network and collaborate with people.
 * **Curious**, learn new things, every day. Love geeking out on new technologies, processes, etc.
 * **Generous**, sharing knowledge is what we do, not for potential profit but because it is fun, and rewarding in itself.
 

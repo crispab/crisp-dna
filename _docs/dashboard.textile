@@ -1,6 +1,6 @@
 ---
 title: Dashboard
-prev_section: dashboard.html
+prev_section: bun-protocol.html
 next_section: hack-summit.html
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: Happiness Index
-prev_section: how-crisp-works.html
+prev_section: why-this-works.html
 next_section: ownership-model.html
 ---
 
 h1. Happiness Index
 
-Our primary metric is “Nöjd Crispare Index” (in english: “Happy Crisper Index” or “Crisp happiness index”). It's the only thing we systemically measure and follow up. Scale is 1-5. The data lives in our "dashboard":dashboard.html (a shared Google spreadsheet).
+Our primary metric is “Nöjd Crispare Index” (in english: “Happy Crisper Index” or “Crisp Happiness Index”). It's the only thing we systemically measure and follow up. Scale is 1-5. The data lives in our "dashboard":dashboard.html (a shared Google spreadsheet).
 
 !../assets/HappinessIndex.png(Happiness History)!:https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE
 
@@ -48,7 +48,7 @@ We have a few additional text columns as well, to gather further info. They are 
 
 It's very interesting to read what people write! 
 
-bq. Sometimes we get cascading effects - for example Joe is pissed off about something, and other people are sad because Joe is upset, and all numbers go down. That's good through! The problem is now highly visible and measurable, so we're more likely to fix it.
+bq. Sometimes we get cascading effects - for example Joe is pissed off about something, and other people are sad because Joe is upset, and all numbers go down. That's good though! The problem is now highly visible and measurable, so we're more likely to fix it.
 
 
 h2. How we use the happiness data
