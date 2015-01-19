@@ -23,35 +23,65 @@ h2. Hire awesome people, or don't hire at all
 Worth repeating: *hire awesome people, or don't hire at all!*
 That's what "makes our model work":why-this-works.html. 
 
+
 h2. Who gets to join
 
-The only way in (with very few exceptions) is by having worked with someone who is already at Crisp. This is not just to make sure the person is top notch as a consultant, we also want to know they're someone we'd like to work with for many years, even decades.
+We don't have an HR department or recruiters, so there's not much bandwidth or interest to headhunt people. However, we're fortunate to have a steady stream of interesting people knocking on the door, so we're lazy and go for the safe bets.
 
-h2. But there's danger here
-
-One golden rule as a consultant is to never ever hire a co-worker where you do your consulting. IT-managers don't want consultants to recruit their employees, so we often wait until none of us are at the place where we met and worked together.
-
-h2. What kind of people fit in at Crisp?
-
-Since we don't have any economic safety net (like base salary), people that end up at Crisp are usually:
-
-* **Comfortable about own skills**, we know we're in high demand.
-* **Adventurous**, a few months without an assignment don't make us nervous.
-* **Social**, like to maintain a strong network and collaborate with people.
-* **Curious**, learn new things, every day. Love geeking out on new technologies, processes, etc.
-* **Generous**, sharing knowledge is what we do, not for potential profit but because it is fun, and rewarding in itself.
+Our minimum bar is:
+# The candidate is "konsultmässig" (roughly translates to "a great consultant"). That is, we are confident that the candidate will have happy clients.
+# The candidate is social, and we must actually _like_ the person and look forward to hanging out together for years, or even decades.
+# At least one us has worked with the candidate before (and can therefore testify to the first two points). We want someone to say "Hey, I've worked with her before, she's awesome! We'd be IDIOTS not to let her join!"
 
 This considerably limits the number of applicants.
 
-h2. So, you want to join Crisp?
+Other things that we value (but don't always require):
+* The candidate complements us somehow, for example with new skills or perspectives that we lack. He/she will make us feel like newbies in some area!
+* The candidate has lots of energy and ideas, and won't be shy to challenge the status quo.
+* The candidate is well known and has a strong reputation in the industry.
 
-* Make sure you have worked with someone at Crisp at a previous job
-* Make sure you understand the economical implications, there is no safety net
+bq. Tips to candidates: Inspire us! Show us your skills, technical and social! Present something new and exciting at one of our events, or join us for a "hack summit":hack-summit.html. Prepare for lots of intense discussions, critique and laughter – we’re a merry bunch, but we need to be convinced you are good at what you do. Why? Because we want to learn from you, and we want the clients to rave over how awesome you are. We’ve spent more than a decade building up a great reputation, and we want you to make it even better!
 
-Now is the time to show your skills, technical and social! Present something new and exciting at an internal education evening, or join us for a "hack summit":hack-summit.html. Prepare for lots of intense discussions, critique and laughter - we're a merry bunch, but as you understand, we want to be convinced you are good at what you do. Why? Because we want to know you will do a solid job as a Crisp consultant. We've spent more than a decade building up our reputation, and we want you to make it even better!
+h2. Don't steal people from clients!
 
-After everyone who so wishes has had a chance to meet and talk to you, we have a deadline for vetoing your application. We're not really fond of vetoes, but for recruiting we actually traditionally have had a way for any current member to throw in a veto, blocking someone. But, the veto has never been used!
+One golden rule as a consultant is to never ever hire a co-worker from a client. Managers obviously don't want consultants to steal their employees, so we don't even discuss recruitment with a candidate until after both the candidate and the consultant have left the place where they worked together. Sometimes years after.
 
-h2. What if we like you?
+Again, we are in no hurry to grow. An awesome person is worth waiting for.
 
-Welcome! You'll have to sign our "team contract":team-contract-en.html, and you must also have a corporation who will be your formal employer. We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies.
+h2. What kind of people don't fit at Crisp?
+
+People who want stability don't fit at Crisp. You won't have stable working hours and a fixed desk. You won't even get a fixed salary - in fact, it's the other way around - you pay a fee (but keep most of what you earn). See the "economic model":economic-model.html. So when you don't have a client, you bleed money every month! On the other hand, when you do have a client, you earn more than what any company would pay you in salary. So it's up to you to buffer cash and manage risk. 
+
+This kind of model obviously doesn't fit everyone.
+
+h2. What kind of people do fit at Crisp?
+
+Most people who end up at Crisp were previously independent consultants (or were heading in that direction). Typical personality traits:
+
+* *Self-confident* - they know that they are highly skilled and in high demand.
+* *Adventurous* - a few months without an assignment isn't the end of the world, it's an opportunity to play around and learn new stuff!
+* *Social* - they like to maintain a strong network and collaborate with people. Some of us are introverts, but still kind of social :o)
+* *Curious* - want to learn new things, every day. Love geeking out on new technologies, processes, etc.
+* *Generous* - like to share what they learn, not primarily for profit but because it's fun and rewarding in itself.
+
+Of course, not everyone at Crisp has all these traits. But this is typically the type of person who is attracted to Crisp.
+
+h2. What's the recruitment process?
+
+It's quite simple: 
+# Mr X (a candidate) approaches Mrs Y (a Crisper) and asks to join Crisp.
+# Y does what it takes to evaluate X. Start by finding out which Crispers have worked with Mr X before and that they think of him. Then organize interviews and tests and whatever else she deems necessary. She might invite X to join the next "hack summit":hack-summit.html. 
+# If Y thinks X is suitable, she emails all Crispers: "I think X should be a Crisper, because [reasons].  Anyone against?".
+# If no response comes within a few days, the decision is done! Otherwise, if people have doubts or questions, keep repeating points 2-3 until the candidate is accepted or rejected.
+
+All active candidates have a "puller", in this case Mrs Y. That's our internal term for the person "pulling" an initiative and making sure things move forward, and that the candidate is well-treated. Similar to the bun holder in our "bun protocol":bun-protocol.html.
+
+Bottom line: As long as even one single Crisper is against hiring a candidate, we won't do it. We're not really fond of vetoes, but for recruiting it feels motivated. We prefer the risk of rejecting a good candidate, over the risk of accepting a bad candidate.
+
+h2. How does onboarding work?
+
+Welcome! You'll need to sign our "team contract":team-contract-en.html, and create your own personal company (if you don't already have one). Formally you'll be employed by your company, not Crisp. We'll help you get started.
+
+Congrats, you are now your own manager! Be nice. 
+
+We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies. And we'll proudly display you on our "site":https://www.crisp.se/konsulter of course!
