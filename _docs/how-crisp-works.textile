@@ -35,7 +35,7 @@ This picture sums it up:
 
 The guiding principles are:
 
-* *Naked in, Naked out* - you don't need to cash out to join Crisp, and there's nothing to cash out when you leave.  
+* *Naked in, Naked out* - you don't need to put cash in to join Crisp, and there's nothing to cash out when you leave.  
 * *No gold on the table* - we don't try to build financial value in the company.
 * *No pot of gold at that end* - there's no financial incentive to sell the company.
 * *A gold-strewn road* - you keep most of what you earn, as you earn it.
@@ -54,7 +54,7 @@ For more see "Recruiting":recruiting.html.
 
 h2. How do we run the company?
 
-* *Lean & Agile* - are approach is based on lean and "agile":http://agilemanifesto.org principles.
+* *Lean & Agile* - our approach is based on lean and "agile":http://agilemanifesto.org principles.
 * *Meritocracy & Consensus* - we don't have titles, managers, or reporting structures. Instead we are a "meritocracy":http://en.wikipedia.org/wiki/Meritocracy, which basically means your power to influence stuff is based on your competence and engagement. Decisions are made mostly using consensus ("here's how":decisions.html).
 * *Ask for forgiveness rather than permission* - if you want start something or change something, go ahead! The default answer to any request or idea is "Sure! If you believe in it and want to put time into it!". Very few mistakes are fatal or irreversible, so we encourage each other to just try things rather than seek permission.
 * *Simple models* - being a bunch of smart engineers and process nerds, we can come up with detailed rules and structures for any kind problem. But we really try not to! We don't want to overcomplicate things, and prefer to err on the side of simplicity. Better to have too few rules than too many, and better to follow high level guiding principles than low level detailed procedures.
