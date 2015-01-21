@@ -64,7 +64,7 @@ Interesting stuff, but not core. Some of these haven't been written up. "Ping us
 * "Email conventions" - how we get transparancy without information overflow
 * "Communication tools" - other stuff that we use: wiki, slack, google docs, trello, etc.
 * "Courses and event production" - how do courses and events get produced?
-* "Crisplets" - how do bottom-up initiatives get funded?
+* "Crisplets":crisplets.html - how do bottom-up initiatives get funded?
 * "Sales" - how do we actually sell consultants?
 * "Invoicing" - how do we know which invoices to send?
 * "Shared assets" - what are our shared assets and how do we manage them?

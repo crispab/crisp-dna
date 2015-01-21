@@ -1,6 +1,6 @@
 ---
 title: Contracts
-prev_section: hack-summit.html
+prev_section: crisplets.html
 next_section: how-to-copy.html
 ---
 
