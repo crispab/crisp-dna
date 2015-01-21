@@ -51,6 +51,7 @@ h1. Contents
 * "Board of directors":board.html - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
 * "Our business" - what type of work we do
 * "Conflict handling" - 
+* "Vision" - What we have agreed upon so far? How to you get a bunch of autonomous consultants to agree on a vision?
 
 *Supporting practices*
 Interesting stuff, but not core. Some of these haven't been written up. "Ping us":https://github.com/crispab/crisp-dna/issues if something feels extra interesting!
@@ -69,6 +70,7 @@ Interesting stuff, but not core. Some of these haven't been written up. "Ping us
 * "Shared assets" - what are our shared assets and how do we manage them?
 * "Contracts":contracts.html - our internal contracts for Crisp membership, ownership, etc.
 * "Brand building" - how do we build the brand, both Crisp and personal brands?
+* "Hand signals" - How do we ensure great discussions in large groups?
 
 *Meta*
 
