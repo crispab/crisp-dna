@@ -6,7 +6,7 @@ next_section: how-crisp-works.html
 
 h1. What is Crisp and why?
 
-Our purpose is summarized in this A3. 
+Our purpose is summarized in this A3. We refer to this as "our home" or "our house".
 
 !../assets/WhatIsCrispA3-sv.jpg(What is Crisp A3)!
 
