@@ -6,3 +6,43 @@ next_section: contracts.html
 
 h1. Crisplets
 
+How do bottom-up initiatives get funded? How do you get money to do something without a budget process?
+
+bq. "If you want something that needs funding, you find others that want the same thing and pay for it together, with your own money."
+
+h2. What is a Crisplet?
+
+A Crisplet is a loosely coupled interest group of Crispers who want to fund an initiative.
+
+Within a Crisplet we work on things where there is no common interest from all of Crisp, but a bunch of Crispers want to do something together.
+
+If the initiative is in the interest of all Crispers, then it is reasonable that it can be handled through the Office staff, Board or Sales. 
+
+h2. What is required of a Crisplet
+
+* A wiki page describing the purpose of the Crisplet, how collaboration is done and who has joined
+* A link from the list of Crisplets to the wiki page describing the Crisplet
+* All Crisplets are open to all Crispers
+* Every new Crisplet is announced over e-mail with a "OBS: " subject prefix. See: "E-mail conventions".
+
+h2. Benefits of forming a Crisplet
+
+These are the benefits of Crisplets compared to "just huddle up and do it":
+
+* Openness - all Crisplets are listed
+* Crisper Engagement - it is easier to get involved if you know what's going on
+* Established form of collaboration - initiators and joiners of Crisplets know what it means. 
+* Economics - you can get help with financial administration, see Crisplet Accounts below.
+
+
+h2. Crisplet Accounts
+
+The activities in a Crisplet may have costs. To avoid needing the agreement of all Crispers, the people in the Crisplet can agree to share the costs. This is done by connecting a Crisplet Account to a Crisplet.
+
+h3. Example of a Crisplet Account
+
+Let's say five people in a Crisplet wants to start using a new service for online Kanban-boards from Boardflex Inc. Crisp will then offer the ... TODO
+
+h2. Examples of Crisplets
+
+...
