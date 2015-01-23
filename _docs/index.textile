@@ -31,13 +31,15 @@ h2. Why open-source the Crisp DNA?
 
 h1. Contents
 
-*Driving principles:*
+h2. Driving principles
 
 * "What is Crisp":what-is-crisp.html - the purpose of the company
 * "How Crisp works":how-crisp-works.html - summary of our model, and some driving principles.
 * "Why this works":why-this-works.html - why this model has served us so well
 
-*Core structure and practices* (really just a consequence of the principles above)
+h2. Core structure and practices
+
+(really just a consequence of the principles above)
 
 * "Happiness index":happiness-index.html - how do we know if we are succeeding?
 * "Ownership model":ownership-model.html - how do people become owners, and what ownership actually means?
@@ -53,8 +55,9 @@ h1. Contents
 * "Conflict handling" - 
 * "Vision" - What we have agreed upon so far? How to you get a bunch of autonomous consultants to agree on a vision?
 
-*Supporting practices*
-Interesting stuff, but not core. Some of these haven't been written up. "Ping us":https://github.com/crispab/crisp-dna/issues if something feels extra interesting!
+h2. Supporting practices
+
+Interesting stuff, but not core. Some of these haven't been written up. "Comment on an issue":https://github.com/crispab/crisp-dna/issues if something feels extra interesting!
 
 
 * "Industries that we avoid" - 
@@ -72,7 +75,7 @@ Interesting stuff, but not core. Some of these haven't been written up. "Ping us
 * "Brand building" - how do we build the brand, both Crisp and personal brands?
 * "Hand signals" - How do we ensure great discussions in large groups?
 
-*Meta*
+h2. Meta
 
 * "How to clone the Crisp DNA":how-to-copy.html
 
