@@ -46,4 +46,4 @@ h3. Purposes of a Crisplet
 
 * A single consultant can quickly and with very little administration share financing of an initiative if there is interest from other Crispers.
 * By waiving the debt, Crisp can avoid unnecessary administration of costs that are clearly in the common interest.
-* Crisplet Accounts is like a filter which keeps many small shared expenses away. Crisplet Accounts only appear when there are actual 'individuals' who are prepared to pay for it. This reduces the risk that Crisp keeps adding expenses that are only used by a few.
+* Crisplet Accounts is like a filter which keeps many small shared expenses away. Crisplet Accounts only appear when there are actual _individuals_ who are prepared to pay for it. This reduces the risk that Crisp keeps adding expenses that are only used by a few.
