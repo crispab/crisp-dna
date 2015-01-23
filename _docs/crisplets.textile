@@ -18,13 +18,6 @@ Within a Crisplet we work on things where there is no common interest from all o
 
 If the initiative is in the interest of all Crispers, then it is reasonable that it can be handled through the Office staff, Board or Sales. 
 
-h2. What is required of a Crisplet
-
-* A wiki page describing the purpose of the Crisplet, how collaboration is done and who has joined
-* A link from the list of Crisplets to the wiki page describing the Crisplet
-* All Crisplets are open to all Crispers
-* Every new Crisplet is announced over e-mail with a "OBS: " subject prefix. See: "E-mail conventions".
-
 h2. Benefits of forming a Crisplet
 
 These are the benefits of Crisplets compared to "just huddle up and do it":
@@ -34,6 +27,12 @@ These are the benefits of Crisplets compared to "just huddle up and do it":
 * Established form of collaboration - initiators and joiners of Crisplets know what it means. 
 * Economics - you can get help with financial administration, see Crisplet Accounts below.
 
+h2. What is required of a Crisplet
+
+* A wiki page describing the purpose of the Crisplet, how collaboration is done and who has joined
+* A link from the list of Crisplets to the wiki page describing the Crisplet
+* All Crisplets are open to all Crispers
+* Every new Crisplet is announced over e-mail with a "OBS: " subject prefix. See: "E-mail conventions".
 
 h2. Crisplet Accounts
 
@@ -41,8 +40,10 @@ The activities in a Crisplet may have costs. To avoid needing the agreement of a
 
 h3. Example of a Crisplet Account
 
-Let's say five people in a Crisplet wants to start using a new service for online Kanban-boards from Boardflex Inc. Crisp will then offer the ... TODO
+Let's say five people in a Crisplet wants to start using a new service for online Kanban-boards from Boardflex Inc. Crisp will then pay for the service and distribute the costs to the people in the Crisplet by invoicing their respective companies. If a many Crispers join the Crisplet, or if the product/service is used by the Crisp Office, the board can decide to move the cost to the shared expenses of Crisp. (unless the cost is over the limit the board has mandate to take)
 
-h2. Examples of Crisplets
+h3. Purposes of a Crisplet
 
-...
+* A single consultant can quickly and with very little administration share financing of an initiative if there is interest from other Crispers.
+* By waiving the debt, Crisp can avoid unnecessary administration of costs that are clearly in the common interest.
+* Crisplet Accounts is like a filter which keeps many small shared expenses away. Crisplet Accounts only appear when there are actual 'individuals' who are prepared to pay for it. This reduces the risk that Crisp keeps adding expenses that are only used by a few.

@@ -45,9 +45,9 @@ h2. Core structure and practices
 * "Economic model":economic-model.html - how does money flow through the system?
 * "How we make decisions":decisions.html - how do decisions get made when there is no manager?
 * "Recruiting":recruiting.html - how do new people get in?
-* "Dashboard" - how do we see the big picture?
 * "Communication" - how do we collaborate, sync, and improve?
 * "Bun protocol":bun-protocol.html - how do we handle customer enquiries and route to the right consultant?
+* "Dashboard":dashboard.html - how do we see the big picture?
 * "Office team" - how do we handle admin and day-to-day operations?
 * "Board of directors":board.html - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
 * "Our business" - what type of work we do
