@@ -6,7 +6,7 @@ h1. What is this?
 
 This site is an "open-source":http://en.wikipedia.org/wiki/Open_source product describing how Crisp works and why. 
 
-"Crisp":http://www.crisp.se is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
+"Crisp":https://www.crisp.se is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
 
 * None of the 30+ consultants are actually employed by {{ site.company_name }} (although we do have employed office staff).
 * We have no managers, not even a CEO. Instead we rely on self-organization and transparancy. Almost everything is bottom-up.
