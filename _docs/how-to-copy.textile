@@ -4,15 +4,17 @@ prev_section: contracts.html
 next_section: 
 ---
 
+h1. How to clone the Crisp DNA
+
 The Crisp DNA is open-source, so you are welcome to copy it and create something similar. 
 
-h1. Why clone the Crisp DNA?
+h2. Why clone the Crisp DNA?
 
 Perhaps you are an independent consultant and want to start some kind of collaboration with others. You don't want to run it as a tradtional consulting company, and yet you don't want to invent a model from scratch. In that case you can start from our model and modify it to fit your needs.
 
 Although we happen to work as IT consultants, there is nothing in our model that is specific to the IT consulting business. 
 
-h1. How to clone the Crisp DNA
+h2. Step-by-step cloning guide
 
 We encourage sharing, so the best is if you  "fork":https://help.github.com/articles/fork-a-repo/ the "crisp-dna repo":https://github.com/crispab/crisp-dna on github. Something like this:
 
