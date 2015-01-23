@@ -6,8 +6,8 @@ next_section: hack-summit.html
 
 h1. Crisp Unconference
 
-Twice per year we do an internal unconference, in Sweden our abroad.
+Twice per year we do an internal unconference, in Sweden or abroad.
 
 An unconference is like a normal conference but with no predefined agenda, no predefined list of speakers, no slides, and… er… actually it’s not very much like a normal conference at all! It’s more like an alternative to a conference. If the purpose of a conference is to collaborate and communicate, then an unconference will often fulfill the same purpose in a more simple, fun, and effective way!
 
-We might write a summar of how we do our unconferences on this page. But until then, check the ebook "How to run an internal conference":https://leanpub.com/unconference, it's mostly based on Crisp. You can also check "these slides":https://dl.dropboxusercontent.com/u/1018963/Projects/2013-06-18%20Agile%20Evening/HowToRunAnUnconference.pdf which summarize it.
+We might write a summary of how we do our unconferences on this page. But until then, check the ebook "How to run an internal conference":https://leanpub.com/unconference, it's mostly based on Crisp. You can also check "these slides":https://dl.dropboxusercontent.com/u/1018963/Projects/2013-06-18%20Agile%20Evening/HowToRunAnUnconference.pdf which summarize it.
