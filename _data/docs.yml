@@ -16,6 +16,7 @@
 
 - title: Supporting practices
   docs:
+  - unconference.html
   - hack-summit.html
   - crisplets.html
   - contracts.html

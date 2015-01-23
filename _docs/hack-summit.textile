@@ -1,6 +1,6 @@
 ---
 title: "Hack Summit"
-prev_section: bun-protocol.html
+prev_section: unconference.html
 next_section: crisplets.html
 ---
  
