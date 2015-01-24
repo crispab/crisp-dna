@@ -894,31 +894,49 @@ footer a:hover {
   position: relative;
   margin: 40px -20px 10px;
 
- /* > div { width: 49.5%; }*/
+  /* > div { width: 49.5%; }*/
+}
 
-  a,
-  span {
+.section-nav .disabled {
+    opacity: .5;
+    cursor: default;
+  }
+
+.section-nav .next, .prev { position: relative; }
+
+.section-nav .prev, .prev:hover { padding-left: 30px; }
+.section-nav .next, .next:hover { padding-right: 30px; }
+
+.section-nav a:hover {
+    color: #fff;
+    background-color: #5599E1; /* was #888*/
+}
+
+.section-nav a {
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
     padding: 8px 12px 10px;
-    /* @include border-radius(5px); */
-    /*border: 1px solid #333;*/
-    /* @include box-shadow(0 1px 3px rgba(0,0,0,.3), inset 0 1px 1px rgba(255,255,255,.5)); */
-    background-color: #767676;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #333;
+    box-shadow: 0 1px 3px rgba(0,0,0,.3), inset 0 1px 1px rgba(255,255,255,.5);
+    background-color: #2a7fda; /* was #767676 */
   }
 
-  a:hover {
-    color: #fff;
-    background-color: #888;
+.section-nav div { width: 49.5%; }
+
+.section-nav .next:after {
+    right: 10px;
   }
 
-  .next,
-  .prev { position: relative; }
+.section-nav .prev:before {
+    left: 10px;
+  }
 
-  .next:after,
-  .prev:before {
+.section-nav .next:after, .prev:before {
     font-size: 36px;
     color: #222;
     font-weight: 900;
@@ -926,25 +944,3 @@ footer a:hover {
     position: absolute;
     top: -7px;
   }
-
-  .next:after {
-    content: '\203A';
-    right: 10px;
-  }
-
-  .prev:before {
-    content: '\2039';
-    left: 10px;
-  }
-
-  .prev,
-  .prev:hover { padding-left: 30px; }
-
-  .next,
-  .next:hover { padding-right: 30px; }
-
-  .disabled {
-    opacity: .5;
-    cursor: default;
-  }
-}
