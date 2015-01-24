@@ -902,11 +902,6 @@ footer a:hover {
     cursor: default;
 }
 
-.section-nav .next, .section-nav .prev { position: relative; }
-
-.section-nav .prev, .section-nav .prev:hover { padding-left: 30px; }
-.section-nav .next, .section-nav .next:hover { padding-right: 30px; }
-
 .section-nav a:hover {
     color: #fff;
     background-color: #5599E1; /* was #888*/
@@ -916,6 +911,7 @@ footer a:hover {
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
+    text-shadow: 0 1px 3px rgba(0,0,0,.5);
     font-weight: 700;
     padding: 8px 12px 10px;
     -webkit-border-radius: 5px;
@@ -926,15 +922,7 @@ footer a:hover {
     background-color: #2a7fda; /* was #767676 */
   }
 
-.section-nav .next:after {
-    content: '\203A';
-    right: 10px;
-  }
-
-.section-nav .prev:before {
-    content: '\2039';
-    left: 10px;
-  }
+.section-nav .next, .section-nav .prev { position: relative; }
 
 .section-nav .next:after, .section-nav .prev:before {
     font-size: 36px;
@@ -944,3 +932,17 @@ footer a:hover {
     position: absolute;
     top: -7px;
   }
+
+.section-nav .next:after {
+    /* content: '\203A'; */
+    /* right: 10px; */
+  }
+
+.section-nav .prev:before {
+    /* content: '\2039'; */
+    /* left: 10px; */
+  }
+
+.section-nav .prev, .section-nav .prev:hover { padding-left: 12px; }
+.section-nav .next, .section-nav .next:hover { padding-right: 12px; }
+
