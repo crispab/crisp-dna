@@ -45,7 +45,7 @@ h2. Core structure and practices
 * "Economic model":economic-model.html - how does money flow through the system?
 * "How we make decisions":decisions.html - how do decisions get made when there is no manager?
 * "Recruiting":recruiting.html - how do new people get in?
-* "Communication" - how do we collaborate, sync, and improve?
+* "Communication":communication.html - how do we collaborate, sync, and improve?
 * "Bun protocol":bun-protocol.html - how do we handle customer enquiries and route to the right consultant?
 * "Dashboard":dashboard.html - how do we see the big picture?
 * "Office team" - how do we handle admin and day-to-day operations?
@@ -64,7 +64,6 @@ Interesting stuff, but not core. Some of these haven't been written up. "Comment
 * "Crisp unconference":unconference.html - how our bi-annual unconference works
 * "Hack summit":hack-summit.html - how we geek out together and learn from each other
 * "Email conventions" - how we get transparancy without information overflow
-* "Communication tools" - other stuff that we use: wiki, slack, google docs, trello, etc.
 * "Courses and event production" - how do courses and events get produced?
 * "Crisplets":crisplets.html - how do bottom-up initiatives get funded?
 * "Sales" - how do we actually sell consultants?
