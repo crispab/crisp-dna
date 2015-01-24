@@ -512,6 +512,10 @@ aside#sidebar p.repo-owner a {
   font-weight: bold;
 }
 
+aside#sidebar h4 {
+  padding-left: 40px;
+}
+
 #downloads {
   margin-bottom: 40px;
 }
