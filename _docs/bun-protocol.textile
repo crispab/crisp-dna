@@ -1,6 +1,6 @@
 ---
 title: Buns
-prev_section: recruiting.html
+prev_section: communication.html
 next_section: dashboard.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Recruiting
 prev_section: decisions.html
-next_section: bun-protocol.html
+next_section: communication.html
 ---
 
 h1. Recruitment - how we grow

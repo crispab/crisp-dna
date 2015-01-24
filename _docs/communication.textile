@@ -1,0 +1,11 @@
+---
+title: Communication
+prev_section: recruiting.html
+next_section: bun-protocol.html
+---
+
+h1. Communication
+
+Our main communication forums are:
+* "Crisp Unconference":unconference.html (twice per year)
+* Team mailing list - a single mailing list with everyone on it. We use simple "email conventions":email-conventions.html to separate must-read stuff from general discussions.
