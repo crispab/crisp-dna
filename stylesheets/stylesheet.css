@@ -856,7 +856,6 @@ footer a:hover {
   aside#sidebar {
     background-image: none;
     margin-top: 20px;
-    border-top: solid 1px #ddd;
     padding: 20px 0;
     min-height: 0;
   }
