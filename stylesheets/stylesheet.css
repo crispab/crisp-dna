@@ -892,6 +892,7 @@ footer a:hover {
   text-align: center;
   padding-top: 40px;
   position: relative;
+  background: url(../images/article-footer.png) top center no-repeat;
   margin: 40px -20px 10px;
 }
 
