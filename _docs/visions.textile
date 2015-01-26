@@ -1,0 +1,33 @@
+---
+title: Visions
+---
+
+h1. Visions
+
+One big aha in our evolution was when we realized that Crisp itself is just a platform. 
+
+Crisp itself doesn't have a Vision (with a Big V), other than to be a "nice home for consultants":what-is-crisp.html.
+
+However, many of the _people_ at Crisp do have a vision. Here are ones that most people agree with, and nobody disagrees with:
+
+*Vision 1:*
+* Swedish original: "Hjälpa företag att få nytta av Lean/Agile"
+* English translation: "Help companies benefit from Lean/Agile"
+
+*Vision 2:*
+* Swedish original: "Utveckla företag och organisationer så att människor där trivs, utvecklas, och skapar ökande värde "
+* English translation: "Develop companies and organizations so the people there can be happy, can develop themselves, and create increasing value."
+
+h2. How we work with visions
+
+We're guided by this principles (which we agreed upon on one of our unconferences):
+
+* Crisp can have several visions
+* They can and should only be changed at our unconferences, so everyone can discuss
+* The visions apply between the unconferences
+* If you miss an unconference, you are automatically considered to "stand aside" (see our "hand signals":hand-signals.html)
+* 
+
+
+!../assets/Visions.jpg(How we identified our visions)!
+
