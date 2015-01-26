@@ -12,6 +12,7 @@ Our *main internal communication channels* are:
 * Team mailing list - a single mailing list with everyone on it. We use simple "email conventions":email-conventions.html to separate must-read stuff from general discussions, and the "Bun protocol":bun-protocol.html to route client inquiries to the right consultant.
 * "Board meetings":board.html every month.
 * "Slack":http://www.slack.com for chattier stuff (previously Skype)
+* "Signup":https://github.com/crispab/signup - a homegrown tool that to send invites and keep track of who is coming to a meetup. We use it for things like keeping track of who is coming to the next unconference.
 
 Most decisions are made, and most problems solved, in one of the above forums.
 
