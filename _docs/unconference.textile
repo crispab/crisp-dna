@@ -1,6 +1,6 @@
 ---
 title: Unconference
-prev_section: office-team.html
+prev_section: industries-that-we-avoid.html
 next_section: hack-summit.html
 ---
 

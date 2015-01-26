@@ -52,14 +52,14 @@ h2. Core structure and practices
 * "Board of directors":board.html - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
 * "Our business" - what type of work we do
 * "Conflict handling" - 
-* "Vision" - What we have agreed upon so far? How to you get a bunch of autonomous consultants to agree on a vision?
+* "Visions":visions.html - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
 
 h2. Supporting practices
 
 Interesting stuff, but not core. Some of these haven't been written up. "Comment on an issue":https://github.com/crispab/crisp-dna/issues if something feels extra interesting!
 
 
-* "Industries that we avoid" - 
+* "Industries that we avoid":industries-that-we-avoid.html - 
 * "Rocket Days" - how we learn from each other
 * "Crisp unconference":unconference.html - how our bi-annual unconference works
 * "Hack summit":hack-summit.html - how we geek out together and learn from each other

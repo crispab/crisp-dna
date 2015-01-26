@@ -15,9 +15,12 @@
   - bun-protocol.html
   - dashboard.html
   - office-team.html
+  - board.html
+  - visions.html
 
 - title: Supporting practices
   docs:
+  - industries-that-we-avoid.html
   - unconference.html
   - hack-summit.html
   - email-conventions.html

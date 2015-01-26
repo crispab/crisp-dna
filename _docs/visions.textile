@@ -1,5 +1,7 @@
 ---
 title: Visions
+prev_section: board.html
+next_section: industries-that-we-avoid.html
 ---
 
 h1. Visions

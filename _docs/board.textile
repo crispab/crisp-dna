@@ -1,5 +1,7 @@
 ---
 title: Board
+prev_section: office-team.html
+next_section: visions.html
 ---
 
 h1. Board of directors

@@ -1,0 +1,46 @@
+---
+title: Industries that we avoid
+prev_section: visions.html
+next_section: unconference.html
+---
+
+h1. Industries that we avoid
+
+Currently we avoid the arms industry and the surveillance industry.
+
+To avoid unnecessary conflicts within Crisp we have agreed to avoid working with industries that some/many of us has a very strong opinion against. Not everyone is against working with theses industries, but no one really love working with them. This is not to say that everyone hate the arms industry, only that some of us do, and the other are ok to don’t work with that industry in order to keep a happy home.
+
+*Q: What if these are industries I really want to focus on?*
+
+A: Then Crisp is probably not the right place for you.
+
+*Q: Is it OK to take an assignment within these industries?*
+
+A: Through Crisp, no. Outside Crisp it’s up to the consultant. But no Crisp material is allowed to be used in that assignment, no connection to the brand Crisp at all. The consultant needs to take that through their own firm.
+
+*Q: Why isn’t it up to each and one of the consultants who to work with?*
+
+A: It is! Just not through Crisp. See answer above.
+
+*Q: If I really love industry X, and I suspect that some at Crisp really hate it, what happens then?*
+
+A: It depends how much you love it vs how much the other hate it :o)
+
+A mental model is to divide industries between what you feel is 
+* Green:  “I love that industry, and I would be really upset if I’m not allowed to work with that”
+* Grey: “It’s OK to work with but if someone has a very strong opinion against, I’ll do something else.
+* Black: It’s not OK for me to work with and I think it will contaminate the Crisp if anyone is working with that.
+
+If you have a something on your black-list, bring it up on a conference and see if anyone else has it on their green list. If not then that industry is easy added to the list.
+
+If you have something on your green list, bring it up and make sure it’s not on anyones black list (currently there’s only the arms and surveillance industry).
+
+The only problem we have is if something is on someones green list and on some other persons black-list. 
+Has not happened yet
+
+*Q: What happens when a client from these industries “knocks on the door”?*
+
+A: We turn them down.
+
+An exception is public classes where we don’t have the bandwidth to filter in advance. But there’s no active work on follow up assignments.
+
