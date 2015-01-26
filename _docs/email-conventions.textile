@@ -48,18 +48,16 @@ Examples:
 Another variant of this is DEG (= dough in Swedish). That means the email contains a lead that might turn into a bun, for example if someone heard a client mention that they may need another consultant.
 * DEG: Company Y may need coaching
 
-h2. Use email filters!
+h2. Email filtering
 
-We *strongly* recommended using an email filter to separate out the unimportant stuff. The subject line conventions make this really easy!
-
-Gmail example:
+The subject line conventions above make it really easy to create email filters to separate out the unimportant stuff. Gmail example:
 
 bc. to:team@crisp.se -firstname.lastname@crisp.se
 subject:-OSA -OBS -BULLE
 
-The filter says "Any email that is sent to the team list, and not directly to me, and doesn't have OBS/OSA/BULLE in the Subject". For these emails, configure Gmail to skip the Inbox and apply the label "crisp".
+The filter will identify any email that is sent to the team list, and not directly to me, and doesn't have OBS/OSA/BULLE in the Subject. For these emails, configure Gmail to skip the Inbox and apply the label "crisp". That way you could respond quickly to OBS/OSA/BULLE and then cherry-pick among the other emails at your leisure. 
 
-That way you could respond quickly to OBS/OSA/BULLE and then cherry-pick among the other emails at your leisure.
+Some do this, while others skip the filter and read all team email. It's up to each individual. The important thing is that everyone knows that you can't expect everyone to read your email unless you write OBS or OSA.
 
 h2. Keep long discussions off the list
 
