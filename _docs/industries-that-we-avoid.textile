@@ -23,7 +23,7 @@ To maintain a "happy home":what-is-crisp.html with mutual respect, we've agreed 
 
 h2. How do we decide which industries are blacklisted?
 
-If you are _strongly_ against any specific industry, bring it up at the next unconference (or better yet, before joining Crisp). The decision boils down to how much you hate that industry vs how much other love it :o)
+If you are _strongly_ against any specific industry, bring it up at the next "unconference":unconference.html (or better yet, before joining Crisp). The decision boils down to how much you hate that industry vs how much others love it :o)
 
 A useful mental model is for each person to classify that industry: 
 * *Green:*  “I love that industry, and I would be really upset if I’m not allowed to work with that”
