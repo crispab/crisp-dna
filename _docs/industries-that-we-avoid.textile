@@ -8,39 +8,50 @@ h1. Industries that we avoid
 
 Currently we avoid the arms industry and the surveillance industry.
 
-To avoid unnecessary conflicts within Crisp we have agreed to avoid working with industries that some/many of us has a very strong opinion against. Not everyone is against working with theses industries, but no one really love working with them. This is not to say that everyone hate the arms industry, only that some of us do, and the other are ok to don’t work with that industry in order to keep a happy home.
+h2. Why do we avoid these industries?
 
-*Q: What if these are industries I really want to focus on?*
+Our two "core values":what-is-crisp.html "Freedom" and "Heart over Wallet" can sometimes collide. For example when it comes to which industries we work in. Some Crispers feel very strongly against the arms industry and the surveillance industry - for them, "Heart over Wallet" means avoiding those industries even if it means a loss of profit, and they don't want to associate with a consulting company that works with these industries.
 
-A: Then Crisp is probably not the right place for you.
+On the other hand, our "Freedom" principle means that people can work with whatever they want, and some of us have no moral qualms with these industries.
 
-*Q: Is it OK to take an assignment within these industries?*
+So what gives? 
 
-A: Through Crisp, no. Outside Crisp it’s up to the consultant. But no Crisp material is allowed to be used in that assignment, no connection to the brand Crisp at all. The consultant needs to take that through their own firm.
+To maintain a "happy home":what-is-crisp.html with mutual respect, we've agreed on this compromise:
 
-*Q: Why isn’t it up to each and one of the consultants who to work with?*
+# Crisp doesn't work with industries that at least one Crisper has a strong opinion against (currently Arms and Surveillance).
+# If someone really wants to take on such a client, they must do so outside of Crisp. 
 
-A: It is! Just not through Crisp. See answer above.
+h2. How do we decide which industries are blacklisted?
 
-*Q: If I really love industry X, and I suspect that some at Crisp really hate it, what happens then?*
+If you are _strongly_ against any specific industry, bring it up at the next unconference (or better yet, before joining Crisp). The decision boils down to how much you hate that industry vs how much other love it :o)
 
-A: It depends how much you love it vs how much the other hate it :o)
+A useful mental model is for each person to classify that industry: 
+* *Green:*  “I love that industry, and I would be really upset if I’m not allowed to work with that”
+* *Grey:* “I'm OK with that industry, but if someone has a very strong opinion against, I’m OK with avoiding it.
+* *Black:* "It’s not OK for me to work with that industry. I think it will contaminate the Crisp, and I'd rather leave in that case."
 
-A mental model is to divide industries between what you feel is 
-* Green:  “I love that industry, and I would be really upset if I’m not allowed to work with that”
-* Grey: “It’s OK to work with but if someone has a very strong opinion against, I’ll do something else.
-* Black: It’s not OK for me to work with and I think it will contaminate the Crisp if anyone is working with that.
+If an industry is on your Black list, and it isn't on anyone else's Green list, then we add it to the list of industries to avoid.
 
-If you have a something on your black-list, bring it up on a conference and see if anyone else has it on their green list. If not then that industry is easy added to the list.
+The only problem we have is if the industry is Green for one person and Black for someone else. That's never happened so far though. The industries that are Black to some people have always been Grey for everyone else (and therefore OK to blacklist).
 
-If you have something on your green list, bring it up and make sure it’s not on anyones black list (currently there’s only the arms and surveillance industry).
+h2. Is it OK to take an assignment within these industries?
 
-The only problem we have is if something is on someones green list and on some other persons black-list. 
-Has not happened yet
+Through Crisp, no. Outside Crisp it’s up to the consultant. But no Crisp material is allowed to be used in that assignment, no connection to the brand Crisp at all. The consultant needs to take that through their own company. "Off the record" so to speak. 
 
-*Q: What happens when a client from these industries “knocks on the door”?*
+h2. What if these are industries that I want to focus on?
 
-A: We turn them down.
+If you are a new candidate and one of our blacklisted industries is Green for you, then Crisp probably isn't the right place for you.
 
-An exception is public classes where we don’t have the bandwidth to filter in advance. But there’s no active work on follow up assignments.
+If you are a Crisper already, you have some options:
+* Option 1: Convince the existing Blacks (people who hate that industry) to change to Gray.
+* Option 2: Adapt your stance. Change your own Green to Gray.
+* Option 3: Leave Crisp.
+
+In practice this has never been a problem though. 
+
+h2. What happens when a client from these industries “knocks on the door”?
+
+By default we turn them down, and describe our policy.
+
+One exception is public classes, since we don’t have the bandwidth to screen each course participant for which industry they comes from. Another exception is if one of us specifically wants that job, and is willing to do it outside of Crisp. But that's quite rare.
 
