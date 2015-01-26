@@ -28,3 +28,4 @@ In geek-terms, Crisp is a "runtime environment for consultants" :o)
 
 Here's the "story of how we came up with this A3":http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000.
 
+bq. If you "clone the Crisp model":how-to-copy.html, you don't necessarily have to have the same values. Use your values! What's important to you and your buddies? However, our model is very much derived from our core values. So the closer your values are to ours, the better our model will fit your context.
