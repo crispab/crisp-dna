@@ -6,30 +6,36 @@ next_section: industries-that-we-avoid.html
 
 h1. Visions
 
-One big aha in our evolution was when we realized that Crisp itself is just a platform. 
+One big aha in our evolution was when we "realized":http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000 that Crisp itself is just a platform. Crisp doesn't have a Vision (with a Big V), we just want Crisp to be a "nice home for consultants":what-is-crisp.html.
 
-Crisp itself doesn't have a Vision (with a Big V), other than to be a "nice home for consultants":what-is-crisp.html.
+However, many of the _people_ at Crisp do have a vision. Here are the most widely shared visions:
 
-However, many of the _people_ at Crisp do have a vision. Here are ones that most people agree with, and nobody disagrees with:
+*Vision 1: "Help companies benefit from Lean/Agile"*
+(Swedish original: "Hjälpa företag att få nytta av Lean/Agile")
 
-*Vision 1:*
-* Swedish original: "Hjälpa företag att få nytta av Lean/Agile"
-* English translation: "Help companies benefit from Lean/Agile"
+*Vision 2: "Develop companies and organizations so the people there can be happy, improve, and create increasing value."*
+(Swedish original: "Utveckla företag och organisationer så att människor där trivs, utvecklas, och skapar ökande värde")
 
-*Vision 2:*
-* Swedish original: "Utveckla företag och organisationer så att människor där trivs, utvecklas, och skapar ökande värde "
-* English translation: "Develop companies and organizations so the people there can be happy, can develop themselves, and create increasing value."
+
+h2. Why do we have multiple visions?
+
+Because people don't all have to want the same thing. We're in this home together because we have a common set of values, not because we have to have the same vision and goals. People can work on whatever they are passionate about, and if enough other Crispers share the same passion it implicitely becomes a Crisp vision.
 
 h2. How we work with visions
 
-We're guided by this principles (which we agreed upon on one of our unconferences):
+We're guided by these principles (which we agreed upon on one of our "unconferences":unconference.html):
 
-* Crisp can have several visions
-* They can and should only be changed at our unconferences, so everyone can discuss
-* The visions apply between the unconferences
-* If you miss an unconference, you are automatically considered to "stand aside" (see our "hand signals":hand-signals.html)
-* 
+* Crisp can have several visions.
+* They can and should only be changed at our unconferences, so everyone can discuss.
+* The visions apply between the unconferences.
+* If you miss an unconference, you are automatically considered to "stand aside" (see our "hand signals":hand-signals.html).
 
-
+Here is how we decided on these two particular missions:
 !../assets/Visions.jpg(How we identified our visions)!
+
+It was a standing vote, where people could move their avatars to show their stance on each of the suggested vision statements. As discussion happened and the statements were improved, people moved their avatars around. Gradually we reached strong consensus on two of them (and almost on a third one).
+
+h2. Does everyone have to agree with these visions?
+
+No. In fact, if you look at the photo above, at least 10 people voted "stand aside" for both visions. That means they are fine with that vision, but personally have other priorities. And that's perfectly fine.
 
