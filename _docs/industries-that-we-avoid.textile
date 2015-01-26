@@ -28,7 +28,7 @@ If you are _strongly_ against any specific industry, bring it up at the next "un
 A useful mental model is for each person to classify that industry: 
 * *Green:*  “I love that industry, and I would be really upset if I’m not allowed to work with that”
 * *Grey:* “I'm OK with that industry, but if someone has a very strong opinion against, I’m OK with avoiding it.
-* *Black:* "It’s not OK for me to work with that industry. I think it will contaminate the Crisp, and I'd rather leave in that case."
+* *Black:* "It’s not OK for me to work with that industry. I think it will contaminate the Crisp brand, and I'd rather leave in that case."
 
 If an industry is on your Black list, and it isn't on anyone else's Green list, then we add it to the list of industries to avoid.
 
@@ -43,9 +43,9 @@ h2. What if these are industries that I want to focus on?
 If you are a new candidate and one of our blacklisted industries is Green for you, then Crisp probably isn't the right place for you.
 
 If you are a Crisper already, you have some options:
-* Option 1: Convince the existing Blacks (people who hate that industry) to change to Gray.
-* Option 2: Adapt your stance. Change your own Green to Gray.
-* Option 3: Leave Crisp.
+* *Option 1:* Convince the existing Blacks (people who hate that industry) to change to Gray.
+* *Option 2:* Adapt your stance. Change your own Green to Gray, and accept that the industry is blacklisted at Crisp.
+* *Option 3:* Leave Crisp.
 
 In practice this has never been a problem though. 
 
