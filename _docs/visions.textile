@@ -1,6 +1,6 @@
 ---
 title: Visions
-prev_section: board.html
+prev_section: conflict-handling.html
 next_section: industries-that-we-avoid.html
 ---
 
@@ -16,6 +16,7 @@ However, many of the _people_ at Crisp do have a vision. Here are the most widel
 *Vision 2: "Develop companies and organizations so the people there can be happy, improve, and create increasing value."*
 (Swedish original: "Utveckla företag och organisationer så att människor där trivs, utvecklas, och skapar ökande värde")
 
+PS: that doesn't mean we're all coaches. In fact, most of us are developers. See "our business":our-business.html.
 
 h2. Why do we have multiple visions?
 

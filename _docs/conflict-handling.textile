@@ -1,0 +1,9 @@
+---
+title: Conflict handling
+prev_section: our-business.html
+next_section: visions.html
+---
+
+h1. Conflict handling
+
+TODO
