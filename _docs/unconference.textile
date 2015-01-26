@@ -1,6 +1,6 @@
 ---
 title: Unconference
-prev_section: dashboard.html
+prev_section: office-team.html
 next_section: hack-summit.html
 ---
 
