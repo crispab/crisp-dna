@@ -63,7 +63,7 @@ Interesting stuff, but not core. Some of these haven't been written up. "Comment
 * "Rocket Days" - how we learn from each other
 * "Crisp unconference":unconference.html - how our bi-annual unconference works
 * "Hack summit":hack-summit.html - how we geek out together and learn from each other
-* "Email conventions" - how we get transparancy without information overflow
+* "Email conventions":email-conventions.html - how we get transparancy without information overflow
 * "Courses and event production" - how do courses and events get produced?
 * "Crisplets":crisplets.html - how do bottom-up initiatives get funded?
 * "Sales" - how do we actually sell consultants?

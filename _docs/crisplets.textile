@@ -1,6 +1,6 @@
 ---
 title: Crisplets
-prev_section: hack-summit.html
+prev_section: email-conventions.html
 next_section: contracts.html
 ---
 
