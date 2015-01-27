@@ -26,7 +26,7 @@ In comparison, the other Crispers (the consultants) don't have salaries and don'
 
 h2. What about sales?
 
-The office team doesn't really do sales, although they indirectly support the sales process (for example by routing client requests, as per the "Bun Protocol":bun-protocol.html). Sales is done mostly by the consultants themselves, and by our sales coordinator. See "Sales":sales.html.
+The office team doesn't really do sales, although they indirectly support the sales process (for example by routing client requests, as per the "Bun Protocol":bun-protocol.html). Sales is done mostly by the consultants themselves, and by our business developer. See "Sales":sales.html.
 
 
 
