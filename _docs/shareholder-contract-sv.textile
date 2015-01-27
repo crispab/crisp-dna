@@ -2,7 +2,7 @@
 title: Shareholder contract, Swedish original
 ---
 
-h1. Aktieäkaravtal
+h1. Aktieägaravtal
 
 Mellan:
 
