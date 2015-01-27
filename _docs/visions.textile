@@ -11,10 +11,8 @@ One big aha in our evolution was when we "realized":http://blog.crisp.se/2010/05
 However, many of the _people_ at Crisp do have a vision. Here are the most widely shared visions:
 
 *Vision 1: "Help companies benefit from Lean/Agile"*
-(Swedish original: "Hjälpa företag att få nytta av Lean/Agile")
 
 *Vision 2: "Develop companies and organizations so the people there can be happy, improve, and create increasing value."*
-(Swedish original: "Utveckla företag och organisationer så att människor där trivs, utvecklas, och skapar ökande värde")
 
 PS: that doesn't mean we're all coaches. In fact, most of us are developers. See "our business":our-business.html.
 
