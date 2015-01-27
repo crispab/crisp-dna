@@ -6,4 +6,61 @@ next_section: decisions.html
 
 h1. Economic Model
 
-The high level economic model is summarized in "How Crisp Works":how-crisp-works.html, but we may add more details here.
+The high level economic model is summarized in "How Crisp Works":how-crisp-works.html. Here are some concrete examples to make it more clear.
+
+h2. Example: One month 
+
+Suppose Joe is a Crisp consultant, and his current client is Innitech. Joe's consulting fee is €100 per hour. And suppose the current Crisp fee is 10% + €500/month. 
+
+# During January, Joe does 100 hours of work for Innitech.
+# At the end of January, Joe adds one row to the invoicing spreadsheet (a single shared Google doc for everyone at Crisp), noting that Innitech should be invoiced €10,000 for January.
+# The "office team":office-team.html sends a €10,000 invoice from Crisp to Innitech, for Joe's services.
+# Joe sends a €9,000 invoice from his personal company to Crisp (€10,000 minus the 10% Crisp "tax").
+
+*Result for January:*
+Innitech pays €10,000, Joe earns €9,000, Crisp earns €1,000.
+
+In addition, once per quarter Crisp will send a €1500 invoice to Joe's company (3 x €500, the monthly fixed fee).
+
+So let's put it all together.
+
+h2. Example: One year 
+
+Suppose Joe earns the same amount as above, every month for a year. In that case the net result is:
+* Innitech paid €120,000 for Joe's services (€10,000 x 12 months)
+* Joe earned €108,000 for his work at Innitech (90% of the incomine from Innitech)
+* Crisp earned €12,000 from Joe's work at Innitech (10% of the income from Innitech)
+* In addition, Joe paid €6000 to Crisp in fixed fees (€500 x 12 months)
+* *Result for the year:*
+** Innitech: -€120,000
+** Joe: +€102,000 
+** Crisp: +€18,000
+
+h2. Example: hitting the ceiling
+
+Suppose the Crisp fee ceiling is €20,000 per year. 
+
+And suppose Joe gets famous for his specialty skills in cybersecurity, and manages to land a €200/hour gig at Cyberdyne (something about robots, they're very secretive about it)! Joe still works 100 hours per month (reserving the rest of his time for hobby projects and family). 
+
+That means Joe will pull in about €240,000, which means the Crisp fee would be €24,000. That's way past the €20,000 ceiling, and we haven't even taken the fixed €500/month into account. The point of having a ceiling is to make sure the cost of being at Crisp doesn't get out of hand for the highest paid consultants.
+
+Joe tells the office team that he's most likely going to hit the ceiling this year, so there's no point bothering with the % fee. Instead, Joe keeps 100% of what he earns, and Crisp just invoices him the ceiling fee of €5000 per quarter (= €20,000 per year divided into 4 quarters). Simple.
+
+If he turns out to be wrong (because Cyberdyne cancels his engagement) then they'll have to go back and recalculate. No big deal, it's just an internal calculation that the customers don't see.
+
+h2. Example: adjusting the fees
+
+At the end of the fiscal year, the "board":board.html notices that Crisp is accumulating too much money (we want to maintain a limited liquidity buffer and not build up piles of cash), so they lower the fee to 9% + €400/month, and lower the ceiling to €18,000/year. Yay!
+
+Check "how Crisp works":how-crisp-works.html if you are curious about why we don't want Crisp to earn a big profit.
+
+h2. What about taxes and VAT?
+
+Taxes and VAT? Oh yes, that messes up the clean calculations above... :o)
+
+We have experts hired to deal with that, and much of that is country-specific, so we won't bore you with details.
+
+
+
+
+
