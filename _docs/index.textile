@@ -67,8 +67,6 @@ Interesting stuff, but not core. Some of these haven't been written up. "Comment
 * "Courses and event production" - how do courses and events get produced?
 * "Crisplets":crisplets.html - how do bottom-up initiatives get funded?
 * "Sales" - how do we actually sell consultants?
-* "Invoicing" - how do we know which invoices to send?
-* "Shared assets" - what are our shared assets and how do we manage them?
 * "Contracts":contracts.html - our internal contracts for Crisp membership, ownership, etc.
 * "Brand building" - how do we build the brand, both Crisp and personal brands?
 * "Hand signals" - How do we ensure great discussions in large groups?
