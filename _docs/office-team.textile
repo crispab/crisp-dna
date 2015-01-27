@@ -9,12 +9,12 @@ h1. Office team
 We have an office team 3 full-time employees that are based in our office in Stockholm, plus some extra staff that are pulled in when needed. The office team does most of the the non-consulting work needed to run the day to day operations.
 
 Things like:
-* Client invoicing and payment followup
-* Course and event administration (setting up registration pages, handling customer inquiries, sending emails, etc)
-* Office management (making sure new people have keys, organizing cleaning, ordering books, buy furniture and course materials, etc)
-* Organize the bi-annual "Crisp unconference":unconference.html
+* Client invoicing and payment followup.
+* Course and event administration (setting up registration pages, handling customer inquiries, sending emails, etc).
+* Office management (making sure new people have keys, organizing cleaning, ordering books, buy furniture and course materials, etc).
+* Organize the bi-annual "Crisp unconference":unconference.html.
 
-That's just a few examples, not a complete list. The office team does _a lot_ of stuff!
+These are just a few examples, not a complete list. The office team does _a lot_ of stuff!
 
 h2. Who is the line manager of the office staff?
 
