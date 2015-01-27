@@ -28,7 +28,7 @@ h2. Example: One year
 
 Suppose Joe earns the same amount as above, every month for a year. In that case the net result is:
 * Innitech paid €120,000 for Joe's services (€10,000 x 12 months)
-* Joe earned €108,000 for his work at Innitech (90% of the incomine from Innitech)
+* Joe earned €108,000 for his work at Innitech (90% of the income from Innitech)
 * Crisp earned €12,000 from Joe's work at Innitech (10% of the income from Innitech)
 * In addition, Joe paid €6000 to Crisp in fixed fees (€500 x 12 months)
 * *Result for the year:*
