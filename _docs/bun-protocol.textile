@@ -130,14 +130,14 @@ We've used this protocol for years and we very rarely have serious conflicts aro
 
 The "conflict handling process":conflict-handling.html should help solve the edge cases.
 
-h3. What are the alternatives to the bun protocol?
+h3. What would be alternatives to the bun protocol?
 
 Let's say something important comes in, such as a request from a new potential client. Some alternatives to the bun protocol would be:
 
-* *Alternative A: I can do whatever I want.* Perfectly fine to let the email sit unanswered in my inbox, or throw away the email without answer the client.
+* *Alternative A: I can do whatever I want.* Perfectly fine to let the email sit unanswered in my inbox, or throw away the email without answering the client.
 ** *Result:* Lost business, disappointed customers, disappointed colleagues. My friend might have wanted that client, and I dumped it. Next time he'll dump a client that I would have wanted.
 * *Alternative B: All client requests have to be sent to person X* (for example the business developer).
-** *Result:* Business developer becomes a bottleneck. He becomes ineffective and stressed, clients don't get timely responses. And we miss the chance to utilize the collective intellect of the rest of the team.
+** *Result:* Business developer becomes a bottleneck. She becomes ineffective and stressed, clients don't get timely responses. And we miss the chance to utilize the collective intellect of the rest of the team.
 * *Alternative C: I have to be responsible for this request until it is completely resolved, I can't hand over to someone else.*
 ** *Result:* Stress and ineffectiveness, since I can't detach from a request that doesn't interest me. If I get a request that is more suitable for someone else, it is more effective for all parties if I connect the client with that person and eject myself from the loop.
 
