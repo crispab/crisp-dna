@@ -6,7 +6,7 @@ next_section: recruiting.html
 
 h1. How we make decisions
 
-How do decisions get made in a decentralized organized with no managers?
+How do we make decisions in a decentralized organized with no managers?
 
 Note – for allocation of consultants to client engagements we have a specific protocol for that – the "bun protocol":bun-protocol.html. Similar for recruitment decisions.
 
@@ -14,7 +14,7 @@ h2. Why don’t we have a well defined decision-making process?
 
 We make lots of decisions all the time. Which type of coffee machine to buy? Should our internal fees be raised? Where & when is our next Crisp unconference? Which partners should we invite?
 
-Different types of decisions need a different process. It would be crazy to involve the whole team in decisions like which type of whiteboard pens to buy. And it would be crazy to NOT involve the whole team in questions related to organizational structure, or the team "membership fee":economic-model.html.
+Different types of decisions need a different process. It would be crazy to involve the whole team in decisions like which type of whiteboard pens to buy. And it would be crazy to NOT involve the whole team if we needed to move our office to a new location.
 
 So it’s not a good idea to have one single well-defined decision process for everything. And it’s not a good idea to try to list all potential decision types and create a well-defined process for each type, the list would be too long and complex, and there would be too many gray zones.
 
@@ -52,11 +52,12 @@ These decisions processes can be combined. For example, start by getting input f
 Some things to consider when choosing a decisions process:
 
 * *Who is affected?* Only you? You and a few others? The whole team?
-* *How important is this question for you?* How important is it for those who are affected? Is it a critical decision or trivial one?
+* *How important is this question to you?* How important is it to those who are affected? Is it a critical decision or trivial one?
 * *Is the decision reversable?* Most decisions are. What is the consequence of making the “wrong” decision, and who is affected by that?
 * *How easy or hard is the decision?* How easy is it to reach consensus with all people affected?
 * *How urgent is the decision?* What is the consequence of delaying the decision, or not making a decision at all?
 * *Who are you?* The decision process may vary depending on your perspective – consultant, board member, office admin, etc. May also depend on how long you’ve been at Crisp (if you are new and unsure you might need to seek more anchoring from people).
+* *Is the outcome affected by laws?* The board of directors in a Swedish company is bound by Swedish laws, so some decisions must be aligned with the board of directors.
 
 Sample decisions:
 
