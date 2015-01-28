@@ -1,6 +1,6 @@
 ---
 title: Visions
-prev_section: conflict-handling.html
+prev_section: our-business.html
 next_section: industries-that-we-avoid.html
 ---
 
