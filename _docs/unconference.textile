@@ -30,7 +30,7 @@ Basically, the conference is where the Crisp DNA strengthens and evolves!
 
 The conference cost (travel, hotel, etc) is split evenly between all consultants, whether or not you attend. That way there's not much economic incentive to skip the conference (as in "I'm a bit low on cash now, so I'm skipping the conference"). You pay either way so you might as well attend :)
 
-In practice attendance has not been a problem so far. We usually have at least 90% of the company there, and our surveys show that people appreciate the conferences. Also, our "happiness index":happiness-index.html usually makes a small jump up after each conference (since we usually solve ome of the pain points that the happiness survey revealed).
+In practice attendance has not been a problem so far. We usually have at least 90% of the company there, and our surveys show that people appreciate the conferences. Also, our "happiness index":happiness-index.html usually makes a small jump up after each conference (since we usually solve some of the pain points that the happiness survey revealed).
 
 h2. Guiding principles
 
