@@ -1,7 +1,7 @@
 ---
 title: Unconference
-prev_section: industries-that-we-avoid.html
-next_section: hack-summit.html
+prev_section: sales.html
+next_section: email-conventions.html
 ---
 
 h1. Crisp Unconference

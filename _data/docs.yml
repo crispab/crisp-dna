@@ -18,16 +18,21 @@
   - board.html
   - our-business.html
   - visions.html
+  - sales.html
+  - unconference.html
 
 - title: Supporting practices
   docs:
-  - industries-that-we-avoid.html
-  - unconference.html
-  - hack-summit.html
   - email-conventions.html
+  - hand-signals.html
+  - industries-that-we-avoid.html
+  - hack-summit.html
   - crisplets.html
-  - contracts.html
   - conflict-handling.html
+  - contracts.html
+  - building-competence.html
+  - courses-and-event-production.html
+  - brand-building.html
 
 - title: Meta
   docs:

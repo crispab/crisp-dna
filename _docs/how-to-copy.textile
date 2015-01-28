@@ -1,6 +1,6 @@
 ---
 title: "How to clone the Crisp DNA"
-prev_section: conflict-handling.html
+prev_section: brand-building.html
 next_section: 
 ---
 

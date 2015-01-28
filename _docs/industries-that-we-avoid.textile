@@ -1,7 +1,7 @@
 ---
 title: Industries that we avoid
-prev_section: visions.html
-next_section: unconference.html
+prev_section: hand-signals.html
+next_section: hack-summit.html
 ---
 
 h1. Industries that we avoid

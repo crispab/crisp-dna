@@ -1,5 +1,7 @@
 ---
 title: Sales
+prev_section: visions.html
+next_section: unconference.html
 ---
 
 h1. How we do sales

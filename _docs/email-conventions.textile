@@ -1,7 +1,7 @@
 ---
 title: Email conventions
-prev_section: hack-summit.html
-next_section: crisplets.html
+prev_section: unconference.html
+next_section: hand-signals.html
 ---
 
 h1. Email conventions

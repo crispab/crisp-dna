@@ -1,7 +1,7 @@
 ---
 title: Crisplets
-prev_section: email-conventions.html
-next_section: contracts.html
+prev_section: hack-summit.html
+next_section: conflict-handling.html
 ---
 
 h1. Crisplets

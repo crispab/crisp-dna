@@ -1,7 +1,7 @@
 ---
 title: Conflict handling
-prev_section: contracts.html
-next_section: how-to-copy.html
+prev_section: crisplets.html
+next_section: contracts.html
 ---
 
 h1. Conflict handling
