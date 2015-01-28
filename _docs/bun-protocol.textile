@@ -12,7 +12,7 @@ bq. We introduced this to Crisp a few years ago because we had just created a li
 
 h2. The metaphor
 
-!../assets/Bun.jpg(Typical Swedish Kanelbulle!)!
+!../assets/Bun.jpg(Sia's Homebaked Kanelbulle! Yum!)!
 
 When a bun (= issue or request) comes in it is warm, juicy and soft. If it sits around for a day it will get cold. If it sits around several days it will become dry and hard. You can warm up an old bun in the microwave oven as long as it hasn't become too dry.
 
