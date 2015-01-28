@@ -1,5 +1,5 @@
 ---
-title: Visions
+title: Our visions
 prev_section: our-business.html
 next_section: industries-that-we-avoid.html
 ---
