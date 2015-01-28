@@ -12,7 +12,7 @@ Our *main internal communication channels* are:
 * Team mailing list - a single mailing list with everyone on it. We use simple "email conventions":email-conventions.html to separate must-read stuff from general discussions, and the "Bun protocol":bun-protocol.html to route client inquiries to the right consultant.
 * "Board meetings":board.html every month.
 * "Slack":http://www.slack.com for chattier stuff (previously Skype)
-* "Signup":https://github.com/crispab/signup - a homegrown tool that to send invites and keep track of who is coming to a meetup. We use it for things like keeping track of who is coming to the next unconference.
+* "Signup":https://github.com/crispab/signup - a homegrown tool used for sending invites and keep track of who is coming to a meetup. We use it for things like keeping track of who is coming to the next unconference.
 
 Most decisions are made, and most problems solved, in one of the above forums.
 
@@ -25,6 +25,7 @@ Where we *store info*:
 * GitHub - a github organization account for shared code and, well, the Crisp DNA that you are reading right now.
 
 How we *communicate with the outside world*:
+* Our website - "www.crisp.se":http://www.crisp.se
 * Our blog - "blog.crisp.se":http://blog.crisp.se
 * A mailing list for our customers and course participants, we send information about upcoming courses about once or twice per quarter. 
 * Twitter - our twitter handle is "@crisp_":https://twitter.com/crisp_/

@@ -22,7 +22,7 @@ h2. Our conflict handling process (ongoing experiment!)
 
 _... if the conflict didn't get solved:_
 
-2. Invite a facilitator/mediator that both parties trust. The facilitator's role is to help the parties find a mutually acceptable solution, not try to force in his/her own solution.
+2. Invite a facilitator/mediator that both parties trust. The facilitator's role is to help the parties find a mutually acceptable solution, not try to force his/her own solution upon the conflicting parties.
 
 _... if the conflict didn't get solved:_
 

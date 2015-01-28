@@ -10,7 +10,7 @@ Formally, Crisp doesn't really have a business area. We are consultants and peop
 
 In practice though, because of our history and the people who happen to work at Crisp, we've evolved two main business areas:
 
-# *Software development*. Mostly Java-based. Mostly longer engagements and close to full-time.
+# *Software development*. Mostly on top of the Java VM. Mostly longer engagements and close to full-time.
 # *Agile/Lean coaching and training*. Mostly shorter engagements or part-time.
 
 That is, most Crispers happen to spend most of their time in one of those two areas. Some have one foot in each though.

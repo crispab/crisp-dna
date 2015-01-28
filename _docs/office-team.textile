@@ -6,7 +6,7 @@ next_section: board.html
 
 h1. Office team
 
-We have an office team 3 full-time employees that are based in our office in Stockholm, plus some extra staff that are pulled in when needed. The office team does most of the the non-consulting work needed to run the day to day operations.
+We have an office team of 3 full-time employees that are based in our office in Stockholm, plus some extra staff that are pulled in when needed. The office team does most of the the non-consulting work needed to run the day to day operations.
 
 Things like:
 * Client invoicing and payment followup.

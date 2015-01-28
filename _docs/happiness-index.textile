@@ -23,8 +23,8 @@ h2. Survey questions
 The 3 main questions in the survey are:
 
 * *How happy are you with being at Crisp*? This is the main overarching happiness index.
-* *How happy are you with your tasks in Crisp*? This means internal work such as board meetings, conference facilitation, or creating this Crisp DNA site. This is especially relevant for our "office team":office-team.html, who do most internal work and have external no clients of their own.
-* *How happy are you with your current client, or your bench situation?* We make this separate number, because sometimes a person could be really happy with Crisp, but sad about the current client. Or vice versa. For people who are on the bench (= no client at the moment), the can express how they feel about that (sometimes people WANT to be on the bench).
+* *How happy are you with your tasks in Crisp*? This means internal work such as board meetings, conference facilitation, or creating this Crisp DNA site. This is especially relevant for our "office team":office-team.html, who do most internal work and have no external clients of their own.
+* *How happy are you with your current client, or your bench situation?* We measure this separately, because sometimes a person could be really happy with Crisp, but sad about the current client. Or vice versa. For people who are on the bench (= no client at the moment), this can express how they feel about that (sometimes people WANT to be on the bench).
 
 The scale is:
 * 5 = Super-happy! Don't want to change anything!
@@ -48,7 +48,7 @@ We have a few additional text columns as well, to gather further info. They are 
 
 It's very interesting to read what people write! 
 
-bq. Sometimes we get cascading effects - for example Joe is pissed off about something, and other people are sad because Joe is upset, and all numbers go down. That's good though! The problem is now highly visible and measurable, so we're more likely to fix it.
+bq. Sometimes we get cascading effects - for example Joe is pissed off about something, and other people are sad because Joe is upset, so all numbers go down. That's good though! The problem is now highly visible and measurable, so we're more likely to fix it.
 
 
 h2. How we use the happiness data

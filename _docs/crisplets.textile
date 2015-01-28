@@ -32,7 +32,7 @@ h2. What is required of a Crisplet
 * A wiki page describing the purpose of the Crisplet, how collaboration is done and who has joined
 * A link from the list of Crisplets to the wiki page describing the Crisplet
 * All Crisplets are open to all Crispers
-* Every new Crisplet is announced over e-mail with a "OBS: " subject prefix. See: "E-mail conventions".
+* Every new Crisplet is announced over e-mail with a "OBS: " subject prefix. See: "E-mail conventions":email-conventions.html.
 
 h2. Crisplet Accounts
 
@@ -40,7 +40,7 @@ The activities in a Crisplet may have costs. To avoid needing the agreement of a
 
 h3. Example of a Crisplet Account
 
-Let's say five people in a Crisplet wants to start using a new service for online Kanban-boards from Boardflex Inc. Crisp will then pay for the service and distribute the costs to the people in the Crisplet by invoicing their respective companies. If a many Crispers join the Crisplet, or if the product/service is used by the Crisp Office, the board can decide to move the cost to the shared expenses of Crisp. (unless the cost is over the limit the board has mandate to take)
+Let's say five people in a Crisplet wants to start using a new service for online Kanban-boards from Boardflex Inc. Crisp will then pay for the service and distribute the costs to the people in the Crisplet by invoicing their respective companies. If many Crispers join the Crisplet, or if the product/service is used by the Crisp Office, the board can decide to move the cost to the shared expenses of Crisp. (unless the cost is over the limit the board has mandate to take)
 
 h3. Purposes of a Crisplet
 
