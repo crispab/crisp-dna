@@ -1,0 +1,9 @@
+---
+title: Building competence
+prev_section: contracts.html
+next_section: courses-and-event-production.html
+---
+
+h1. Building competence
+
+TODO
