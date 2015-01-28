@@ -58,7 +58,7 @@ h2. Supporting practices
 Interesting stuff, but not core. Some of these haven't been written up. "Comment on an issue":https://github.com/crispab/crisp-dna/issues if something feels extra interesting!
 
 
-* "Industries that we avoid":industries-that-we-avoid.html - 
+* "Industries that we avoid":industries-that-we-avoid.html - why we avoid certain industries
 * "Rocket Days" - how we learn from each other
 * "Crisp unconference":unconference.html - how our bi-annual unconference works
 * "Hack summit":hack-summit.html - how we geek out together and learn from each other
@@ -69,7 +69,7 @@ Interesting stuff, but not core. Some of these haven't been written up. "Comment
 * "Contracts":contracts.html - our internal contracts for Crisp membership, ownership, etc.
 * "Brand building" - how do we build the brand, both Crisp and personal brands?
 * "Hand signals" - How do we ensure great discussions in large groups?
-* "Conflict handling":conflict-handling.html - 
+* "Conflict handling":conflict-handling.html - How do we make sure conflicts are constructive rather than destructive?
 
 h2. Meta
 
