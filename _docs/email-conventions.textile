@@ -75,6 +75,15 @@ bq. Once upon a time we had a big problem with sour discussions polluting the em
 
 We don't mind conflict and debate. It's just that email (especially the team list) is a lousy forum for it.
 
+h2. Other informal email conventions
+
+These additional subject prefixes are used from time to time. Not because we decided to, but because people simply started using them and they've stuck around.
+
+* *SKRYT* (boast): "I'm proud of something and want to boast a bit!". If you're proud of something, why not sing it out load and get some pats on the back!
+* *OFFTOPIC*: "This doesn't really have anything to do with Crisp, but what the heck..."
+* *KORRLÄS* (proofread): "Please proofread my article & help me improve it"
+* *DAGBOK* (diary): "Here's what's going on in my life right now". Always interesting to read!
+* *HJÄLP* (help): "I need help!"
 
 
 
