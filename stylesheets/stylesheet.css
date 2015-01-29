@@ -923,7 +923,9 @@ footer a:hover {
     background-color: #2a7fda; /* was #767676 */
   }
 
-.section-nav .next, .section-nav .prev { position: relative; }
+.section-nav .next, .section-nav .prev {
+  position: relative;
+}
 
 .section-nav .next:after, .section-nav .prev:before {
     font-size: 36px;
@@ -932,17 +934,17 @@ footer a:hover {
     text-shadow: 0 1px 0 rgba(255,255,255,.4);
     position: absolute;
     top: -7px;
-  }
+}
 
 .section-nav .next:after {
     /* content: '\203A'; */
     /* right: 10px; */
-  }
+}
 
 .section-nav .prev:before {
     /* content: '\2039'; */
     /* left: 10px; */
-  }
+}
 
 .section-nav .prev, .section-nav .prev:hover { padding-left: 12px; }
 .section-nav .next, .section-nav .next:hover { padding-right: 12px; }
