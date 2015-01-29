@@ -43,11 +43,13 @@ Here are some exampels of different decisions processes on a scale from “fast�
 * *Own decision*. Decide yourself without talking to anyone.
 * *Own decision with team input*. Ask for input from the team, but then make the decision yourself.
 * *Own decision with team-anchoring*. Ask for input from the team, suggest a decision, check if the team is OK with it before closing the decision.
-* *Team decision*. Facilitate a decision from the whole team (normally through concensus, with majority vote as fallback if we can’t reach consensus).
+* *Team decision*. Facilitate a decision from the whole team (using concensus, with majority vote as fallback if we can’t reach consensus).
 
 The term “team” in this case really means “those who are affected by the decision”. Sometimes the whole team, sometimes just a few individuals.
 
 These decisions processes can be combined. For example, start by getting input from the whole team, then suggest a decision and anchor with those people who are most directly affected.
+
+For simple decisions, this communication can happen via email or an online poll. For more complex or sensitive decisions, face-to-face conversation is better. We usually do those at our "unconference":unconference.html, using "hand signals":hand-signals.html to support the conversation and decision process.
 
 Some things to consider when choosing a decisions process:
 
@@ -96,7 +98,7 @@ So, decision making can look like this:
 !../assets/BigGroupTalking.jpg(big decision)!
 
 
-bq. This was the meeting where we decided to remove the CEO role. For a few years we’d had a rotating CEO role, timeboxed to 30% of fulltime. A small group (including the current CEO) discussed the issue during our "unconference":unconference.html, and brought up the concrete proposal to the whole team at the end of the day. A quick consensus check (via "thumb vote":hand-signals.html) and the decision was done! We agreed that the CEO role had fulfilled a purpose, but now the "office team":office-team.html was capable of dealing with stuff without having a CEO.
+bq. This was the meeting where we decided to remove the CEO role. For a few years we’d had a rotating CEO role, timeboxed to 30% of fulltime. A small group (including the current CEO) discussed the issue during our "unconference":unconference.html, and brought up the concrete proposal to the whole team at the end of the day. A quick consensus check (via "hand signals":hand-signals.html) and the decision was done! We agreed that the CEO role had fulfilled a purpose, but now the "office team":office-team.html was capable of dealing with stuff without having a CEO.
 (and what happened to the current CEO? Well, he was happy to be able to drop the role and go back to client-facing work!)
 
 The "open format":unconference.html of our conference is quite essential to our decision making process, plus the "hand signals":hand-signals.html.
