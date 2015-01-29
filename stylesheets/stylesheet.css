@@ -949,3 +949,6 @@ footer a:hover {
 .section-nav .prev, .section-nav .prev:hover { padding-left: 12px; }
 .section-nav .next, .section-nav .next:hover { padding-right: 12px; }
 
+.current a {
+  font-weight: 900;
+}
