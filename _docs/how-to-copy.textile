@@ -29,7 +29,7 @@ Simplest way is to "fork":https://help.github.com/articles/fork-a-repo/ the "cri
 # Surf to "http://github.com/crispab/crisp-dna":http://github.com/crispab/crisp-dna.
 # Press the "Fork" button on the top right somewhere (here's a "direct link":https://github.com/crispab/crisp-dna/fork).
 # You should now have your own copy of the crisp dna! 
-# Start editing! The articles are all in the _docs folder. Try opening _docs/index.md, and press the little pencil icon on the top right to edit it, and then commit. 
+# Start editing! The articles are all in the _docs folder, and the table of contents is in _data. Try opening _docs/index.md, and press the little pencil icon on the top right to edit it, and then commit. 
 # After your first commit the site will be auto-published at *http://YOURNAME.github.io/crisp-dna* (or whatever you decide to call your repo)
 
 Once you've cloned the dna, it's no longer the Crisp model, it's your model! Crisp is just your ancestral (and slightly weird) uncle. Change stuff as you like. Rename the company. Remove pages that aren't relevant. Change the content. Replace the pictures. Go wild. 
