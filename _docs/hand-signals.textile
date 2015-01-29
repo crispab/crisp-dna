@@ -17,25 +17,25 @@ Here are the main hand signals we use when "making decisions":decisions.html in 
 
 h3. Thumb up = Yes! I actively support this.
 
-!../assets/HandSignal-Agree.png!
+!../assets/HandSignal-Yes.png!
 
 h3. Thumb sideways = More discussion needed, I'm missing info.
 
-It doesn't mean I disagree, it just means that I need clarification.
-
 !../assets/HandSignal-Discuss.png!
+
+This doesn't mean I disagree, it just means that I need clarification.
 
 h3. Thumb down = No! I block this. But I'm willing to discuss.
 
-This means I understand the proposal, but I don't support it. Obviously I need to be willing to explain why. Sometimes the No is pretty definite, other times a minor tweak can turn the No into a Yes. Either way, further discussion is needed before we can decide.
-
 !../assets/HandSignal-No.png!
+
+This means I understand the proposal, but I don't support it. Obviously I need to be willing to explain why. Sometimes the No is pretty definite, other times a minor tweak can turn the No into a Yes. Either way, further discussion is needed before we can decide.
 
 h3. Fist forward = I stand aside. I don't need to be involved. Do whatever you want.
 
-Not all decisions affect everyone, so the fist-forward signal essentially gives the rest of the group permission to decide without me. 
-
 !../assets/HandSignal-StandAside.png!
+
+Not all decisions affect everyone, so the fist-forward signal essentially gives the rest of the group permission to decide without me. 
 
 bq. In the past we used to have just 3 signals: thumb-up, thumb-sideways, thumb-down. It worked, but we realized that thumb-sideways was a bit ambiguous. We introduced the fist-forward signal too visually distinguish between "I need more info" vs "I don't care about this". The thumb-sidways people need to be heard, the fist-forward people don't. For the full story behind this shift, see the blog post "Crisp consensus model 2.1":http://blog.crisp.se/2014/03/27/peterantman/crisp-consensus-model-2-1.
 
@@ -45,23 +45,23 @@ Discussion signals aren't needed for small group discussions (like six or less),
 
 h3. One hand up = I want to speak (put me in line)
 
-If you have something to say, and someone else is already speaking, and others seem to want to talk too, then put your hand up and wait your turn. 
-
 !../assets/HandSignal-Speak.png!
+
+If you have something to say, and someone else is already speaking, and others seem to want to talk too, then put your hand up and wait your turn. 
 
 h3. Two hands up = I have an important fact (let me me speak ASAP!)
 
-Sometimes you have a short concise piece of information that everyone should take into account before continuing the conversation (or making the decision). Yet you don't want to interrupt the current speaker. In that case two hands up puts you first in the speaking queue.
-
 !../assets/HandSignal-Fact.png!
+
+Sometimes you have a short concise piece of information that everyone should take into account before continuing the conversation (or making the decision). Yet you don't want to interrupt the current speaker. In that case two hands up puts you first in the speaking queue.
 
 h3. Circling finger = +1 (I agree with what I'm hearing right now)
 
-The circling finger is a silent way of saying "Amen bro! I'm right wit' you on dat!"
+!../assets/HandSignal-Agree.png!
+
+The circling finger is a silent way of saying "Amen bro!! I'm right wit'cha on dat!"
 
 Feels pretty good to see a bunch of circling fingers as you present your opinion on something (as opposed to arms crossed and frowning...)!
-
-!../assets/HandSignal-Agree.png!
 
 h2. How a big-group decision is made using hand signals
 
