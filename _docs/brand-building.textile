@@ -6,4 +6,38 @@ next_section: how-to-copy.html
 
 h1. Brand building
 
-TODO
+OK, none of us are experts at brand building. But we've nevertheless ended up with a strong brand within "our business":our-business.html, so here are some thoughts on how that happened.
+
+As a consulting company, building a strong brand requires two things:
+# Delight your clients
+# Be visible
+
+Both are needed. If we *only* delight our clients, but aren't visible to the world, then the brand won't get strong (except to those few that already know about us). If we are highly visible but _not_ delighting our clients, then the brand won't get strong either. Well, OK, there are companies that can pull of that trick, but it's not our style...
+
+h2. How we delight our clients
+
+We kind of cheat here, because our model only attracts the type of consultants that were already pretty good at delightning their clients - with or without Crisp. In fact, that's a requirement (see "recruiting":recruiting.html)! We don't have an army of sales people chasing down clients for you, and you don't get any kind of base salary if you don't have a client, so it really is in your own interest to delight your clients!
+
+Also, our model attracts the kind of people that like to learn things and spread knowledge. And clients appreciate that.
+
+h2. How we make ourselves visible
+
+Visibility happens as a result of two things:
+
+# Provide plenty of ways for Crispers to communicate with the world (web site, blog, course venue, etc)
+# Get out of their way so they can shine
+
+Again, because our model attracts the kind of people that like to learn and spread knowledge, all we have to do is make sure nothing gets in the way. That way, a bunch of cool stuff happens automatically, such as:
+
+* "Blog articles":http://blog.crisp.se/
+* "Books":https://www.crisp.se/bocker-och-produkter
+* "Public courses":https://www.crisp.se/kurser and evening seminars
+* "Talks and keynotes":http://blog.crisp.se/tag/slides at public conferences
+* Partnerships with well-known people like "Jeff Sutherland":http://en.wikipedia.org/wiki/Jeff_Sutherland, "Mary Poppendieck":http://www.poppendieck.com/people.htm, "Jeff Patton":http://www.agileproductdesign.com, and many more.
+* Physical products such as "Planning Poker":https://www.crisp.se/bocker-och-produkter/planning-poker and "Jimmy Cards":https://www.crisp.se/bocker-och-produkter/jimmy-cards
+
+So the Crisp brand is a whole that is greater than the sum of it's parts - a bunch of creative individuals sharing stuff with the world, and indirectly building up their personal brands. 
+
+Definitely a win-win-win situation! Win for the individual, Win for Crisp, and Win for the world (because of all the free stuff :o)
+
+
