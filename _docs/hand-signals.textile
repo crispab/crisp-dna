@@ -6,4 +6,28 @@ next_section: industries-that-we-avoid.html
 
 h1. Hand signals
 
-TODO
+Hand signals are an essential part of our "communication":communication.html and "decision-making":decisions.html system.
+
+Think about it. If 25 people are sitting in a big circle, and one person wants to find out how they feel about a decision, what's fastest? Asking everyone to speak up? Asking everyone to write on stickynotes or fill in a survey? Those ways are fine if you want details. But if you just want a quick temperature check, or test for agreement, then hand signals are superior - because it takes just 10 seconds for everyone to hold up a hand signal and see what everyone else thinks.
+
+
+h2. Decisions signals
+
+h3. Thumb up = Yes! I actively support this.
+
+!../assets/HandSignal-Agree.png!
+
+h3. Thumb sideways = More discussion needed, I'm missing info.
+
+!../assets/HandSignal-Discuss.png!
+
+h3. Thumb down = No! I block this. But I'm willing to discuss.
+
+!../assets/HandSignal-No.png!
+
+h3. Fist forward = I stand aside. I don't need to be involved. Do whatever you want.
+
+!../assets/HandSignal-StandAside.png!
+
+h2. Discussion signals
+
