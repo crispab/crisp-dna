@@ -12,7 +12,7 @@ As a consulting company, building a strong brand requires two things:
 # Delight your clients
 # Be visible
 
-Both are needed. If we *only* delight our clients, but aren't visible to the world, then the brand won't get strong (except to those few that already know about us). If we are highly visible but _not_ delighting our clients, then the brand won't get strong either. Well, OK, there are companies that can pull of that trick, but it's not our style...
+Both are needed. If we *only* delight our clients, but aren't visible to the world, then the brand won't get strong (except to those few that already know about us). If we are highly visible but _not_ delighting our clients, then the brand won't get strong either. Well, OK, there are companies that can pull off that trick, but it's not our style...
 
 h2. How we delight our clients
 
@@ -30,6 +30,7 @@ Visibility happens as a result of two things:
 Again, because our model attracts the kind of people that like to learn and spread knowledge, all we have to do is make sure nothing gets in the way. That way, a bunch of cool stuff happens automatically, such as:
 
 * "Blog articles":http://blog.crisp.se/
+* "YouTube channel":https://www.youtube.com/user/crispagileacademy
 * "Books":https://www.crisp.se/bocker-och-produkter
 * "Public courses":https://www.crisp.se/kurser and evening seminars
 * "Talks and keynotes":http://blog.crisp.se/tag/slides at public conferences
@@ -37,6 +38,12 @@ Again, because our model attracts the kind of people that like to learn and spre
 * Physical products such as "Planning Poker":https://www.crisp.se/bocker-och-produkter/planning-poker and "Jimmy Cards":https://www.crisp.se/bocker-och-produkter/jimmy-cards
 * "Open Source Software":https://github.com/crispab
 * ... and, of course this "dna.crisp.se":http://dna.crisp.se site!
+
+h2. It's all about co-branding
+
+As consultants we are very proud to be at Crisp, and we are very proud of our colleagues. Which is why we have a page with all of us listed in alphabetic first name order on our "consultants page":https://www.crisp.se/konsulter. From there you can browse to each individual consultants page, where each of us is free to elaborate on skills in any way we wish. You'll find phone numbers and email addresses - go ahead and call any of us, have a chat, offer us employment if you dare, and prepare to fail :o). Many have tried, some of us Crispers have been severly tempted, but with a select few exceptions we all stay. We believe this is the reason why most other consulting companies hide their consultants - they're afraid they might be called by recruiters and leave for greener pastures.
+
+We believe consulting doesn't have to be a "market for lemons":http://blog.crisp.se/2010/10/20/matshenricson/konsultmarknaden_behver_inte_vara_en_market_for_lemons and our philosophy is to be as transparent as possible. You will never be assigned an anonymous consultant from Crisp - it will always be Lars or Anna, individuals. Our CVs all look different, which may seem unprofessional, but we will always be individuals under the same umbrella.
 
 So the Crisp brand is a whole that is greater than the sum of it's parts - a bunch of creative individuals sharing stuff with the world, and indirectly building up their personal brands. 
 
