@@ -18,11 +18,11 @@ Driving principles:
 * Each course or event has a Producer
 * As Producer, you "own" the course. You are responsible for the course as whole, including course design, quality, marketing, etc.
 * As Producer, you use the Crisp Calendar (a shared Google calendar) to book the classroom and make sure there isn't a conflict.
-* As Producer, you owns the financial result of your course (win or loss). Just like with consulting, Crisp retains X% of your profit (see "economic model":economic-model.html).
+* As Producer, you own the financial result of your course (win or loss). Just like with consulting, Crisp retains X% of your profit (see "economic model":economic-model.html).
 * Crisp's role is to be the "platform", providing things such as a classrom (we have a classroom at our office in Stockholm), onsite assistance (serving coffee & snacks, etc) and lots of administrative support (invoices, lunch reservation, email communication, registration page, etc). The "office team":office-team.html organizes all of that.
 * Crisp will charge the producer a fixed course admin fee (usually around €600-700 per day), an all-inclusive fee that covers the cost of the office and all administrative support.
 
-he Producer doesn't necessarily have to teach the course (although that's the most common case). Sometimes a producer will invite a "star" (someone outside of Crisp who is a well-known "guru" within his/her field) and host or co-teach a course.
+The Producer doesn't necessarily have to teach the course (although that's the most common case). Sometimes a producer will invite a "star" (someone outside of Crisp who is a well-known "guru" within his/her field) and host or co-teach a course.
 
 h2. Example
 
@@ -30,14 +30,14 @@ Here's a high-level summary of what happens with a typical course:
 
 # Joe decides to teach an Agile Engineering course.
 # Joe opens the Crisp calendar on Google, finds an open slot Feb 12-13, and writes "LOKAL: Agile Engineering course (Joe)". (LOKAL means "venue" in Swedish, our convention for booking different parts of the office)
-# Joe asks the "office team":office-team.html to set up a registration page. He's tought this course before, so they copy-paste from last course instance.
+# Joe asks the "office team":office-team.html to set up a registration page. He has tought this course before, so they copy-paste from last course instance.
 # Joe synchronizes with other producers to make sure his course is mentioned in the next marketing email (see next section below).
-# Registrations start coming in. We have a home-grown tool to process registrations and send email confirmations. Course registartions automatically end up in Google Spreadsheet.
-# The office team sends invoices to participants, and follows up payment.
-# About a week before the course, the office team send a welcome email to the course participants
+# Registrations start coming in. We have a home-grown tool to process registrations and send email confirmations. Course registrations automatically end up in Google Spreadsheet.
+# About a week before the course, the office team sends a welcome email to the course participants
 # Feb 12 arrives. Joe shows up at Crisp. Breakfast is served, handouts printed, everything ready to go thanks to the awesome office team!
+# This is also the day when the office team sends invoices to participants. They will also follow up on payment.
 # At the end of the course, he asks people to fill in a course feedback sheet. He notes some improvement ideas, calculates the Net Promoter Score, and adds a row to our shared Course Log (see Quality below).
-# The office team send an email to all course participants with link to course materials and such. They also add the course participants to our mailing list for future event notifications (they can ofcourse opt out at any time)
+# The office team sends an email to all course participants with a link to course materials and such. They also add the course participants to our mailing list for future event notifications (they can of course opt out at any time)
 # Joe figures out the course profit and sends an invoice to Crisp (minus the "Crisp tax":economic-model.html, just like with any consulting).
 
 h2. Quality and customer feedback
@@ -60,9 +60,13 @@ Typically one of the producers of an upcoming course will take lead on this, tal
 
 h2. What if people don't sign up?
 
-Together we have a really big network so most courses work out. In some cases, however, the registrations just don't come in, and if it's really bad we have to cancel.
+Together we have a really big network so most courses at least brake even. In some cases, however, the registrations just don't come in, and if it's really bad we have to cancel.
 
 Fortunately, Crisp doesn't charge the Producer for a course if it got canceled. It's like a small insurance (or failure cushion). As a result, the cost of canceling a course is quite low for the producer (except for damaged pride). Why? Because we _want_ people to experiment with new types of courses, since that benefits everyone in the long run. Make innovation easier by minimizing the cost of failure!
 
-This model works as long as nobody gets too wreckless! Too many canceled courses would hurt the Crisp brand (see "how we build the brand":brand-building). So far that hasn't been a problem though.
+h3. Fake it till you make it
+
+A few Crispers puts up registrations for courses for which no course material exists. If noone signs up, then noone is harmed. If enough people sign-up, then there can be a mad scramble to create the course the few weeks before the course. This may not sound like a serious way to run things, but in a way it is like a lean startup - make a minimal product and see if it flies. And regardless of how professional a course may seem, the first time it was held the teachers were out on a limb and very nervous about it.
+
+This model works as long as nobody gets too reckless! Too many canceled courses would hurt the Crisp brand (see "how we build the brand":brand-building). So far that hasn't been a problem though.
 
