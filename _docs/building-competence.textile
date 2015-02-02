@@ -15,11 +15,11 @@ bq. The first years Crisp wasn't even a company. We were just a handful of indep
 Here are some things we do to keep learning:
 * Our bi-yearly "unconference":unconference.html
 * "Hack Summit":hack-summit.html - two days off site, relaxing and geeking out together
-* RD - a meetup where someone presents something interesting that they've learned recently (see above)
-* GDWC - Get Drunk With Crisp - a pub night that happens from time to time.
+* RD - a meetup where someone presents something interesting that they've learned recently (see above). Here's a page in Swedish which lists the "topics we talked about from 2002-2012":https://www.crisp.se/om-crisp/crisp-internutbildning
+* GDWC - Get Drunk With Crisp - a pub night that happens from time to time
 * Invite our favorite gurus and rock stars to come to Stockholm and teach courses or co-train with us
-* Peer-coaching workshops, where the agile coaches meet to help each other figure out problems
-* Active "mailing list":mail-conventions.html and chat. 
+* Peer-coaching workshops, where the agile coaches meet to help each other solve problems
+* Active "mailing list":mail-conventions.html and chat
 * Write "articles":http://blog.crisp.se and "books":https://www.crisp.se/bocker-och-produkter (sometimes in pairs). 
 * Create and teach "courses":https://www.crisp.se/kurser (gives the teacher a very strong motivation to learn the topic!)
 * Pair-coach and pair-teach - lets us steal tricks from each other
