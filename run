@@ -2,9 +2,4 @@
 # Starts a lokal jekyll server so you can
 # run and test the crisp-dna site locally
 # on http://localhost:4000
-# The 'bundle exec' prefix causes ruby to check Gemfile,
-# which in turn will ensure that we use the same gems locally as github does.
-# That means the site will look exactly the same locally as it does on dna.crisp.se.
-# Pretty nifty!
-#
-bundle exec jekyll serve
+jekyll serve
