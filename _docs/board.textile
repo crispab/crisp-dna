@@ -8,7 +8,7 @@ h1. Board of directors
 
 Being a swedish company, we are required to have a board of directors. In most companies, the board is appointed by the owners to represent them so that the management group, headed by the CEO, runs the company according to the directives from the owners and the board.
 
-At Crisp, this works a little differently. First of all, "we invite all Crispers to become owners after 2 years":ownership-model.html, and second, we hold a yearly election of the board members where all Crispers (owners or not) have the right to vote. Since we have gotten rid of the CEO role, and since we have very autonomous consultants, there is really quite little to manage.
+At Crisp, this works a little differently. First of all, "we invite all Crispers to become owners after 2 years":ownership-model.html, and second, we hold a yearly election of the board members where all Crispers (owners or not) have the right to vote. Since "we have gotten rid of the CEO role":decisions.html, and since we have very autonomous consultants, there is really quite little to manage.
 
 h2. What does the board do?
 
