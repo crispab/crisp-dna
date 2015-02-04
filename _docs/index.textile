@@ -30,13 +30,15 @@ h1. Contents
 
 h2. Driving principles
 
+(these principles drive almost everything at Crisp)
+
 * "What is Crisp":what-is-crisp.html - the purpose of the company
 * "How Crisp works":how-crisp-works.html - summary of our model, and some driving principles.
 * "Why this works":why-this-works.html - why this model has served us so well
 
 h2. Core structure and practices
 
-(really just a consequence of the principles above)
+(although these are core to our model, they are mostly just consequences of the principles above)
 
 * "Happiness index":happiness-index.html - how do we know if we are succeeding?
 * "Ownership model":ownership-model.html - how do people become owners, and what ownership actually means?
@@ -55,7 +57,7 @@ h2. Core structure and practices
 
 h2. Supporting practices
 
-Interesting stuff, but not core. Some of these haven't been written up. "Comment on an issue":https://github.com/crispab/crisp-dna/issues if something feels extra interesting!
+(relevant stuff, but not core to our model)
 
 * "Email conventions":email-conventions.html - how we get transparancy without information overflow
 * "Hand signals":hand-signals.html - how do have discussions in larger groups?
