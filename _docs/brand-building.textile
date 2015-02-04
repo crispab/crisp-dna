@@ -25,7 +25,7 @@ h2. How we make ourselves visible
 Visibility happens as a result of two things:
 
 # Provide plenty of ways for Crispers to communicate with the world (web site, blog, course venue, etc)
-# Get out of their way so they can shine
+# Make sure nothing gets in their way, so they can shine
 
 Again, because our model attracts the kind of people that like to learn and spread knowledge, all we have to do is make sure nothing gets in the way. That way, a bunch of cool stuff happens automatically, such as:
 
