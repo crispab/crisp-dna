@@ -11,7 +11,7 @@ See http://dna.crisp.se/docs/how-to-copy.html
 # See the README.md there for more instructions
 
 So this repo has two main branches:
-* gh_pages (the site itself)
+* gh-pages (the site itself)
 * master (installation instructions and tools)
 
 
