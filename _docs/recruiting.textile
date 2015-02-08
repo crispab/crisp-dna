@@ -79,7 +79,7 @@ All active candidates have a "puller", in this case Mrs Y. That's our internal t
 
 Bottom line: As long as even one single Crisper is against hiring a candidate, we won't do it. We're not really fond of vetoes, but for recruiting it feels motivated. We prefer the risk of rejecting a good candidate, over the risk of accepting a bad candidate.
 
-h2. How does onboarding work?
+h2. How does on-boarding work?
 
 Welcome! You'll need to sign our "team contract":team-contract-en.html, and create your own personal company (if you don't already have one). Formally you'll be employed by your company, not Crisp. We'll help you get started.
 
