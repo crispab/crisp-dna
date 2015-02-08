@@ -12,7 +12,7 @@ bq. We introduced this to Crisp a few years ago because we had just created a li
 
 h2. The metaphor
 
-!../assets/Bun.jpg(Sia's Homebaked Kanelbulle! Yum!)!
+!../assets/Bun.jpg(Sia's Home baked Kanelbulle! Yum!)!
 
 When a bun (= issue or request) comes in it is warm, juicy and soft. If it sits around for a day it will get cold. If it sits around several days it will become dry and hard. You can warm up an old bun in the microwave oven as long as it hasn't become too dry.
 
@@ -37,7 +37,7 @@ You have 3 options:
 * *Give it to somebody else.* For example to a colleague who is more suitable than you, or another company. If you don't know exactly who should take it, email a broadcast to your colleagues or trusted partners: "Hi folks, does anybody want to take this bun?" Note that the bun is still yours until someone else takes it! If that takes more than a day or two you need to keep the bun warm (for example tell the customer that you are searching for someone who can help). So you can't push the bun to someone, you can only offer it. The receiver has to pull the bun from you.
 * *Throw it away.* For example someone emails me "Can you come and teach a Cobol course?". I answer "No". Or I answer "No, we don't do Cobol courses, but I recommend you speak to Mr CobolGeek". That still counts as throwing away the bun, since I let it go and won't follow it up. Someone else might take it out of my garbage, but I don't need to know or care if that happens :o)
 
-The one thing you should NOT do is just let the bun sit and dry. Better to explicitely throw it away in that case (i.e. tell the sender that we can't help).
+The one thing you should NOT do is just let the bun sit and dry. Better to explicitly throw it away in that case (i.e. tell the sender that we can't help).
 
 So initially a buns appears through a "push" protocol, i.e. the initial recipient gets the bun whether he wants to or not. After that, however, everything is "pull"-based.
 
@@ -88,7 +88,7 @@ Example: Customer X calls you and says they needs agile coaching. You respond "S
 
 You shouldn't have thrown away that bun. Would have been better to email your colleagues and at least given somebody a chance to take the bun before you threw it away. Live & learn!
 
-So, yes, you might accidently throw away an important bun. But that doesn't mean you have to :o)
+So, yes, you might accidentally throw away an important bun. But that doesn't mean you have to :o)
 
 h3. Why not forbid people to throw away buns?
 
@@ -122,11 +122,11 @@ We use the subject-line BULLE for all bun-routing emails (see "email conventions
 
 h3. What if several people want the same bun?
 
-Stricly speaking, the first person who takes a bun has it. And you can't take a bun from someone unless they offer it to you. So in theory we have a race condition.
+Strictly speaking, the first person who takes a bun has it. And you can't take a bun from someone unless they offer it to you. So in theory we have a race condition.
 
 In practice, whenever a potential conflict arises the involved people talk to each other (by phone or email) and decide on who should take the bun, based on who can serve the client best, who needs the bun most, and other relevant factors. 
 
-We've used this protocol for years and we very rarely have serious conflicts around bun routing. We get *potential* conflicts regulary (typically 2-3 people offering to take the same bun), but it is almost always resolved in a gentlemanly fashion, using good ol' communication and trust between the interested parties. I help you today, you help me tomorrow, and in the long it run it more or less evens out.
+We've used this protocol for years and we very rarely have serious conflicts around bun routing. We get *potential* conflicts regularly (typically 2-3 people offering to take the same bun), but it is almost always resolved in a gentlemanly fashion, using good ol' communication and trust between the interested parties. I help you today, you help me tomorrow, and in the long it run it more or less evens out.
 
 The "conflict handling process":conflict-handling.html should help solve the edge cases.
 

@@ -8,7 +8,7 @@ h1. Hand signals
 
 Hand signals are an essential part of our "communication":communication.html and "decision-making":decisions.html system, especially for important decisions that affect many people.
 
-Think about it. If 25 people are sitting in a big circle, and one person wants to find out how the others feel about a proposal, what's fastest? Asking everyone to speak up? Asking everyone to write on stickynotes or fill in a survey? Those ways are fine if you want details. But if you just want a quick temperature check, or test for agreement, then hand signals are superior! Because it takes just 10 seconds for everyone to hold up a hand signal and see what everyone else thinks.
+Think about it. If 25 people are sitting in a big circle, and one person wants to find out how the others feel about a proposal, what's fastest? Asking everyone to speak up? Asking everyone to write on sticky-notes or fill in a survey? Those ways are fine if you want details. But if you just want a quick temperature check, or test for agreement, then hand signals are superior! Because it takes just 10 seconds for everyone to hold up a hand signal and see what everyone else thinks.
 
 
 h2. Decision-making signals
@@ -37,7 +37,7 @@ h3. Fist forward = I stand aside. I don't need to be involved. Do whatever you w
 
 Not all decisions affect everyone, so the fist-forward signal essentially gives the rest of the group permission to decide without me. 
 
-bq. In the past we used to have just 3 signals: thumb-up, thumb-sideways, thumb-down. It worked, but we realized that thumb-sideways was a bit ambiguous. We introduced the fist-forward signal too visually distinguish between "I need more info" vs "I don't care about this". The thumb-sidways people need to be heard, the fist-forward people don't. For the full story behind this shift, see the blog post "Crisp consensus model 2.1":http://blog.crisp.se/2014/03/27/peterantman/crisp-consensus-model-2-1.
+bq. In the past we used to have just 3 signals: thumb-up, thumb-sideways, thumb-down. It worked, but we realized that thumb-sideways was a bit ambiguous. We introduced the fist-forward signal too visually distinguish between "I need more info" vs "I don't care about this". The thumb-sideways people need to be heard, the fist-forward people don't. For the full story behind this shift, see the blog post "Crisp consensus model 2.1":http://blog.crisp.se/2014/03/27/peterantman/crisp-consensus-model-2-1.
 
 h2. Discussion signals
 
@@ -65,7 +65,7 @@ Feels pretty good to see a bunch of circling fingers as you present your opinion
 
 h2. How a big-group decision is made using hand signals
 
-For big-group settings (like our "unconference":unconference.html) a facilitator is usually needed to support the decision making process. The details will vary, but here's a typical scenario for an important decision that will affect many paople:
+For big-group settings (like our "unconference":unconference.html) a facilitator is usually needed to support the decision making process. The details will vary, but here's a typical scenario for an important decision that will affect many people:
 
 # Someone (the decision "driver") brings up a concrete proposal (usually coming out of an open-space session)
 # A first voting round is made using the decision signals.
@@ -82,11 +82,11 @@ See "How we make decisions":decisions.html for more info on this.
 
 h2. Using hand signals without hands
 
-The hand signals can be useful without actual hands too! For example we used a multivoting technique to decide on our "visions":visions.html:
+The hand signals can be useful without actual hands too! For example we used a multi-voting technique to decide on our "visions":visions.html:
 
 !../assets/HandSignals-MultivotingChart.png!
 
-Each column was a proposed vision statement, with all names underneath on stickynotes. People could move their names up and down into the different hand-signal boxes to show how they feel about each vision statement.
+Each column was a proposed vision statement, with all names underneath on sticky-notes. People could move their names up and down into the different hand-signal boxes to show how they feel about each vision statement.
 
 The people in the "No" boxes were asked to explain their objection - do they dislike the vision itself, or just how it is phrased? The people in the "Discuss" were invited to ask questions for clarification. 
 

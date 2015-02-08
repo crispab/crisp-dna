@@ -6,7 +6,7 @@ next_section: hand-signals.html
 
 h1. Email conventions
 
-How do we get transparancy without email overflow? 
+How do we get transparency without email overflow? 
 
 Answer: a single mailing list (the "team list"), plus a few simple subject line conventions to sort out important stuff from chatter.
 

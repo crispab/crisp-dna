@@ -24,7 +24,7 @@ Varies. We normally alternate between a small local trips (2 days at a venue nea
 
 h2. Does everyone have to attend?
 
-More or less, yes. We haven't made it a formal rule, but implicitely people are expected to attend "most" conferences (sometimes Life gets in the way of course). This is our most important team activity, and all high-impact decisions happen there. We also get to know each other better, build trust, trade knowledge, and have lots of fun! 
+More or less, yes. We haven't made it a formal rule, but implicitly people are expected to attend "most" conferences (sometimes Life gets in the way of course). This is our most important team activity, and all high-impact decisions happen there. We also get to know each other better, build trust, trade knowledge, and have lots of fun! 
 
 Basically, the conference is where the Crisp DNA strengthens and evolves!
 
@@ -66,7 +66,7 @@ h3. 2. Present the format and Brainstorm topics
 
 Gather everyone in a ring. Present the open space format & today's theme (sometimes we have a theme, sometimes not). Show the empty schedule grid, and ask people to suggest topics and write on stickies.
 
-!../assets/Unconference-BigRing.jpg(Kicking off the open spae)!
+!../assets/Unconference-BigRing.jpg(Kicking off the open space)!
 
 h3. 3. Create a schedule
 
@@ -84,13 +84,13 @@ h3. 5. Gather up for summaries and decisions
 
 One hour before the end, gather everyone back into the ring. For each topic, ask someone to do a 2 minute summary of what came out. Collect key decisions/actions on the wall. Ask if anyone else has anything to say, or if there are any decisions that need to be made while we are all gathered.
 
-We have a "consensus-based decision model":decisions.html and make diligant use of "hand signals":hand-signals.html.
+We have a "consensus-based decision model":decisions.html and make diligent use of "hand signals":hand-signals.html.
 
 !../assets/Unconference-Summary.jpg(Summaries and Decisions)!
 
 Finally we wrap up by asking people to share their key take-aways from the day.
 
-h2. Sample shedule
+h2. Sample schedule
 
 Our larger unconferences usually look something like this:
 * *Friday* = arrival day (fly in, check in to hotel, have a look around, etc)
@@ -120,7 +120,7 @@ Key benefits (compared to a more traditional conference structure):
 * *Less up-front planning.* No need for someone to set up a detailed agenda ahead of time.
 * *More flexibility.* Once we have everyone together, we may discover unexpected topics that are of great interest and importance. With a dynamic agenda, we can capture the moment and maximize the value of the conference.
 * *Spontaneous conversations.* Often the most valuable parts of a conference are the informal conversations that happen between people in different teams or roles, who don't normally work together. The open space format encourages this.
-* *It works as a quality/interest filter.* Lets assume you are all fired up about something new, say Bitcoin, and want the whole company to join you in some Bitcoin effort. During the brainstorming phase, you suggest a Bitcoin topic and it gets added to the schedule. When it is time time for your Bitcoin session, what if only you show up? Well, now you know, with some certainty, and in a really visual and awkward way, that noone else really share your enthusiasm for Bitcoin. Shit happens. Life goes on. Use your two feet and go somewhere else where there's action! :-)
+* *It works as a quality/interest filter.* Lets assume you are all fired up about something new, say Bitcoin, and want the whole company to join you in some Bitcoin effort. During the brainstorming phase, you suggest a Bitcoin topic and it gets added to the schedule. When it is time time for your Bitcoin session, what if only you show up? Well, now you know, with some certainty, and in a really visual and awkward way, that no one else really share your enthusiasm for Bitcoin. Shit happens. Life goes on. Use your two feet and go somewhere else where there's action! :-)
 
 We sometimes try other (less open) formats, and it's good to vary a bit. But we keep gravitating back to the open-space format, because the law of 2 feet is just such a powerful thing!
 
