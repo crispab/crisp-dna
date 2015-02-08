@@ -25,7 +25,7 @@ You don’t need a well-defined decision process in order to make decisions. If 
 Instead, we follow these principles/guidelines:
 
 * *The person driving an issue owns the decision process.*
-* *A decision is only a decision if there is a “puller” who follows up on the execution.* (we use the term "driver" and "puller" interchangably)
+* *A decision is only a decision if there is a “puller” who follows up on the execution.* (we use the term "driver" and "puller" interchangeably)
 * *Important decisions should be documented in our "decision log":dashboard.html and emailed to everyone* 
 * Some decisions lead to funded “projects”, like our new website. The people involved in something like that form a Crisplet. To get funding, there needs to be two “pullers” throughout the whole project. In practice, we seldom have big projects and rarely need to use this model.
 
@@ -38,12 +38,12 @@ Henrik: "Well, we didn’t. I just noticed that people sometimes ask 'so how do 
 
 h2. How do I pick a decision process?
 
-Here are some exampels of different decisions processes on a scale from “fast” to “well-anchored”.
+Here are some examples of different decisions processes on a scale from “fast” to “well-anchored”.
 
 * *Own decision*. Decide yourself without talking to anyone.
 * *Own decision with team input*. Ask for input from the team, but then make the decision yourself.
 * *Own decision with team-anchoring*. Ask for input from the team, suggest a decision, check if the team is OK with it before closing the decision.
-* *Team decision*. Facilitate a decision from the whole team (using concensus, with majority vote as fallback if we can’t reach consensus).
+* *Team decision*. Facilitate a decision from the whole team (using consensus, with majority vote as fallback if we can’t reach consensus).
 
 The term “team” in this case really means “those who are affected by the decision”. Sometimes the whole team, sometimes just a few individuals.
 
@@ -55,7 +55,7 @@ Some things to consider when choosing a decisions process:
 
 * *Who is affected?* Only you? You and a few others? The whole team?
 * *How important is this question to you?* How important is it to those who are affected? Is it a critical decision or trivial one?
-* *Is the decision reversable?* Most decisions are. What is the consequence of making the “wrong” decision, and who is affected by that?
+* *Is the decision reversible?* Most decisions are. What is the consequence of making the “wrong” decision, and who is affected by that?
 * *How easy or hard is the decision?* How easy is it to reach consensus with all people affected?
 * *How urgent is the decision?* What is the consequence of delaying the decision, or not making a decision at all?
 * *Who are you?* The decision process may vary depending on your perspective – consultant, board member, office admin, etc. May also depend on how long you’ve been at Crisp (if you are new and unsure you might need to seek more anchoring from people).
@@ -98,7 +98,7 @@ So, decision making can look like this:
 !../assets/BigGroupTalking.jpg(big decision)!
 
 
-bq. This was the meeting where we decided to remove the CEO role. For a few years we’d had a rotating CEO role, timeboxed to 30% of fulltime. A small group (including the current CEO) discussed the issue during our "unconference":unconference.html, and brought up the concrete proposal to the whole team at the end of the day. A quick consensus check (via "hand signals":hand-signals.html) and the decision was done! We agreed that the CEO role had fulfilled a purpose, but now the "office team":office-team.html was capable of dealing with stuff without having a CEO.
+bq. This was the meeting where we decided to remove the CEO role. For a few years we’d had a rotating CEO role, time-boxed to 30% of full-time. A small group (including the current CEO) discussed the issue during our "unconference":unconference.html, and brought up the concrete proposal to the whole team at the end of the day. A quick consensus check (via "hand signals":hand-signals.html) and the decision was done! We agreed that the CEO role had fulfilled a purpose, but now the "office team":office-team.html was capable of dealing with stuff without having a CEO.
 (and what happened to the current CEO? Well, he was happy to be able to drop the role and go back to client-facing work!)
 
 The "open format":unconference.html of our conference is quite essential to our decision making process, plus the "hand signals":hand-signals.html.
