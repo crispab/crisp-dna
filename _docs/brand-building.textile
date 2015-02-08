@@ -1,5 +1,5 @@
 ---
-title: Brand buildling
+title: Brand building
 prev_section: courses-and-event-production.html 
 next_section: how-to-copy.html
 ---
@@ -16,7 +16,7 @@ Both are needed. If we *only* delight our clients, but aren't visible to the wor
 
 h2. How we delight our clients
 
-We kind of cheat here, because our model only attracts the type of consultants that were already pretty good at delightning their clients - with or without Crisp. In fact, that's a requirement (see "recruiting":recruiting.html)! We don't have an army of sales people chasing down clients for you, and you don't get any kind of base salary if you don't have a client, so it really is in your own interest to delight your clients!
+We kind of cheat here, because our model only attracts the type of consultants that were already pretty good at delighting their clients - with or without Crisp. In fact, that's a requirement (see "recruiting":recruiting.html)! We don't have an army of sales people chasing down clients for you, and you don't get any kind of base salary if you don't have a client, so it really is in your own interest to delight your clients!
 
 Also, our model attracts the kind of people that like to learn things and spread knowledge. And clients appreciate that.
 
