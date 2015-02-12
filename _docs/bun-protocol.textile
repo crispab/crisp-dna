@@ -43,7 +43,7 @@ So initially a buns appears through a "push" protocol, i.e. the initial recipien
 
 h2. Summary of the rules
 
-* *As receiver of a bun you are responsible* until it is eaten by you, taken by someone else, or thrown away
+* *As receiver of a bun you are responsible* until it is eaten by you, taken by someone else, or thrown away. If several people are interested, sync with them.
 * *A bun should not get more than 1-2 days old* without being eaten by somebody, thrown away, or reheated (by talking to the customer/sender).
 * *You can't push a bun onto someone else, they have to pull*. The bun is yours until someone else explicitly takes it (for example by saying "I'll take the bun"). You can of course recommend (or even try to convince) someone else to take it from you. This goes both ways - if someone offers you a bun, you don't have to respond if you aren't interested.
 * When in doubt:
@@ -73,6 +73,18 @@ h2. FAQ
 h3. Does this work for all types of requests?
 
 We don't know. But it has worked well enough so far, and we haven't come up with any kind of request where it wouldn't work.
+
+h3. What if several people want the same bun?
+
+If several people are interested in the same bun, they talk to each other and sort it out. 
+
+Strictly speaking, the first person to take the bun has it, so in theory we have a race condition. In practice, however, when a potential conflict arises the involved people talk to each other (by phone or email) and decide on who should take the bun, based on who can serve the client best, who needs the bun most, and other relevant factors. 
+
+So being the bun holder doesn't really mean "this is MY client", it means more like "I'll make sure this gets taken care of!" - (by me or whoever else is most suitable).
+
+We've used this protocol for years and we very rarely have serious conflicts around bun routing. We get *potential* conflicts regularly (typically 2-3 people offering to take the same bun), but it is almost always resolved in a gentlemanly fashion, using good ol' communication and trust between the interested parties. I help you today, you help me tomorrow, and in the long it run it more or less evens out.
+
+The "conflict handling process":conflict-handling.html should help solve the edge cases.
 
 h3. What if it is a business-critical request? Shouldn't some central authority handle it?
 
@@ -119,16 +131,6 @@ Be very clear in your communication. Short, clear phrases like:
 * "I will throw this bun away if nobody takes it by Tuesday"
 
 We use the subject-line BULLE for all bun-routing emails (see "email conventions":email-conventions.html).
-
-h3. What if several people want the same bun?
-
-Strictly speaking, the first person who takes a bun has it. And you can't take a bun from someone unless they offer it to you. So in theory we have a race condition.
-
-In practice, whenever a potential conflict arises the involved people talk to each other (by phone or email) and decide on who should take the bun, based on who can serve the client best, who needs the bun most, and other relevant factors. 
-
-We've used this protocol for years and we very rarely have serious conflicts around bun routing. We get *potential* conflicts regularly (typically 2-3 people offering to take the same bun), but it is almost always resolved in a gentlemanly fashion, using good ol' communication and trust between the interested parties. I help you today, you help me tomorrow, and in the long it run it more or less evens out.
-
-The "conflict handling process":conflict-handling.html should help solve the edge cases.
 
 h3. What would be alternatives to the bun protocol?
 
