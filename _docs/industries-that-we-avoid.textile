@@ -6,7 +6,7 @@ next_section: hack-summit.html
 
 h1. Industries that we avoid
 
-Currently we avoid the arms industry and the surveillance industry.
+Currently we avoid the arms industry and the surveillance industry, and some others on a case-by-case basis.
 
 h2. Why do we avoid these industries?
 
