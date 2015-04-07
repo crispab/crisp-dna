@@ -8,7 +8,7 @@ h1. Crisp Hack Summit
 
 Crisp Hack Summit is a 2-day event where we meet up at a off-site location and hack on pet projects and similar. 
 
-Hack Summit gives everyone an\"\" opportunity to:
+Hack Summit gives everyone an opportunity to:
 
 * learn and evaluate new technology
 * hear about other experiences of techniques and tools
