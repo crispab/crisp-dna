@@ -7,7 +7,7 @@ next_section: economic-model.html
 
 h1. Ownership model
 
-Crisp is a Swedish "aktiebolag":http://sv.wikipedia.org/wiki/Aktiebolag (comparable to an english Limited company). This means there are shares, and someone has to own them.
+Crisp is a Swedish "aktiebolag":http://sv.wikipedia.org/wiki/Aktiebolag (comparable to an English limited company). This means there are shares, and someone has to own them.
 
 So who owns Crisp, how are new owners brought in, and what does ownership mean?
 
