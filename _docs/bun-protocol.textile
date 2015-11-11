@@ -21,7 +21,7 @@ So, a bun should be eaten fairly quickly or thrown away. No use stuffing it in a
 h2. Sample buns
 
 * You get an email "Hi, we want a TDD course at company X. What will it cost and when can you come?". Now you have a bun!
-* You meet someone at conference who says "I want to join your company!" Now you have a bun!
+* You meet someone at conference who says "I want to join your company!". Now you have a bun!
 
 h2. How the protocol works
 
@@ -34,7 +34,7 @@ A bun is born when someone asks you for something and you decide that "hey, this
 You have 3 options:
 
 * *Eat it yourself.* For example "Sure, I can come and do a TDD course at your company". The bun is now consumed, i.e. it has found a home and will not be routed anywhere.
-* *Give it to somebody else.* For example to a colleague who is more suitable than you, or another company. If you don't know exactly who should take it, email a broadcast to your colleagues or trusted partners: "Hi folks, does anybody want to take this bun?" Note that the bun is still yours until someone else takes it! If that takes more than a day or two you need to keep the bun warm (for example tell the customer that you are searching for someone who can help). So you can't push the bun to someone, you can only offer it. The receiver has to pull the bun from you.
+* *Give it to somebody else.* For example to a colleague who is more suitable than you, or another company. If you don't know exactly who should take it, email a broadcast to your colleagues or trusted partners: "Hi folks, does anybody want to take this bun?". Note that the bun is still yours until someone else takes it! If that takes more than a day or two you need to keep the bun warm (for example tell the customer that you are searching for someone who can help). So you can't push the bun to someone, you can only offer it. The receiver has to pull the bun from you.
 * *Throw it away.* For example someone emails me "Can you come and teach a Cobol course?". I answer "No". Or I answer "No, we don't do Cobol courses, but I recommend you speak to Mr CobolGeek". That still counts as throwing away the bun, since I let it go and won't follow it up. Someone else might take it out of my garbage, but I don't need to know or care if that happens :o)
 
 The one thing you should NOT do is just let the bun sit and dry. Better to explicitly throw it away in that case (i.e. tell the sender that we can't help).
