@@ -11,33 +11,6 @@ Hand signals are an essential part of our "communication":communication.html and
 Think about it. If 25 people are sitting in a big circle, and one person wants to find out how the others feel about a proposal, what's fastest? Asking everyone to speak up? Asking everyone to write on sticky-notes or fill in a survey? Those ways are fine if you want details. But if you just want a quick temperature check, or test for agreement, then hand signals are superior! Because it takes just 10 seconds for everyone to hold up a hand signal and see what everyone else thinks.
 
 
-h2. Decision-making signals
-
-Here are the main hand signals we use when "making decisions":decisions.html in a big group (or testing for agreement on something):
-
-h3. Thumb up = Yes! I actively support this.
-
-!../assets/HandSignal-Yes.png!
-
-h3. Thumb sideways = More discussion needed, I'm missing info.
-
-!../assets/HandSignal-Discuss.png!
-
-This doesn't mean I disagree, it just means that I need clarification.
-
-h3. Thumb down = No! I block this. But I'm willing to discuss.
-
-!../assets/HandSignal-No.png!
-
-This means I understand the proposal, but I don't support it. Obviously I need to be willing to explain why. Sometimes the No is pretty definite, other times a minor tweak can turn the No into a Yes. Either way, further discussion is needed before we can decide.
-
-h3. Fist forward = I stand aside. I don't need to be involved. Do whatever you want.
-
-!../assets/HandSignal-StandAside.png!
-
-Not all decisions affect everyone, so the fist-forward signal essentially gives the rest of the group permission to decide without me. 
-
-bq. In the past we used to have just 3 signals: thumb-up, thumb-sideways, thumb-down. It worked, but we realized that thumb-sideways was a bit ambiguous. We introduced the fist-forward signal too visually distinguish between "I need more info" vs "I don't care about this". The thumb-sideways people need to be heard, the fist-forward people don't. For the full story behind this shift, see the blog post "Crisp consensus model 2.1":http://blog.crisp.se/2014/03/27/peterantman/crisp-consensus-model-2-1.
 
 h2. Discussion signals
 
@@ -63,6 +36,29 @@ The circling finger is a silent way of saying "Amen bro!! I'm right wit'cha on d
 
 Feels pretty good to see a bunch of circling fingers as you present your opinion on something (as opposed to arms crossed and frowning...)!
 
+h2. Decision-making signals
+
+Here are the main hand signals we use when "making decisions":decisions.html in a big group (or testing for agreement on something).
+
+h3. Thumb up = Yes! I actively support this.
+
+!../assets/HandSignal-Yes.png!
+
+h3. Thumb down = No! I block this. But I'm willing to discuss.
+
+!../assets/HandSignal-No.png!
+
+This means I understand the proposal, but I don't support it. Obviously I need to be willing to explain why. Sometimes the No is pretty definite, other times a minor tweak can turn the No into a Yes. Either way, further discussion is needed before we can decide.
+
+h3. Fist forward = I stand aside. I don't need to be involved. Do whatever you want.
+
+!../assets/HandSignal-StandAside.png!
+
+Not all decisions affect everyone, so the fist-forward signal essentially gives the rest of the group permission to decide without me. 
+
+bq. In the past we used to have just 3 signals: thumb-up, thumb-sideways, thumb-down. It worked, but we realized that thumb-sideways was a bit ambiguous. We introduced the fist-forward signal too visually distinguish between "I need more info" vs "I don't care about this". The thumb-sideways people need to be heard, the fist-forward people don't. For the full story behind this shift, see the blog post "Crisp consensus model 2.1":http://blog.crisp.se/2014/03/27/peterantman/crisp-consensus-model-2-1. And then, a few years later, we realized that thumb-sideways is redundant (because it really means the same as hand-up), so we removed it. 
+
+
 h2. How a big-group decision is made using hand signals
 
 For big-group settings (like our "unconference":unconference.html) a facilitator is usually needed to support the decision making process. The details will vary, but here's a typical scenario for an important decision that will affect many people:
@@ -71,7 +67,7 @@ For big-group settings (like our "unconference":unconference.html) a facilitator
 # A first voting round is made using the decision signals.
 # If all thumbs are up, the decision is made! Some may stand aside, because they aren't affected. That's fine. 
 # If there is lots of disagreement the decision is usually postponed. The driver has more work to do before the decision can be made.
-# Otherwise any people with thumb sideways are heard. If necessary, the proposal is adjusted based on the information or questions that came up.
+# Otherwise any people with hands up are heard. If necessary, the proposal is adjusted based on the information or questions that came up.
 # Any blocker (thumb down) is checked if still blocking. Normally a block takes too long to resolve in a big circle. The blocker(s) and the driver are asked to make this an open-space topic (or similar).
 # The proposal is discussed in smaller circles.
 # The proposal is updated and taken up again for decision. Similar procedure as above.
@@ -92,7 +88,7 @@ The people in the "No" boxes were asked to explain their objection - do they dis
 
 !../assets/HandSignals-MultivotingPeople.png!
 
-We used the input to continuously tweak the vision statements, and by the end of the conference we had "two vision statements":visions.html with 100% consensus (= no thumb down or thumb sideways). That felt extra important in this case, because we'd rather have no vision at all than to have one with weak buy-in.
+We used the input to continuously tweak the vision statements, and by the end of the conference we had "two vision statements":visions.html with 100% consensus (= all thumbs up or stand aside). That felt extra important in this case, because we'd rather have no vision at all than to have one with weak buy-in.
 
 Remember - consensus doesn't mean everyone agrees! It just means everyone who is affected understands and will support the decision. 
 
