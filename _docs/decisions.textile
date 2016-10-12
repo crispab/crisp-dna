@@ -6,7 +6,7 @@ next_section: recruiting.html
 
 h1. How we make decisions
 
-How do we make decisions in a decentralized organized with no managers?
+How do we make decisions in a decentralized organization with no managers?
 
 Note – for allocation of consultants to client engagements we have a specific protocol for that – the "bun protocol":bun-protocol.html. Similar for recruitment decisions.
 
