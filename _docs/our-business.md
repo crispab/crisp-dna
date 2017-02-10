@@ -28,7 +28,7 @@ We sometimes use a funny animal metaphor to talk about different types of engage
 Seal consultants
 ----------------
 
-![Seal consultant](/assets/seal-500.jpg "Seal consultant"):https://www.flickr.com/photos/guano/3604967875/
+[![Seal consultant](/assets/seal-500.jpg "Seal Consultant")](https://www.flickr.com/photos/guano/3604967875/)
 
 A Seal is faithful and dedicated to one single client pretty much full-time. The Seal consultant takes a deep breath, dives in, and then stays under water with the client for months (hmmm… perhaps Whale would be a better metaphor). Seals normally don’t have as much time for other stuff such as teaching courses, but we do attend a few conferences. Once in a while a Seal will pop up above the surface, take a deep breath & learn some new stuff, perhaps find a new client, and then dive deep again.
 
@@ -39,7 +39,7 @@ Seals are usually cute and playful.
 Albatross consultants
 ---------------------
 
-![Albatross consultant](/assets/albatross-500.jpg "Albatross consultant"):https://www.flickr.com/photos/chrispearson72/2376692375/
+[![Albatross consultant](/assets/albatross-500.jpg "Albatross consultant")](https://www.flickr.com/photos/chrispearson72/2376692375/)
 
 Some of us are Albatross consultants. We sail around high in the sky and travel great distances. Once in a while we plunge into the water and grab a juicy fish, then up into the sky again. The Albatross gets to see many different places – but doesn’t stay still long enough to get to know any single client well. The Albatross is flexible and free. No client will complain if the Albatross decides to spend a week attending a conference or writing a book. On the downside, the Albatross spends a significant amount of his time coordinating with his clients and fiddling with his schedule trying to make everything fit together.
 
@@ -50,7 +50,7 @@ Albatrosses are usually swift and graceful. They can also be a bit absent-minded
 Duck consultants
 ----------------
 
-![Duck consultant](/assets/duck-500.jpg "Duck consultant"):https://www.flickr.com/photos/pitts-pics/5644549966/
+[![Duck consultant](/assets/duck-500.jpg "Duck consultant")](https://www.flickr.com/photos/pitts-pics/5644549966/)
 
 Some of us are Duck consultants – a compromise between the Seal and the Albatross.
 
@@ -61,7 +61,7 @@ Ducks are usually pretty and funny. They look calm, but underneath the surface t
 Anglerfish consultants
 ----------------------
 
-![Anglerfish consultant](/assets/anglerfish-500.jpg "Anglerfish consultant"):https://www.flickr.com/photos/23629083@N03/15377775448/
+[![Anglerfish consultant](/assets/anglerfish-500.jpg "Anglerfish consultant")](https://www.flickr.com/photos/23629083@N03/15377775448/)
 
 Some of us used to be Anglerfish consultants before joining Crisp.
 
