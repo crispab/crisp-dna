@@ -32,6 +32,6 @@ How we **communicate with the outside world**:
 -   Our website - [www.crisp.se](http://www.crisp.se)
 -   Our blog - [blog.crisp.se](http://blog.crisp.se)
 -   A mailing list for our customers and course participants, we send information about upcoming courses about once or twice per quarter.
--   Twitter - our twitter handle is [@crisp\_](https://twitter.com/crisp_/)
+-   Twitter - our twitter handle is [@CrispSweden](https://twitter.com/CrispSweden/)
 -   [Facebook](https://www.facebook.com/crisp.se)
 -   ... but the biggest channel of communication is of course the personal and informal channels - Crispers tweeting, blogging, and talking to friends and customers. Together we have a huge network!
