@@ -26,7 +26,7 @@ Sample crisplets
 ----------------
 
 -   **Agile Crisplet** Not really an active Crisplet any more, since agile has been embedded in the whole company pretty much. But this was our first crisplet, formed in 2007, when we introduced the crisplet concept. Our goal was become awesome helping companies (both Crisp and our clients) become agile.
--   **Climate Crisplet** Our goal: reduce global warming. This is our first open crisplet (membership open to anyone, even non-Crispers). See [http://climate.crisp.se].
+-   **Climate Crisplet** Our goal: reduce global warming. This is our first open crisplet (membership open to anyone, even non-Crispers). See http://climate.crisp.se.
 -   **Supporting Doctors Without Borders.** In late 2014 the world was suffering a major Ebola crisis, and some of us wanted to support [Doctors Without Borders](http://www.msf.org) in their heroic battle against the pandemic. Instead of trying to drive consensus for a decision on this, one person formed a Crisplet (one email was all it took: "Let's support Doctors Without Borders, who's in?"). 9 people joined and pooled together a donation of EUR 9,000. Crisp paid the donation, and then invoiced each participant individually. Pooling the donation into a single large payment made it easier to deal with admin overhead and tax issues.
 -   **Missing People Crisplet**: Similar to the above, this Crisplet provides continuous support to [Missing People](http://missingpeople.se). People can join and leave as they like.
 -   **Hack summit**: Most of us love [hack summit](hack-summit.html), but again we don't want to force it upon everyone, so by creating a Crisplet we make sure the costs only affect those who are involved.
