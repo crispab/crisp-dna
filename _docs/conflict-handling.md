@@ -15,7 +15,7 @@ Conflict handling gets a bit tricky with organizations like Crisp, with everythi
 
 Inspired by the book [Reinventing Organizations](http://www.reinventingorganizations.com), we've learned that self-organization at scale really needs an explicit conflict handling strategy, a simple process that everyone needs to be bought into.
 
-We we agreed on this 3-step conflict escalation process:
+We agreed on this 3-step conflict escalation process:
 
 Our conflict handling process
 ---------------------------------------------------
