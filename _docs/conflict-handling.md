@@ -44,7 +44,7 @@ The purpose of our conflict handling process is to catch Gravel before it become
 How is it used?
 --------------------------------
 
-The policy lives in a google doc and was been "signed" by about 80% of the Crispers at the time (Jan 2015). We stick it up on the wall at our [unconference.html](unconferences), as a reminder.
+The policy lives in a google doc and was "signed" by about 80% of the Crispers at the time (Jan 2015). We stick it up on the wall at our [unconferences](unconference.html), as a reminder.
 
 Now it is pretty much part of our culture, and we try to hold each other accountable for it. Things like - "Hey Joe, I hear you complaining about Lisa. So are you going to bring it up with her directly, or let it go?"
 
