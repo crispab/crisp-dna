@@ -53,4 +53,11 @@ That's it, your local copy of the Crisp DNA site should be up and running on
 
 Every time you edit a source doc (under _docs) it will update the site automatically.
 
+## Development
+
+Use topic branches off of `master`. Use pull requests.
+
+## Deployment
+
+To deploy to Github pages, merge the `master` branch into `gh-pages`. More info on this here: http://jekyllrb.com/docs/github-pages/
 
