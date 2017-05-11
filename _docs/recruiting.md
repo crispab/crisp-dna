@@ -52,7 +52,7 @@ Other things that we value and use to help us determine who to accept and reject
 Don't steal people from clients!
 --------------------------------
 
-One golden rule as a consultant is to never ever hire a co-worker from a client. Managers obviously don't want consultants to steal their employees, so we don't even discuss recruitment with a candidate until after both the candidate and the consultant have left the place where they worked together. Sometimes years after.
+One golden rule as a consultant is to never ever hire a co-worker from a client. Managers obviously don't want consultants to steal their employees, so we won't recruit a candidate until after both the candidate and the consultant have left the place where they worked together. Sometimes years after.
 
 Again, we are in no hurry to grow. An awesome person is worth waiting for.
 
