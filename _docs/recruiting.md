@@ -82,12 +82,15 @@ What's the recruitment process?
 
 This is a work in progress. We've decided to clarify the process a little bit and experiment! The default process is as follows (we handle exceptions the same we make any other [decisions](decisions.html) at Crisp):
 
-1.  Mr X (a candidate) approaches asks to join Crisp.
-2.  Mrs Y says she'd be happy to be X's "puller". All candidates must have a "puller" to proceed with the recruitment process. First requirement is met!
+1.  Mr X (a candidate) approaches us and asks to join Crisp.
+2.  Ms Y says she'd be happy to be X's "puller". All candidates must have a "puller" to proceed with the recruitment process. First requirement is met!
 3.  Y makes sure that the other minimum requirements are met:
-    -   She finds out which Crispers have worked with Mr X before and that they think of him. That takes care of the requirement that someone has worked with X before.
-    -   Next she does what she deems necessary to make sure that people at Crisp know about X and have a chance to get to know him. She might organize interviews or tests or she might invite X to join the next [hack summit](hack-summit.html). She makes sure that no one is against X becoming a Crisper. She might send an email to all Crispers: "I think X should be a Crisper, because \[reasons\]. Anyone against?". As long as no one is against hiring X we keep going forward with the process. Now all the minimum requirements have been met.
+    1.  She finds out which Crispers have worked with Mr X before and what they think of him. That takes care of the requirement that someone has worked with X before.
+    2.  If those who know X give a thumbs up, he's now an official candidate. At this point she sends an email to the Crispers, for example:  "I think X should be a Crisper, because \[reasons\]. Anyone against?". She also adds Mr X to the recruitment document.
+    3.  Then she does what she deems necessary to make sure that people at Crisp know about X and have a chance to get to know him. She might organize interviews or tests or she might invite X to join the next [hack summit](hack-summit.html). She makes sure that no one is against X becoming a Crisper. As long as no one is against hiring X we keep going forward with the process. Now all the minimum requirements have been met.
 4.  It's now time for Y and all the "pullers" for other potential candidates (plus anyone else interested) to get together and compare the candidates based on our "nice to have" criteria. This is one of the new steps added so we can be sure that we're not saying no to a really good candidate just because we've filled our "hiring quota". The "pullers" put together a list of candidates we should consider, all other candidates are rejected.
+
+What happens if Y wants to recruit X? In that case Y starts at Step 3i, and once it's clear that there are no objections from the other Crispers, she contacts X and if he's on board and would like to join, she then proceeds to step 3ii. The rest of the process is the same. This gives X a chance to get to know the rest of us, and we get a chance to get to know him.
 
 **At the next unconference (we currently have 3/year):**
 
