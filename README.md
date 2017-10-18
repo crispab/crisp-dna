@@ -44,7 +44,7 @@ Congrats! You got the stuff you need. You should now be ready to....
 
 Tell Jekyll to generate the site and serve it up:
 
-    jekyll serve
+    bundle exec jekyll serve
 
 Or if you are lazy you can use the run script (which just does jekyll serve)
 
