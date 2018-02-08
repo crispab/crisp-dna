@@ -7,7 +7,7 @@ next_section: board.html
 Office team
 ===========
 
-We have an office team of 3 full-time employees that are based in our office in Stockholm, plus some extra staff that are pulled in when needed. The office team does most of the non-consulting work needed to run the day to day operations.
+We have an office team of 2 full-time employees that are based in our office in Stockholm, plus some extra staff that are pulled in when needed. The office team does most of the non-consulting work needed to run the day to day operations.
 
 Things like:
 
@@ -21,11 +21,9 @@ These are just a few examples, not a complete list. The office team does *a lot*
 Who is the line manager of the office staff?
 --------------------------------------------
 
-Since the office team members are actual employees, someone needs to fulfill the equivalent of a line-manager role. They need someone to discuss things like salaries and vacations with.
+The office team members are actual employees, so someone needs to fulfill the equivalent of a line-manager role to set salaries. At Crisp the office team members do this themselves! The employees are self-managed.
 
-We have an informal role for this. The office team have basically elected one of the consultants to fill an office manager role, a person who they trust (and who is happy to do the job). It's a part time job that he gets compensated for.
-
-In comparison, the other Crispers (the consultants) don't have salaries and don't need a manager. In a sense, the customers set the salaries of the consultants, so it's rather automatic.
+When the team members need someone to talk to or use as a sounding board they each have a buddy. The team members select their own buddies (a person who they trust and who is happy to take on that role).
 
 What about sales?
 -----------------
