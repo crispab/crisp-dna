@@ -21,7 +21,7 @@ These are just a few examples, not a complete list. The office team does *a lot*
 Who is the line manager of the office staff?
 --------------------------------------------
 
-The office team members are actual employees, so someone needs to fulfill the equivalent of a line-manager role to set salaries. At Crisp the office team members do this themselves! The employees are self-managed.
+The office team members are actual employees, so someone needs to set salaries. At Crisp the office team members do this themselves! The employees are self-managed.
 
 When the team members need someone to talk to or use as a sounding board they each have a buddy. The team members select their own buddies (a person who they trust and who is happy to take on that role).
 
