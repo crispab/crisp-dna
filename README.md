@@ -38,6 +38,10 @@ Next, tell the bundler to install all the gems needed (jekyll, github-pages, etc
 
 	bundle install	
 
+If you are getting error messages, you may have old versions of some Gems installed. Try updating to the latest using:
+
+	bundle update	
+
 Congrats! You got the stuff you need. You should now be ready to....
 
 ## 4. Run the site locally!
