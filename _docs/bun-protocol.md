@@ -63,7 +63,7 @@ The cookie extension
 
 ![Frosted maple sugar cookies!](../assets/cookie.JPG "Frosted maple sugar cookies!")
 
-After a few years of running the bun protocol we realized that we needed extend it. Sometimes we get requests that don't become stale and don't require a response. To make it easier to spot the real buns (the requests that we really do need to respond to) from the other "stuff" we added a new type of baked good: the cookie.
+After a few years of running the bun protocol we realized that we needed to extend it. Sometimes we get requests that don't become stale and don't require any action. To make it easier to spot the real buns (the requests that we really do need a response), from the other "stuff", we added a new type of baked good: the cookie.
 
 **Sample cookie**
 
@@ -71,8 +71,8 @@ After a few years of running the bun protocol we realized that we needed extend 
 
 **So how do I tell the difference between a bun and a cookie?**
 
--   **BUN** A direct request that is awaiting a response.
--   **COOKIE** A request via a 3rd party that does not require a response. Our relationship with the customer will not be negatively affected if we don't respond. These are typically just forwarded messages without any additional information via direct contact.
+-   **BUN** A direct request that is waiting for a response.
+-   **COOKIE** A request via a 3rd party that does not require any action on our part. Our relationship with the customer will not be negatively affected if we don't respond. These are typically just forwarded messages without any additional information via direct contact.
 
 
 Why it works
