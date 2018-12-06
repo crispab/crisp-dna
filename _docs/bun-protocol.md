@@ -58,6 +58,23 @@ Summary of the rules
 
 We don't always succeed in following these rules, especially the 1-2 day age limit. But we really try our best, and we're at least aware of when we fail.
 
+The cookie extension
+------------
+
+![Frosted maple sugar cookies!](../assets/cookie.JPG "Frosted maple sugar cookies!")
+
+After a few years of running the bun protocol we realized that we needed extend it. Sometimes we get requests that don't become stale and don't require a response. To make it easier to spot the real buns (the requests that we really do need to respond to) from the other "stuff" we added a new type of baked good: the cookie.
+
+**Sample cookie**
+
+-   An external recruiter/consultancy sends a form email advertizing possible open positions with information about how to submit a resume or RFP. 
+
+**So how do I tell the difference between a bun and a cookie?**
+
+-   **BUN** A direct request that is awaiting a response.
+-   **COOKIE** A request via a 3rd party that does not require a response. Our relationship with the customer will not be negatively affected if we don't respond. These are typically just forwarded messages without any additional information via direct contact.
+
+
 Why it works
 ------------
 
@@ -129,7 +146,7 @@ Traceability can be useful, for example we could write the buns into a backlog o
 
 Yes. So keep that in mind when you pass around buns. Check the age, all emails have dates. Use common sense. If it is an urgent bun, it is getting old and you want to send to someone else, then call instead of sending email. Or write "OBS" in the email subject (see [email conventions](email-conventions.html)).
 
-### How do we avoid buns getting dropped between chairs
+### How do we avoid buns falling through the cracks
 
 Be very clear in your communication. Short, clear phrases like:
 
@@ -137,7 +154,7 @@ Be very clear in your communication. Short, clear phrases like:
 -   "I'm taking the bun!"
 -   "I will throw this bun away if nobody takes it by Tuesday"
 
-We use the subject-line BULLE for all bun-routing emails (see [email conventions](email-conventions.html)).
+We use the subject-line BULLE or KAKA for all bun-routing emails (see [email conventions](email-conventions.html)).
 
 ### What would be alternatives to the bun protocol?
 
