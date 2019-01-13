@@ -4,7 +4,7 @@ prev_section: dashboard.html
 next_section: board.html
 ---
 
-Office team
+Office team - DELETE THIS
 ===========
 
 We have an office team of 2 full-time employees that are based in our office in Stockholm, plus some extra staff that are pulled in when needed. The office team does most of the non-consulting work needed to run the day to day operations.
