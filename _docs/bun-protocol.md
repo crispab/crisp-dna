@@ -7,9 +7,9 @@ next_section: dashboard.html
 The Bun Protocol
 ================
 
-The Bun protocol ("Bullprotokollet" in Swedish) is a lightweight, decentralized request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
+The Bun protocol is a lightweight, decentralized request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
 
-> We introduced this to Crisp a few years ago because we had just created a lightweight recruitment process, and later when we were creating a lightweight sales process we noticed many similarities. So we did an [extract to interface](http://sourcemaking.com/refactoring/extract-interface) refactoring and created this "Bun Protocol" :o)
+> We introduced this to Product Space after seeing how effective it was at Nomad8, having a lightweight sales process.
 
 The metaphor
 ------------
@@ -31,7 +31,7 @@ How the protocol works
 
 A bun is born when someone asks you for something and you decide that "hey, this is a bun". Typically through email, but sometimes a phone call or a conference mingle.
 
-**A bun always has an owner** - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared. For example, you are of course responsible for any emails sent directly to you, while the [office team](office-team.html) is responsible for requests to info@crisp.se, etc.
+**A bun always has an owner** - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared. For example, you are of course responsible for any emails sent directly to you.
 
 **When you have a bun, you are responsible for taking care of it before it gets too dry!** Preferably within 1 working day, definitely within 2.
 
@@ -52,27 +52,13 @@ Summary of the rules
 -   **A bun should not get more than 1-2 days old** without being eaten by somebody, thrown away, or reheated (by talking to the customer/sender).
 -   **You can't push a bun onto someone else, they have to pull**. The bun is yours until someone else explicitly takes it (for example by saying "I'll take the bun"). You can of course recommend (or even try to convince) someone else to take it from you. This goes both ways - if someone offers you a bun, you don't have to respond if you aren't interested.
 -   When in doubt:
-    -   Broadcast an email to everybody who might be interested or involved in this bun (write BULLE in the subject, as per our [email conventions](email-conventions.html)).
+    -   Broadcast an email to everybody who might be interested or involved in this bun
     -   or send the bun to "upwards" or to a central person such the board or our business developer. For example if the bun seems to be strategic and might lead to a big dinner.
 -   **When broadcasting to find interested bun-takers, give your colleagues one day** to indicate interest in the bun. Don't just let the first one that answers have the bun. There might be more interested. Letting the first one that answers having the bun leads to race conditions and might cause tension between colleagues.
 
 We don't always succeed in following these rules, especially the 1-2 day age limit. But we really try our best, and we're at least aware of when we fail.
 
-The cookie extension
-------------
 
-![Frosted maple sugar cookies!](../assets/cookie.JPG "Frosted maple sugar cookies!")
-
-After a few years of running the bun protocol we realized that we needed to extend it. Sometimes we get requests that don't become stale and don't require any action. To make it easier to spot the real buns (the requests that we really do need a response), from the other "stuff", we added a new type of baked good: the cookie.
-
-**Sample cookie**
-
--   An external recruiter/consultancy sends a form email advertizing possible open positions with information about how to submit a resume or RFP. 
-
-**So how do I tell the difference between a bun and a cookie?**
-
--   **BUN** A direct request that is waiting for a response.
--   **COOKIE** A request via a 3rd party that does not require any action on our part. Our relationship with the customer will not be negatively affected if we don't respond. These are typically just forwarded messages without any additional information via direct contact.
 
 
 Why it works
@@ -114,7 +100,7 @@ The [conflict handling process](conflict-handling.html) should help solve the ed
 
 The closest thing we have to a central authority is the [board](board.html), and our business developer. If one of them received the request then, well, they already have it.
 
-What if you received the request? Well, do you think it is business critical and should be handled by the business developer? In that case get in touch and ask her to take it from you. If you don't know what to do, broadcast it to all Crispers (or even external partners that have bought into this protocol) and ask who wants to take it.
+What if you received the request? Well, do you think it is business critical and should be handled by the business developer? In that case get in touch and ask her to take it from you. If you don't know what to do, broadcast it to all Product Spaceers (or even external partners that have bought into this protocol) and ask who wants to take it.
 
 But don't forget - the bun is still yours until someone else explicitly takes it from you!
 
@@ -138,13 +124,8 @@ Sure there is a risk that we might accidentally filter out some tasty buns, but 
 
 ### What about traceability?
 
-Traceability can be useful, for example we could write the buns into a backlog or CRM system or something. That doesn't conflict with the bun protocol, we could just add that on top. But traceability has a cost. The overhead cost of each bun increases, due to writing & reading & updating information in a tool. So we don't really prioritize traceability.
+We visualise our buns in the Product Space customer funnel Trello board.
 
-> We've experimented a bit with visualizing buns in google spreadsheets and drawings (we called it the "bun tray"...). In most cases the efforts were abandoned as we realized that email gave 80% of what we needed for 20% of the effort. So we mostly stick to email and simple techniques like tagging. If we need to dig up an old bun we can find it by searching the email, and our [email conventions](email-conventions.html) help a lot with that. Of course, I can't dig up other people's old buns but that's OK. Eaten buns don't look very good anyway :o)
-
-### Won't a bun get dry if it gets sent around between people for too long?
-
-Yes. So keep that in mind when you pass around buns. Check the age, all emails have dates. Use common sense. If it is an urgent bun, it is getting old and you want to send to someone else, then call instead of sending email. Or write "OBS" in the email subject (see [email conventions](email-conventions.html)).
 
 ### How do we avoid buns falling through the cracks
 
@@ -154,20 +135,6 @@ Be very clear in your communication. Short, clear phrases like:
 -   "I'm taking the bun!"
 -   "I will throw this bun away if nobody takes it by Tuesday"
 
-We use the subject-line BULLE or KAKA for all bun-routing emails (see [email conventions](email-conventions.html)).
-
-### What would be alternatives to the bun protocol?
-
-Let's say something important comes in, such as a request from a new potential client. Some alternatives to the bun protocol would be:
-
--   **Alternative A: I can do whatever I want.** Perfectly fine to let the email sit unanswered in my inbox, or throw away the email without answering the client.
-    -   **Result:** Lost business, disappointed customers, disappointed colleagues. My friend might have wanted that client, and I dumped it. Next time he'll dump a client that I would have wanted.
--   **Alternative B: All client requests have to be sent to person X** (for example the business developer).
-    -   **Result:** Business developer becomes a bottleneck. She becomes ineffective and stressed, clients don't get timely responses. And we miss the chance to utilize the collective intellect of the rest of the team.
--   **Alternative C: I have to be responsible for this request until it is completely resolved, I can't hand over to someone else.**
-    -   **Result:** Stress and ineffectiveness, since I can't detach from a request that doesn't interest me. If I get a request that is more suitable for someone else, it is more effective for all parties if I connect the client with that person and eject myself from the loop.
-
-Nah, we like the bun protocol better. It introduces a minimum amount of discipline and rules without becoming a burden.
 
 ### What are the potential disadvantages of the bun protocol?
 
