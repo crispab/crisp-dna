@@ -4,10 +4,10 @@ prev_section: conflict-handling.html
 next_section: building-competence.html
 ---
 
-Team contract
+Team contract - NEEDS UPDATING
 =============
 
-This is the contract you sign when you join Crisp.
+This is the contract you sign when you join Product Space.
 
 -   [Team contract, Swedish original](team-contract-sv.html)
 -   [Team contract, English translation](team-contract-en.html)

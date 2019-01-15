@@ -1,17 +1,17 @@
 ---
 title: Conflict handling
-prev_section: crisplets.html
+prev_section: Product Spacelets.html
 next_section: contracts.html
 ---
 
 Conflict handling
 =================
 
-Conflict is inevitable in any organization because, well, Humans :)
+Conflict is inevitable in any organisation because, well, Humans :)
 
 The way we deal with conflict is really important - some conflicts are healthy and productive and drive improvement - other conflicts are ugly and political and suck the soul out of the culture. We obviously want more of the former and less of the latter!
 
-Conflict handling gets a bit tricky with organizations like Crisp, with everything bottom-up and no managers. We've done pretty OK so far, but we want to get better.
+Conflict handling gets a bit tricky with organizations like Product Space, with everything bottom-up and no managers. We've done pretty OK so far, but we want to get better.
 
 Inspired by the book [Reinventing Organizations](http://www.reinventingorganizations.com), we've learned that self-organization at scale really needs an explicit conflict handling strategy, a simple process that everyone needs to be bought into.
 
@@ -28,7 +28,7 @@ Our conflict handling process
 
 *... if the conflict didn't get solved:*
 
-**Step 3:** Moose-head meeting at Crisp ASAP with the involved parties.
+**Step 3:** Moose-head meeting at Product Space ASAP with the involved parties.
 
 Gravel? Moose head? Huh?
 ------------------------
@@ -43,8 +43,6 @@ The purpose of our conflict handling process is to catch Gravel before it become
 
 How is it used?
 --------------------------------
-
-The policy lives in a google doc and was "signed" by about 80% of the Crispers at the time (Jan 2015). We stick it up on the wall at our [unconferences](unconference.html), as a reminder.
 
 Now it is pretty much part of our culture, and we try to hold each other accountable for it. Things like - "Hey Joe, I hear you complaining about Lisa. So are you going to bring it up with her directly, or let it go?"
 
