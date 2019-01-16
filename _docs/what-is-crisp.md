@@ -7,7 +7,7 @@ next_section: how-crisp-works.html
 What is Product Space and why?
 ======================
 
-Our purpose is summarized in this A3. We refer to this as "our home" or "our house".
+Our purpose is summarized in this A3. We refer to this as "our home".
 
 ![What is Product Space A3](../assets/WhatIsCrispA3-sv.jpg "What is Product Space A3")
 
