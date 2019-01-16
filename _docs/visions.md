@@ -7,9 +7,9 @@ next_section: sales.html
 Visions
 =======
 
-One big aha in our evolution was when we [realized](http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) that Crisp itself is just a platform. Crisp doesn't have a Vision (with a Big V), we just want Crisp to be a [nice home for consultants](what-is-crisp.html).
+One big aha in our evolution was when we [realized](http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) that Product Space itself is just a platform. Product Space doesn't have a Vision (with a Big V), we just want Product Space to be a [nice home for consultants](what-is-crisp.html).
 
-However, many of the *people* at Crisp do have a vision. Here are the most widely shared visions:
+However, many of the *people* at Product Space do have a vision. Here are the most widely shared visions:
 
 **Vision 1: "Help companies benefit from Lean/Agile"**
 
@@ -20,14 +20,14 @@ PS: that doesn't mean we're all coaches. In fact, most of us are developers. See
 Why do we have multiple visions?
 --------------------------------
 
-Because people don't all have to want the same thing. We're in this home together because we have a common set of values, not because we have to have the same vision and goals. People can work on whatever they are passionate about, and if enough other Members share the same passion it implicitly becomes a Crisp vision.
+Because people don't all have to want the same thing. We're in this home together because we have a common set of values, not because we have to have the same vision and goals. People can work on whatever they are passionate about, and if enough other Members share the same passion it implicitly becomes a Product Space vision.
 
 How we work with visions
 ------------------------
 
 We're guided by these principles (which we agreed upon on one of our [unconferences](unconference.html)):
 
--   Crisp can have several visions.
+-   Product Space can have several visions.
 -   They can and should only be changed at our unconferences, so everyone can discuss.
 -   The visions apply between the unconferences.
 -   If you miss an unconference, you are automatically considered to "stand aside" (see our [hand signals](hand-signals.html)).
@@ -40,7 +40,7 @@ It was a standing vote, where people could move their avatars to show their stan
 Two more principles:
 
 -   It's OK to move your avatar up and down even between conferences (the poster is on the wall in our office). But that will be considered input to the next conference, no decision will be made directly.
--   We bring this poster to our conferences, so we keep iterating on it (just like our two A3s [What is Crisp](what-is-crisp.html) and [How we work](how-crisp-works.html)).
+-   We bring this poster to our conferences, so we keep iterating on it (just like our two A3s [What is Product Space](what-is-crisp.html) and [How we work](how-crisp-works.html)).
 
 Does everyone have to agree with these visions?
 -----------------------------------------------

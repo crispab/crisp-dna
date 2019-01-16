@@ -22,9 +22,9 @@ Survey questions
 
 The 3 main questions in the survey are:
 
--   **How happy are you with being at Crisp**? This is the main overarching happiness index.
--   **How happy are you with your tasks in Crisp**? This means internal work such as board meetings, conference facilitation, or creating this Crisp DNA site. This is especially relevant for our [office team](office-team.html), who do most internal work and have no external clients of their own.
--   **How happy are you with your current client, or your bench situation?** We measure this separately, because sometimes a person could be really happy with Crisp, but sad about the current client. Or vice versa. For people who are on the bench (= no client at the moment), this can express how they feel about that (sometimes people WANT to be on the bench).
+-   **How happy are you with being at Product Space**? This is the main overarching happiness index.
+-   **How happy are you with your tasks in Product Space**? This means internal work such as board meetings, conference facilitation, or creating this Product Space DNA site. This is especially relevant for our [office team](office-team.html), who do most internal work and have no external clients of their own.
+-   **How happy are you with your current client, or your bench situation?** We measure this separately, because sometimes a person could be really happy with Product Space, but sad about the current client. Or vice versa. For people who are on the bench (= no client at the moment), this can express how they feel about that (sometimes people WANT to be on the bench).
 
 The scale is:
 
@@ -57,9 +57,9 @@ The happiness index is used as key artifact during [board meetings](board.html),
 
 Whenever the average changes significantly, we talk about why, and what we can do to make everybody happier. If we see a 1 or 2 on any row, that acts as an effective call for help. People go out of their way to find out how they can help that person, which often results in some kind of process improvement in the company.
 
-> For example, once somebody dropped to a 1 due to confusion and frustration with our internal invoicing routines. Within a week we did a workshop and figured out a better process. The company improved and the Crisp Happiness Index increased.
+> For example, once somebody dropped to a 1 due to confusion and frustration with our internal invoicing routines. Within a week we did a workshop and figured out a better process. The company improved and the Product Space Happiness Index increased.
 
-Crisp Happiness Index is more important than any financial metric, not only because it visualizes the aspect that matters most to us, but also because it is a leading indicator, which makes us more agile. Most financial metrics are trailing indicators, making it hard to react to change in time.
+Product Space Happiness Index is more important than any financial metric, not only because it visualizes the aspect that matters most to us, but also because it is a leading indicator, which makes us more agile. Most financial metrics are trailing indicators, making it hard to react to change in time.
 
 Happiness history
 -----------------

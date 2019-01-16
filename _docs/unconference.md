@@ -4,7 +4,7 @@ prev_section: sales.html
 next_section: email-conventions.html
 ---
 
-Crisp Unconference
+Product Space Unconference
 ==================
 
 Twice per year we do an internal unconference, in Sweden or abroad.
@@ -30,7 +30,7 @@ Does everyone have to attend?
 
 More or less, yes. We haven't made it a formal rule, but implicitly people are expected to attend "most" conferences (sometimes Life gets in the way of course). This is our most important team activity, and all high-impact decisions happen there. We also get to know each other better, build trust, trade knowledge, and have lots of fun!
 
-Basically, the conference is where the Crisp DNA strengthens and evolves!
+Basically, the conference is where the Product Space DNA strengthens and evolves!
 
 The conference cost (travel, hotel, etc) is split evenly between all consultants, whether or not you attend. That way there's not much economic incentive to skip the conference (as in "I'm a bit low on cash now, so I'm skipping the conference"). You pay either way so you might as well attend :)
 
@@ -117,7 +117,7 @@ Our larger unconferences usually look something like this:
 Who organizes and facilitates the conference?
 ---------------------------------------------
 
-The [office team](office-team.html) organize the trip itself (flight, hotel, venue, food, etc). The conference days are facilitated by a pair of Crisp consultants. Usually we rotate one person after every conference - the goal is that each conference should have one facilitator from last conference, and one that is new. That way the facilitator pair has experience from last conference, but also some new insights.
+The [office team](office-team.html) organize the trip itself (flight, hotel, venue, food, etc). The conference days are facilitated by a pair of Product Space consultants. Usually we rotate one person after every conference - the goal is that each conference should have one facilitator from last conference, and one that is new. That way the facilitator pair has experience from last conference, but also some new insights.
 
 > We're lucky in that many Members work as coaches and have lots of facilitation experience. Of course, the downside is that it's sometimes challenging to facilitate other experienced facilitators! We sometimes slip into meta-discussions about how we should do stuff, rather than just doing it :)
 

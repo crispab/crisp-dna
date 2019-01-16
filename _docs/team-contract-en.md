@@ -2,7 +2,7 @@
 title: Team contract, English translation
 ---
 
-Crisp Team Contract
+Product Space Team Contract
 ===================
 
 Hey you! Yes, you. Do you speak Swedish and English? If so it would awesome if you could translate the [team contract](team-contract-sv.html) to English, so we could put it here.

@@ -1,17 +1,17 @@
 ---
-title: How Crisp works
+title: How Product Space works
 prev_section: what-is-crisp.html
 next_section: why-this-works.html
 ---
 
-How Crisp works
+How Product Space works
 ===============
 
-Our second A3 is called "Crisp strategy" but it's really more about how we operate:
+Our second A3 is called "Product Space strategy" but it's really more about how we operate:
 
-![Crisp Strategy A3](../assets/CrispStrategyA3-sv.jpg "Crisp Strategy A3")
+![Product Space Strategy A3](../assets/CrispStrategyA3-sv.jpg "Product Space Strategy A3")
 
-It hangs on the wall next to the [What is Crisp](what-is-crisp.html) A3. Here's an [english translation](../assets/CrispStrategyA3-en.pdf) of the pic. Summarized below:
+It hangs on the wall next to the [What is Product Space](what-is-crisp.html) A3. Here's an [english translation](../assets/CrispStrategyA3-en.pdf) of the pic. Summarized below:
 
 What do we measure?
 -------------------
@@ -24,11 +24,11 @@ We measure:
 How do we finance the home?
 ---------------------------
 
-To cover our costs, every Member pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around SEK 3500-5000, and the variable fee is usually around 8-12%. The fee is intended only to cover Crisp's costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
+To cover our costs, every Member pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around SEK 3500-5000, and the variable fee is usually around 8-12%. The fee is intended only to cover Product Space's costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
 
 > **Why a fixed + variable fee?** If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable. It is also typical Sveeedish to pick a model that is [lagom](https://en.wikipedia.org/wiki/Lagom) - as in, nobody is totally happy and nobody is totally disappointed ;-)
 
-We also have a ceiling, to limit the total fee a consultant pays to Crisp per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because Crisp gets too expensive. The ceiling is usually around kSEK 250-300 per year.
+We also have a ceiling, to limit the total fee a consultant pays to Product Space per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because Product Space gets too expensive. The ceiling is usually around kSEK 250-300 per year.
 
 See [Economic model](economic-model.html) for concrete examples.
 
@@ -41,12 +41,12 @@ This picture sums it up:
 
 The guiding principles are:
 
--   **Naked in, Naked out** - you don't need to put in serious cash to join Crisp, and there's nothing to cash out when you leave.
+-   **Naked in, Naked out** - you don't need to put in serious cash to join Product Space, and there's nothing to cash out when you leave.
 -   **No gold on the table** - we don't try to build financial value in the company.
 -   **No pot of gold at that end** - there's no financial incentive to sell the company.
 -   **A gold-strewn road** - you keep most of what you earn, as you earn it.
 
-> **Why don't we try to build financial value?** If Crisp has a big pile of money, that creates a financial incentive to own the company, and increases the risk of conflict as the "value" of the company goes up and down. If we keep the company lean, with only a small liquidity buffer, then we don't need to argue about who owns what.
+> **Why don't we try to build financial value?** If Product Space has a big pile of money, that creates a financial incentive to own the company, and increases the risk of conflict as the "value" of the company goes up and down. If we keep the company lean, with only a small liquidity buffer, then we don't need to argue about who owns what.
 
 See [Economic model](economic-model.html) and [Ownership model](ownership-model.html) for more details on how money flows through the system.
 
@@ -73,13 +73,13 @@ How do we differentiate?
 
 How are we different from a typical consulting company?
 
--   Crisp is not trying to earn money from its consultants
+-   Product Space is not trying to earn money from its consultants
 -   100% freedom for all consultants (as long as they don't hurt the home)
--   Crisp has no other goal than to provide a happy home
+-   Product Space has no other goal than to provide a happy home
 
 How are we different from a typical network of independents?
 
--   We are dedicated to Crisp - that is, consultants are expected to do all their work and invoicing through Crisp.
+-   We are dedicated to Product Space - that is, consultants are expected to do all their work and invoicing through Product Space.
 
 Why does this strategy work?
 ----------------------------
@@ -89,4 +89,4 @@ Although this is part of the A3, it's really a separate topic: [Why this model w
 Further reading
 ---------------
 
-See the [What is Crisp](http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) blog article. It describes some of the history behind the model.
+See the [What is Product Space](http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) blog article. It describes some of the history behind the model.
