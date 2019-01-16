@@ -55,7 +55,7 @@ No, she is a contractor. We let people choose which model they want. Our default
 What power does the business developer have?
 --------------------------------------------
 
-No formal powers at all! Although, like with all Crispers, there's plenty of *informal power* to go around :o)
+No formal powers at all! Although, like with all Members, there's plenty of *informal power* to go around :o)
 
 In more typical consulting companies, sales people and business developers "own" their "resources" and can move and allocate them to clients as needed. At Crisp, however, we have no managers; people are people (not resources) and are free to do whatever they want! Since the business developer can't force anyone to do anything, she needs to work in close collaboration with the consultants. Basically, check with Jim before offering him to a client!
 

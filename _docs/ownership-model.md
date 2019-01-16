@@ -17,7 +17,7 @@ Our model is simple: **anyone who has been at Crisp for 2+ years can become an o
 
 Now you might thinking "Huh, so *anyone* is allowed to become a partner? Really?".
 
-Exactly! The idea is that, if we wouldn't trust someone to co-own the company, why would we trust them to represent Crisp at all? So if, after two years, we don't trust a Crisper enough to offer them ownership, that's a sign they shouldn't be at Crisp at all. So far this has never happened though.
+Exactly! The idea is that, if we wouldn't trust someone to co-own the company, why would we trust them to represent Crisp at all? So if, after two years, we don't trust a Member enough to offer them ownership, that's a sign they shouldn't be at Crisp at all. So far this has never happened though.
 
 > Actually, in the bad old days we used to have a kind of "selection process" for new partners. Most people hated it, felt like a stupid beauty contest of some sort, and the people who were NOT offered partnership were of course really disappointed and wondered why. So we ditched that model.
 

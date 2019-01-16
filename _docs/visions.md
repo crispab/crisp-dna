@@ -20,7 +20,7 @@ PS: that doesn't mean we're all coaches. In fact, most of us are developers. See
 Why do we have multiple visions?
 --------------------------------
 
-Because people don't all have to want the same thing. We're in this home together because we have a common set of values, not because we have to have the same vision and goals. People can work on whatever they are passionate about, and if enough other Crispers share the same passion it implicitly becomes a Crisp vision.
+Because people don't all have to want the same thing. We're in this home together because we have a common set of values, not because we have to have the same vision and goals. People can work on whatever they are passionate about, and if enough other Members share the same passion it implicitly becomes a Crisp vision.
 
 How we work with visions
 ------------------------

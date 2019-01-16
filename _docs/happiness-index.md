@@ -7,7 +7,7 @@ next_section: ownership-model.html
 Happiness Index
 ===============
 
-Our primary metric is “Nöjd Crispare Index” (in english: “Happy Crisper Index” or “Crisp Happiness Index”). It's the only thing we systemically measure and follow up. Scale is 1-5. The data lives in our [dashboard](dashboard.html) (a shared Google spreadsheet).
+Our primary metric is “Nöjd Crispare Index” (in english: “Happy Member Index” or “Crisp Happiness Index”). It's the only thing we systemically measure and follow up. Scale is 1-5. The data lives in our [dashboard](dashboard.html) (a shared Google spreadsheet).
 
 ![Happiness History](../assets/HappinessIndex.png "Happiness History"):https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE
 

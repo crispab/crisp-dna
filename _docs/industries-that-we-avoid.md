@@ -12,7 +12,7 @@ Currently we avoid the arms industry and the surveillance industry, and some oth
 Why do we avoid these industries?
 ---------------------------------
 
-Our two [core values](what-is-crisp.html) "Freedom" and "Heart over Wallet" can sometimes collide. For example when it comes to which industries we work in. Some Crispers feel very strongly against the arms industry and the surveillance industry - for them, "Heart over Wallet" means avoiding those industries even if it means a loss of profit, and they don't want to associate with a consulting company that works with these industries.
+Our two [core values](what-is-crisp.html) "Freedom" and "Heart over Wallet" can sometimes collide. For example when it comes to which industries we work in. Some Members feel very strongly against the arms industry and the surveillance industry - for them, "Heart over Wallet" means avoiding those industries even if it means a loss of profit, and they don't want to associate with a consulting company that works with these industries.
 
 On the other hand, our "Freedom" principle means that people can work with whatever they want, and some of us have no moral qualms with these industries.
 
@@ -20,7 +20,7 @@ So what gives?
 
 To maintain a [happy home](what-is-crisp.html) with mutual respect, we've agreed on this compromise:
 
-1.  Crisp doesn't work with industries that at least one Crisper has a strong opinion against (currently Arms and Surveillance).
+1.  Crisp doesn't work with industries that at least one Member has a strong opinion against (currently Arms and Surveillance).
 2.  If someone really wants to take on such a client, they must do so outside of Crisp.
 
 How do we decide which industries are blacklisted?
@@ -48,7 +48,7 @@ What if these are industries that I want to focus on?
 
 If you are a new candidate and one of our blacklisted industries is Green for you, then Crisp probably isn't the right place for you.
 
-If you are a Crisper already, you have some options:
+If you are a Member already, you have some options:
 
 -   **Option 1:** Convince the existing Blacks (people who hate that industry) to change to Gray.
 -   **Option 2:** Adapt your stance. Change your own Green to Gray, and accept that the industry is blacklisted at Crisp.

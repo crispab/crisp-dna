@@ -1,5 +1,5 @@
 ---
-title: Courses and event production
+title: Courses
 prev_section: building-competence.html
 next_section: brand-building.html
 ---

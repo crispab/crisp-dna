@@ -85,19 +85,19 @@ This is a work in progress. We've decided to clarify the process a little bit an
 1.  Mr X (a candidate) approaches us and asks to join Crisp.
 2.  Ms Y says she'd be happy to be X's "puller". All candidates must have a "puller" to proceed with the recruitment process. First requirement is met!
 3.  Y makes sure that the other minimum requirements are met:
-    1.  She finds out which Crispers have worked with Mr X before and what they think of him. That takes care of the requirement that someone has worked with X before.
-    2.  If those who know X give a thumbs up, he's now an official candidate. At this point she sends an email to the Crispers, for example:  "I think X should be a Crisper, because \[reasons\]. Anyone against?". She also adds Mr X to the recruitment document.
-    3.  Then she does what she deems necessary to make sure that people at Crisp know about X and have a chance to get to know him. She might organize interviews or tests or she might invite X to join the next [hack summit](hack-summit.html). She makes sure that no one is against X becoming a Crisper. As long as no one is against hiring X we keep going forward with the process. Now all the minimum requirements have been met.
+    1.  She finds out which Members have worked with Mr X before and what they think of him. That takes care of the requirement that someone has worked with X before.
+    2.  If those who know X give a thumbs up, he's now an official candidate. At this point she sends an email to the Members, for example:  "I think X should be a Member, because \[reasons\]. Anyone against?". She also adds Mr X to the recruitment document.
+    3.  Then she does what she deems necessary to make sure that people at Crisp know about X and have a chance to get to know him. She might organize interviews or tests or she might invite X to join the next [hack summit](hack-summit.html). She makes sure that no one is against X becoming a Member. As long as no one is against hiring X we keep going forward with the process. Now all the minimum requirements have been met.
 4.  It's now time for Y and all the "pullers" for other potential candidates (plus anyone else interested) to get together and compare the candidates based on our "nice to have" criteria. This is one of the new steps added so we can be sure that we're not saying no to a really good candidate just because we've filled our "hiring quota". The "pullers" put together a list of candidates we should consider, all other candidates are rejected.
 
-What happens if Y wants to recruit X? In that case Y starts at Step 3i, and once it's clear that there are no objections from the other Crispers, she contacts X and if he's on board and would like to join, she then proceeds to step 3ii. The rest of the process is the same. This gives X a chance to get to know the rest of us, and we get a chance to get to know him.
+What happens if Y wants to recruit X? In that case Y starts at Step 3i, and once it's clear that there are no objections from the other Members, she contacts X and if he's on board and would like to join, she then proceeds to step 3ii. The rest of the process is the same. This gives X a chance to get to know the rest of us, and we get a chance to get to know him.
 
 **At the next unconference (we currently have 3/year):**
 
-1.  Y and the other pullers present the candidates they feel are best suited, and all the Crispers decide which candidates to accept or reject.
+1.  Y and the other pullers present the candidates they feel are best suited, and all the Members decide which candidates to accept or reject.
 2.  By default we accept one candidate per conference, but this is the perfect opportunity for handling exceptions. If we have more than one candidate who we would really like to invite to join us, we might decide that we can manage the growing pains and take on more than one candidate. If no candidate is selected, that's also ok, we don't need to grow at each conference, and we prefer to make sure we have a great match than to fill a quota.
 
-Bottom line: As long as even one single Crisper is against hiring a candidate, we won't do it. We're not really fond of vetoes, but for recruiting it feels motivated. We prefer the risk of rejecting a good candidate, over the risk of accepting a bad candidate.
+Bottom line: As long as even one single Member is against hiring a candidate, we won't do it. We're not really fond of vetoes, but for recruiting it feels motivated. We prefer the risk of rejecting a good candidate, over the risk of accepting a bad candidate.
 
 How does on-boarding work?
 --------------------------
