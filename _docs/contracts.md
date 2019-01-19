@@ -9,7 +9,7 @@ Team member contract
 
 This is the contract you sign when you join Product Space.
 
--   Member contract, English translation
+-   Member contract
 
 Shareholder contract
 ====================
