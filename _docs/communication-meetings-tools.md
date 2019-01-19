@@ -19,7 +19,6 @@ Most decisions are made, and most problems solved, in one of the above forums.
 Where we **store info**:
 
 -   Google Docs - we used it for almost everything now a days. Our main doc is the [dashboard](dashboard.html)
--   Dropbox - we have a dropbox business account that we used for shared docs that don't fit in google docs.
 -   GitHub - a github organization account for shared code and, well, the Product Space DNA that you are reading right now.
 
 How we **communicate with the outside world**:
