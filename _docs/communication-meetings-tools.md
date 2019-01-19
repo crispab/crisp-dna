@@ -23,7 +23,7 @@ Where we **store info**:
 
 How we **communicate with the outside world**:
 
--   Our website - [www.Product Space.se](http://www.Product Space.se)
--   Our blog - [blog.Product Space.se](http://blog.Product Space.se)
+-   Our website - [www.theproductspace.com](http://www.theproductspace.com)
+-   Our blog - [blog.Product Space.se](http://www.theproductspace.com/blog/)
 -   A mailing list for our customers and course participants, we send information about upcoming courses about once or twice per quarter.
 -   ... but the biggest channel of communication is of course the personal and informal channels - Product Space agents tweeting, blogging, and talking to friends and customers. Together we have a huge network!
