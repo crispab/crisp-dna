@@ -25,7 +25,7 @@ This is the template for our monthly board meetings.
 1. ACKNOWLEDGEMENT OF COUNTRY
 
 2. FOR DECISION
-- Approval of Minutes of the last meeting		5 mins			
+- Approval of Minutes of the last meetings			
 - Financials (liquidity and cashflow)
 - EOY (Q4)
 

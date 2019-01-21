@@ -33,13 +33,9 @@ Visibility happens as a result of two things:
 
 Again, because our model attracts the kind of people that like to learn and spread knowledge, all we have to do is make sure nothing gets in the way. That way, a bunch of cool stuff happens automatically, such as:
 
--   [Blog articles](http://blog.Product Space.se/)
--   [YouTube channel](https://www.youtube.com/user/Product Spaceagileacademy)
--   [Public courses](https://www.Product Space.se/kurser) and evening seminars
+-   [Blog articles](http://www.theproductspace.com/blog/)
 -   Partnerships with well-known people 
--   Physical products such as [Planning Poker](https://www.Product Space.se/bocker-och-produkter/planning-poker) and [Jimmy Cards](https://www.Product Space.se/bocker-och-produkter/jimmy-cards)
--   [Open Source Software](https://github.com/Product Spaceab)
--   ... and, of course this [dna.Product Space.se](http://dna.Product Space.se) site!
+-   ... and, of course this [dna.Product Space.se](http://dna.theproductspace.com) site!
 
 It's all about co-branding
 --------------------------

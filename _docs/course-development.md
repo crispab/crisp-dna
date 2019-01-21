@@ -32,17 +32,17 @@ Example
 
 Here's a high-level summary of what happens with a typical course:
 
-1.  Joe decides to teach an Agile Foundations course.
-2.  Joe opens the Product Space calendar on Google, finds an open slot Feb 12-13, and writes "LOKAL: Agile Fundations course (Joe)". 
-3.  Joe asks the [office team] to set up a registration page. He has taught this course before, so they copy-paste from last course instance.
-4.  Joe synchronizes with other producers to make sure his course is mentioned in the next marketing email (see next section below).
+1.  Sarah decides to teach an Agile Foundations course.
+2.  Sarah opens the Product Space calendar on Google, finds an open slot Feb 12-13, and writes Agile Fundations course (Sarah)". 
+3.  Sarah asks the Product Space office team to set up a registration page. He has taught this course before, so they copy-paste from last course instance.
+4.  Sarah synchronizes with other producers to make sure his course is mentioned in the next marketing email (see next section below).
 5.  Registrations start coming in. We have a home-grown tool to process registrations and send email confirmations. Course registrations automatically end up in Google Spreadsheet.
 6.  About a week before the course, the office team sends a welcome email to the course participants
-7.  Feb 12 arrives. Joe shows up at Product Space. Breakfast is served, handouts printed, everything ready to go thanks to the awesome office team!
+7.  Feb 12 arrives. Sarah shows up at Product Space. Breakfast is served, handouts printed, everything ready to go thanks to the awesome office team!
 8.  This is also the day when the office team sends invoices to participants. They will also follow up on payment.
 9.  At the end of the course, he asks people to fill in a course feedback sheet. He notes some improvement ideas, calculates the Net Promoter Score, and adds a row to our shared Course Log (see Quality below).
 10. The office team sends an email to all course participants with a link to course materials and such. They also add the course participants to our mailing list for future event notifications (they can of course opt out at any time)
-11. Joe figures out the course profit and sends an invoice to Product Space (minus the [Product Space tax](economic-model.html), just like with any consulting).
+11. Sarah figures out the course profit and sends an invoice to Product Space (minus the [Product Space tax](economic-model.html), just like with any consulting).
 
 Quality and customer feedback
 -----------------------------

@@ -44,7 +44,7 @@ The purpose of our conflict handling process is to catch Gravel before it become
 How is it used?
 --------------------------------
 
-Now it is pretty much part of our culture, and we try to hold each other accountable for it. Things like - "Hey Joe, I hear you complaining about Lisa. So are you going to bring it up with her directly, or let it go?"
+Now it is pretty much part of our culture, and we try to hold each other accountable for it. Things like - "Hey Mark, I hear you complaining about Lisa. So are you going to bring it up with her directly, or let it go?"
 
 
 
