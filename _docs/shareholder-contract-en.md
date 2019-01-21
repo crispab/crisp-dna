@@ -2,9 +2,21 @@
 title: Shareholder contract, English translation
 ---
 
-Shareholder contract
+Shareholder agreement
 ====================
 
-Hey you! Yes, you. Do you speak Swedish and English? If so it would awesome if you could translate the [shareholder contract](shareholder-contract-sv.html) to English, so we could put it here.
+After tax advice we decided the structure in Australia that would work best for us is a Trust as is allows Product Space to operate legally and create the Home we've described elsewhere in our DNA.
 
-In the meantime, here's a [google translation](https://translate.google.com/translate?sl=sv&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdna.crisp.se%2Fdocs%2Fshareholder-contract-sv.html) of the contract. Not pretty, but you should get the general idea.
+For transparency, here's how it looks:
+[insert legal structure.png from legals folder]
+
+One of the reasons we chose a Trust is because we don't believe in retaining profits in the entity. Gold in gold out remember. Whist we must maintain enough for liquidity and to provide the Home (mostly support, training, and development of our people), there no such desire to create gross profit that only the owners would benefit from.
+
+Your situation may be different so make sure you get the right advice. 
+
+In the meantime, our structure requires a shareholders deed and a unit holders deed, both  available here:
+
+[insert shareholders agreement]
+[insert unit holders agreement]
+
+

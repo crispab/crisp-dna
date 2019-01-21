@@ -7,7 +7,7 @@ next_section: dashboard.html
 The Bun Protocol
 ================
 
-The Bun protocol is a lightweight, decentralised request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
+Ray6The Bun protocol is a lightweight, decentralised request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
 
 > We introduced this to Product Space after seeing how effective it was at Nomad8, having a lightweight sales process.
 

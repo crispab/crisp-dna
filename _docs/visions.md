@@ -1,48 +1,18 @@
 ---
-title: Our visions
+title: Our purpose
 prev_section: our-business.html
 next_section: sales.html
 ---
 
-Visions
+Purpose
 =======
 
-One big aha in our evolution was when we [realized](http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) that Product Space itself is just a platform. Product Space doesn't have a Vision (with a Big V), we just want Product Space to be a [nice home for consultants](what-is-crisp.html).
+One big aha in our evolution was when we realised that Product Space is just a platform. We talked about using words like Community, Platform, Home because all three words describe what we want and we've settled on Home ... why? NBecause it just feels right :)
 
-However, many of the *people* at Product Space do have a vision. Here are the most widely shared visions:
+We have one clear purpose and that is for Product Space to be a [happy home for our Members](what-is-crisp.html).
 
-**Vision 1: "Help companies benefit from Lean/Agile"**
+Like Crisp, we measure this using a Happiness Index which you can take a look at here. 
 
-**Vision 2: "Develop companies and organizations so the people there can be happy, improve, and create increasing value."**
+We have other goals year on year, but this is our key goal and so it comes with a metric.
 
-PS: that doesn't mean we're all coaches. In fact, most of us are developers. See [our business](our-business.html).
 
-Why do we have multiple visions?
---------------------------------
-
-Because people don't all have to want the same thing. We're in this home together because we have a common set of values, not because we have to have the same vision and goals. People can work on whatever they are passionate about, and if enough other Members share the same passion it implicitly becomes a Product Space vision.
-
-How we work with visions
-------------------------
-
-We're guided by these principles (which we agreed upon on one of our [unconferences](unconference.html)):
-
--   Product Space can have several visions.
--   They can and should only be changed at our unconferences, so everyone can discuss.
--   The visions apply between the unconferences.
--   If you miss an unconference, you are automatically considered to "stand aside" (see our [hand signals](hand-signals.html)).
-
-Here is how we decided on these two particular missions:
-![How we identified our visions](../assets/Visions.jpg "How we identified our visions")
-
-It was a standing vote, where people could move their avatars to show their stance on each of the suggested vision statements. As discussion happened and the statements were improved, people moved their avatars around. Gradually we reached strong consensus on two of them (and almost on a third one).
-
-Two more principles:
-
--   It's OK to move your avatar up and down even between conferences (the poster is on the wall in our office). But that will be considered input to the next conference, no decision will be made directly.
--   We bring this poster to our conferences, so we keep iterating on it (just like our two A3s [What is Product Space](what-is-crisp.html) and [How we work](how-crisp-works.html)).
-
-Does everyone have to agree with these visions?
------------------------------------------------
-
-No. In fact, if you look at the photo above, at least 10 people voted "stand aside" for both visions. That means they are fine with that vision, but personally have other priorities. And that's perfectly fine.
