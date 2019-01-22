@@ -7,7 +7,7 @@ next_section: ownership-model.html
 Happiness Index
 ===============
 
-Our primary metric is “Nöjd Crispare Index” (in english: “Happy Member Index” or “Crisp Happiness Index”). It's the only thing we systemically measure and follow up. Scale is 1-5. The data lives in our [dashboard](dashboard.html) (a shared Google spreadsheet).
+Our primary metric is Happiness Index. It's the only thing we systemically measure and follow up. Scale is 1-5. The data lives in our [dashboard](dashboard.html) (a shared Google spreadsheet).
 
 ![Happiness History](../assets/HappinessIndex.png "Happiness History"):https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE
 
@@ -66,8 +66,3 @@ Happiness history
 
 We use a separate [history worksheet](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE#gid=3) to show how the average happiness changes over time, and how it correlates to specific events. We update the history manually - from time to time someone simply copies the average happiness values and adds to the history table, and the history chart gets updated.
 
-Here's our actual happiness history 2008-2014:
-
-![Happiness History](../assets/HappinessHistory.png "Happiness History")
-
-Very useful to spot trends! We're usually around 4, our all-time low is 2.7 (a temporary dip in early 2010 when we had a bad conflict), and our all-time high is 4.3 (late 2014)

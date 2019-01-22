@@ -4,10 +4,12 @@ prev_section: bun-protocol.html
 next_section: office-team.html
 ---
 
-Product Space Dashboard
+Product Space Happy Member Dashboard
 ===============
 
-The dashboard is an internal shared google spreadsheet containing our most vital shared information. It starts with  the [happiness index](happiness-index.html), and include other tabs like:
+The happy member dashboard is an internal shared google spreadsheet containing our most vital shared information. 
+
+It starts with the [happiness index](happiness-index.html), and include other tabs like:
 
 -   **Happiness index** - how happy are we and why?
 -   **Happiness history** - how has the happiness index developed over time?
