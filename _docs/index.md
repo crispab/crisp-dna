@@ -73,15 +73,12 @@ Supporting practices
 
 (relevant stuff, but not core to our model)
 
--   [Email conventions](email-conventions.html) - how we get transparency without information overflow
--   [Hand signals](hand-signals.html) - how do have discussions in larger groups?
 -   [Industries that we avoid](industries-that-we-avoid.html) - why we avoid certain industries
--   [Hack summit](hack-summit.html) - how we geek out together
--   [Crisplets](crisplets.html) - how do bottom-up initiatives get funded?
+-   [Productlets](crisplets.html) - how do bottom-up initiatives get funded?
 -   [Conflict handling](conflict-handling.html) - How do we make sure conflicts are constructive rather than destructive?
--   [Contracts](contracts.html) - our internal contracts for Product Space membership, ownership, etc.
+-   [Agreements](contracts.html) - our internal agreements for Product Space membership, ownership, etc.
 -   [Building competence](building-competence.html) - how we learn from each other and improve
--   [Courses and event production](courses-and-event-production.html) - how do courses and events get produced?
+-   [Courses](courses-and-event-production.html) - how do courses get produced and delivered?
 -   [Brand building](brand-building.html) - how do we build the brand, both Product Space and personal brands?
 
 Meta
