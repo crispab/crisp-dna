@@ -11,7 +11,7 @@ Our second A3 is called "Product Space strategy" but it's really more about how 
 
 ![Product Space Strategy A3](../assets/CrispStrategyA3-sv.jpg "Product Space Strategy A3")
 
-It hangs on the wall next to the [What is Product Space](what-is-crisp.html) A3. Here's an [english translation](../assets/CrispStrategyA3-en.pdf) of the pic. Summarized below:
+It hangs on the wall next to the [What is Product Space](what-is-crisp.html) A3. 
 
 What do we measure?
 -------------------
@@ -24,11 +24,11 @@ We measure:
 How do we finance the home?
 ---------------------------
 
-To cover our costs, every Member pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around SEK 3500-5000, and the variable fee is usually around 8-12%. The fee is intended only to cover Product Space's costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
+To cover our costs, every Member pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around $200/mth, and the variable fee is usually around 8-12%. The fee is intended only to cover Product Space's costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
 
-> **Why a fixed + variable fee?** If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable. It is also typical Sveeedish to pick a model that is [lagom](https://en.wikipedia.org/wiki/Lagom) - as in, nobody is totally happy and nobody is totally disappointed ;-)
+> **Why a fixed + variable fee?** If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable. Our members feel this is a balanced approach.
 
-We also have a ceiling, to limit the total fee a consultant pays to Product Space per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because Product Space gets too expensive. The ceiling is usually around kSEK 250-300 per year.
+We also have a ceiling, to limit the total fee a consultant pays to Product Space per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because Product Space gets too expensive. The ceiling is usually around $20,000 per year.
 
 See [Economic model](economic-model.html) for concrete examples.
 
