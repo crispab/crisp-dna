@@ -9,3 +9,8 @@ collections:
     output: true
 company_name: "Crisp"
 google_analytics_tracker_code: "UA-7074695-4"
+title: Crisp Model
+description: How Crisp works as an organization, aka the Crisp DNA!x
+google_analytics: UA-7074695-4
+show_downloads: true
+theme: jekyll-theme-cayman
