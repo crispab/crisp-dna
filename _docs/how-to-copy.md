@@ -7,7 +7,7 @@ next_section:
 How to clone the Product Space DNA
 ==========================
 
-The Product Space DNA is [open-source on github](https://github.com/crispab/crisp-dna), so you are welcome to copy it and create something similar.
+The Product Space DNA is [open-source on github](https://github.com/theproductspace/crisp-dna), so you are welcome to copy it and create something similar.
 
 Why clone the Product Space DNA?
 ------------------------
