@@ -7,23 +7,15 @@ next_section: office-team.html
 Product Space Dashboard
 ===============
 
-The dashboard is an internal shared google spreadsheet containing our most vital shared information. It started with just the [happiness index](happiness-index.html), and then we gradually added more sheets to it.
-
-The dashboard contains:
+The dashboard is an internal shared google spreadsheet containing our most vital shared information. It starts with  the [happiness index](happiness-index.html), and include other tabs like:
 
 -   **Happiness index** - how happy are we and why?
 -   **Happiness history** - how has the happiness index developed over time?
 -   **Capacity & availability** - who needs a new client?
 -   **Competency matrix** - who is good at what, and who is interested in what?
 -   **Decision log** - which Product Space-wide decisions have been made?
--   **Fee income** - how much money is Product Space earning every month?
--   **Revenue per consultant** - economic figures on a person-by-person basis
 
 Who is responsible for keeping it up to date?
 ---------------------------------------------
 
-We share the responsibility. When any part starts looking old, someone will usually take action (like emailing the team list "Hey guys, time to update the happiness index!").
-
-Some sheets have implicit owners. For example "fee income" and "revenue per consultant" are usually maintained by the board, since they have better access to the raw economic figures (and are better at interpreting the numbers).
-
-In general, if any sheet goes unmaintained for a long time, that's a signal that it isn't important and should be removed from the dashboard.
+We are currently sharing the responsibility of keeping the dashboard updated.
