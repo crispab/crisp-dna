@@ -7,22 +7,22 @@ next_section: decisions.html
 Economic Model
 ==============
 
-The high level economic model is summarized in [How Product Space Works](how-Product Space-works.html). Here are some concrete examples to make it more clear.
+The high level economic model is summarized in [How Product Space Works](how-Product-Space-works.html). Here are some examples of how our economic model works.
 
 Example: One month
 ------------------
 
-Suppose Sandy is a Product Space consultant, and her current client is APNIC. Sandy's consulting fee is $150 per hour. And suppose the current Product Space fee is 10% + $5200/month.
+Suppose Sandy is a Product Space consultant, and her current client is APNIC. Sandy's consulting fee is $150 per hour. And suppose the current Product Space fee is 10% + $200/month.
 
 1.  During January, Sandy does 100 hours of work for APNIC.
 2.  At the end of January, Sandy adds one row to the invoicing spreadsheet (a single shared Google doc for everyone at Product Space), noting that APNIC should be invoiced $10,000 for January.
 3.  The office team sends a $10,000 invoice from Product Space to APNIC, for Sandy's services.
-4.  Sandy sends a $9,000 invoice from her personal company to Product Space ($10,000 minus the 10% Product Space "tax").
+4.  Sandy sends a $9,000 invoice from her personal company to Product Space ($10,000 minus the 10% Product Space "members fee").
 
 **Result for January:**
 APNIC pays $10,000, Sandy earns $9,000, Product Space earns $1,000.
 
-In addition, once per quarter Product Space will send a $1500 invoice to Sandy's company (3 x $200, the monthly fixed fee).
+In addition, once per quarter Product Space will send a $600 invoice to Sandy's company (3 x $200, the monthly fixed fee).
 
 So let's put it all together.
 
@@ -34,20 +34,20 @@ Suppose Sandy earns the same amount as above, every month for a year. In that ca
 -   APNIC paid $120,000 for Sandy's services ($10,000 x 12 months)
 -   Sandy earned $108,000 for her work at APNIC (90% of the income from APNIC)
 -   Product Space earned $12,000 from Sandy's work at APNIC (10% of the income from APNIC)
--   In addition, Sandy paid $6000 to Product Space in fixed fees ($500 x 12 months)
+-   In addition, Sandy paid $2,400 to Product Space in fixed fees ($200 x 12 months)
 -   **Result for the year:**
     -   APNIC: -$120,000
     -   Sandy: +$102,000
-    -   Product Space: +$18,000
+    -   Product Space: +$14,400
 
 Example: hitting the ceiling
 ----------------------------
 
 Suppose the Product Space fee ceiling is $20,000 per year.
 
-And suppose Sandy gets famous for her specialty skills in UX research, and manages to land a $200/hour gig at Design Company (something about robots, they're very secretive about it)! Sandy still works 100 hours per month (reserving the rest of her time for hobby projects and family).
+And suppose Sandy gets famous for her specialty skills in UX research, and manages to land a $200/hour gig at Design Company. Sandy still works 100 hours per month (reserving the rest of her time for hobby projects and family).
 
-That means Sandy will pull in about $240,000, which means the Product Space fee would be $24,000. That's way past the $20,000 ceiling, and we haven't even taken the fixed $500/month into account. The point of having a ceiling is to make sure the cost of being at Product Space doesn't get out of hand for the highest paid consultants.
+That means Sandy will earn in about $240,000, which means the Product Space fee would be $24,000. That's way past the $20,000 ceiling, and we haven't even taken the fixed $200/month into account. The point of having a ceiling is to make sure the cost of being at Product Space doesn't get out of hand for the highest paid consultants.
 
 Sandy tells the office team that he's most likely going to hit the ceiling ther year, so there's no point bothering with the % fee. Instead, Sandy keeps 100% of what he earns, and Product Space just invoices him the ceiling fee of $5000 per quarter (= $20,000 per year divided into 4 quarters). Simple.
 
