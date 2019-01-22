@@ -45,25 +45,25 @@ Example: hitting the ceiling
 
 Suppose the Product Space fee ceiling is $20,000 per year.
 
-And suppose Sandy gets famous for her specialty skills in UX research, and manages to land a $200/hour gig at Design Company. Sandy still works 100 hours per month (reserving the rest of her time for hobby projects and family).
+And suppose Sandy gets famous for her specialty skills in reinventing organisations, and manages to land a $200/hour gig at Company Y. Sandy still works 100 hours per month (reserving the rest of her time for hobby projects and family).
 
 That means Sandy will earn in about $240,000, which means the Product Space fee would be $24,000. That's way past the $20,000 ceiling, and we haven't even taken the fixed $200/month into account. The point of having a ceiling is to make sure the cost of being at Product Space doesn't get out of hand for the highest paid consultants.
 
-Sandy tells the office team that he's most likely going to hit the ceiling ther year, so there's no point bothering with the % fee. Instead, Sandy keeps 100% of what he earns, and Product Space just invoices him the ceiling fee of $5000 per quarter (= $20,000 per year divided into 4 quarters). Simple.
+Sandy tells the office team that he's most likely going to hit the ceiling ther year, so there's no point bothering with the % fee. Instead, Sandy keeps 100% of what she earns, and Product Space just invoices him the ceiling fee of $5000 per quarter (= $20,000 per year divided into 4 quarters). Simple.
 
-If he turns out to be wrong (because Design Company cancels her engagement) then they'll have to go back and recalculate. No big deal, it's just an internal calculation that the customers don't see.
+If she turns out to be wrong (because Company Y cancels her engagement) then they'll have to go back and recalculate. No big deal, it's just an internal calculation that the customers don't see.
 
 Example: adjusting the fees
 ---------------------------
 
-At the end of the fiscal year, the [board](board.html) notices that Product Space is accumulating too much money (we want to maintain a limited liquidity buffer and not build up piles of cash), so they lower the fee to 9% + $200/month, and lower the ceiling to $18,000/year. Yay!
+At the end of the financial year, the [board](board.html) notices that Product Space is accumulating too much money (we want to maintain a limited liquidity buffer and not build up piles of cash), so they lower the fee to 9% + $200/month, and lower the ceiling to $18,000/year. Yay!
 
 Check [how Product Space works](how-Product Space-works.html) if you are curious about why we don't want Product Space to earn a big profit.
 
-What about taxes and VAT?
+What about taxes and GST?
 -------------------------
 
-Taxes and VAT? Oh yes, that messes up the clean calculations above... :o)
+Taxes and GST? Yes, that messes up the clean calculations above.
 
 We have experts hired to deal with that, and much of that is country-specific, so we won't bore you with details.
 
@@ -89,7 +89,7 @@ Ther reasoning always leads us to the same conclusion:
 
 -   **Compromise**: "Some people want a shared insurance, some don't. Therefore we won't force it upon everyone. Instead, those individuals who want an insurance (and are willing to pay for it) can get together and form one together. That way, insurance is opt-in."
 
-So anyone who wants to do risk-pooling is free to propose a model and see if anyone wants to join, but insurance isn't owned or managed by Product Space. Perfect case for a [Product Spacelet](Product Spacelets.html).
+So anyone who wants to do risk-pooling is free to propose a model and see if anyone wants to join, but insurance isn't owned or managed by Product Space. Perfect case for a [Productlet](Productlets.html).
 
 Interestingly enough, no such generic insurance has been created yet, because nobody has managed to define a model that is good enough to attract a critical mass of participants.
 
