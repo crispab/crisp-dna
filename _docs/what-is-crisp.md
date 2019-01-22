@@ -16,6 +16,8 @@ We refer to this as "our home" which we've visualsed below, along with a descrip
 
 It hangs on the wall in our office, and we bring it to our gatherings and meetups to reminds us of who we are and why and also in case we want to update it.  
 
+In simple terms, we are a consultancy. But a consultancy done differently. Very differently. We consult in product management and all its flavours. 
+
 ## What we value
 
 Product Space is a home for consultants (Members) specialising in digital product management or an important relative to it such as agile or UX, who value:
