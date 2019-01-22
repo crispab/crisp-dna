@@ -29,12 +29,12 @@ Instead, we follow these principles/guidelines:
 
 -   **The person driving an issue owns the decision process.**
 -   **A decision is only a decision if there is a “puller” who follows up on the execution.** (we use the term "driver" and "puller" interchangeably)
--   **Important decisions should be documented in our [decision log](dashboard.html) and emailed to everyone**
+-   **Important decisions should be documented in our [decision log](dashboard.html)**
 -   Some decisions lead to funded “projects”, like our new website. The people involved in something like that form a Productlet. To get funding, there needs to be two “pullers” throughout the whole project. In practice, we seldom have big projects and rarely need to use this model.
 
-**Example:** If the board is considering to raise the team fee, the board drives that question, and therefore gets to pick the decision process.
+> **Example:** If the board is considering to raise the team fee, the board drives that question, and therefore gets to pick the decision process.
 
-**Example:** If I want Product Space to collaborate with company X, then I’m the one driving that question and I pick the decision process.
+> **Example:** If I want Product Space to collaborate with company X, then I’m the one driving that question and I pick the decision process.
 
 
 How do I pick a decision process?
@@ -49,7 +49,8 @@ Here are some examples of different decisions processes on a scale from “fast�
 
 The term “team” in this case really means “those who are affected by the decision”. Sometimes the whole team, sometimes just a few individuals.
 
-These decisions processes can be combined. For example, start by getting input from the whole team, then suggest a decision and anchor with those people who are most directly affected.
+These decisions processes can be combined. 
+> Example: start by getting input from the whole team, then suggest a decision and anchor with those people who are most directly affected.
 
 For simple decisions, this communication can happen via email or an online poll. For more complex or sensitive decisions, face-to-face conversation is better. We usually do those at our [unconference](unconference.html).
 
@@ -63,12 +64,11 @@ Some things to consider when choosing a decisions process:
 -   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, office admin, etc. May also depend on how long you’ve been at Product Space (if you are new and unsure you might need to seek more anchoring from people).
 -   **Is the outcome affected by laws?** The board of directors in an Australian company is bound by Australian laws, so some decisions must be aligned with the board of directors.
 
-Example decisions:
-
--   “Should I arrange a free seminar with Lyssa Adkins” =&gt; **Own decision**. Just do it.
--   “Which color should we have on the Product Space cup?” =&gt; **Own decision with team input**.
--   “How often should we do Product Space unconferences?” =&gt; **Own decision with team anchoring**.
--   “Should we divided the company into two business units?” =&gt; **Team decision**.
+> Example decisions:
+>-   “Should I arrange a free seminar with Lyssa Adkins” =&gt; **Own decision**. Just do it.
+>-   “Which color should we have on the Product Space cup?” =&gt; **Own decision with team input**.
+>-   “How often should we do Product Space unconferences?” =&gt; **Own decision with team anchoring**.
+>-   “Should we divided the company into two business units?” =&gt; **Team decision**.
 
 At the end of the day it’s about balancing risk. If you make the decision yourself it will be fast, but you risk a backlash if others don’t support it. If you seek 100% consensus you may get a better decision with better support, but it could take time – especially for questions where people have opposing opinions.
 
