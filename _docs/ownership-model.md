@@ -44,6 +44,8 @@ So what's the point of being a shareholder? Well, it's mostly symbolic - the war
 What if someone buys Product Space?
 ---------------------------
 
-In theory someone could come along, smell our happiness and shell out a bunch of cash to buy Product Space, and in that case the owners agreed, we would in a sense cash out. But with the current structure we see that as extremely unlikely. Product Space itself is just a container, a platform, a home. The real value is the Members, and they aren't even employed by Product Space. So although someone can technically buy Product Space, they can't really buy the people inside Product Space. And besides, who would buy a company that explicitly strives to minimise it's financial value :o)
+In theory someone could come along, smell our happiness and shell out a bunch of cash to buy Product Space, and in the case the owners agree, we would in a sense cash out. 
+
+But with the current structure we see that as extremely unlikely. Product Space itself is just a container, a platform, a Home. The real value is the Members, and they aren't even employed by Product Space. So although someone can technically buy Product Space, they can't really buy the people inside Product Space. And besides, who would buy a company that explicitly strives to minimise it's financial value :o)
 
 But who knows. The world can be strange sometimes.

@@ -7,28 +7,28 @@ next_section: email-conventions.html
 Product Space Unconference
 ==================
 
-Twice per year we do an internal unconference, in Sweden or abroad.
+Once a year we do an internal unconference, in Australia.
 
-An unconference is like a normal conference but with no predefined agenda, no predefined list of speakers, no slides, and… er… actually it’s not very much like a normal conference at all! It’s more like an alternative to a conference. If the purpose of a conference is to collaborate and communicate, then an unconference will often fulfill the same purpose in a more simple, fun, and effective way!
+An unconference comes with no predefined agenda, no predefined list of speakers, and no slides. We figure that out, together, in real time. 
 
-> For details, check the ebook [How to run an internal conference](https://leanpub.com/unconference) or [these slides](https://dl.dropboxusercontent.com/u/1018963/Projects/2013-06-18%20Agile%20Evening/HowToRunAnUnconference.pdf) which summarize it.
+Think of it as an alternative to a conference. If the purpose of a conference is to collaborate and communicate, then an unconference will often fulfill the same purpose in a more simple, fun, and effective way!
+
+> For details, check the ebook [How to run an internal conference](https://leanpub.com/unconference).
 
 Why we do conferences
 ---------------------
 
 Face-to-face is the most effective way to get to know each other, spread knowledge, solve problems, and make decisions. Unfortunately, since we are consultants and work with different clients, we rarely naturally meet as a big group. So that's the purpose of the unconference - to get everyone together!
 
-Through experimentation we've learned that twice per year is frequent enough to deal with important topics before things get out of hand, and seldom enough for the travel cost & coordination overhead to be palatable.
-
 Where do we go?
 ---------------
 
-Varies. We normally alternate between a small local trips (2 days at a venue near Stockholm), followed by a bigger international trip (4 days in some interesting European city, like Barcelona or Rome or Istanbul).
+Varies. We don't have a "norm" yet. It's been Australia so far but odds are it'll be overseas as some point in the near future.
 
 Does everyone have to attend?
 -----------------------------
 
-More or less, yes. We haven't made it a formal rule, but implicitly people are expected to attend "most" conferences (sometimes Life gets in the way of course). This is our most important team activity, and all high-impact decisions happen there. We also get to know each other better, build trust, trade knowledge, and have lots of fun!
+More or less, yes. We haven't made it a formal rule, but implicitly people are expected to attend "most" conferences (sometimes Life gets in the way and that's OK). This is our most important team activity, and all high-impact decisions happen there. We also get to know each other better, build trust, trade knowledge, and have lots of fun!
 
 Basically, the conference is where the Product Space DNA strengthens and evolves!
 
@@ -45,13 +45,13 @@ That means the only real rule is the **Law of 2 feet**. Our version of it is: **
 
 Other guiding principles (we vary them a bit, but this should give you the general idea):
 
--   **Whoever comes are the right people.**
+-   **Whoever comes are the right people**
     -   You can influence people, but not control them. The people who decided to come to your session are the right people, because they chose to come. What if nobody shows up? Don’t worry. How often do you get time to really sit down and reflect on a topic? Take the chance! And maybe people will show up after a while. Or you simply use the law of 2 feet and go somewhere else.
--   **It's up to you.**
+-   **It's up to you**
     -   If you want something to happen, or a topic to come up, or a decision to be made, do something about it. Don’t expect someone else to do it for you.
--   **Whatever happens is the only thing that could have.**
+-   **Whatever happens is the only thing that could have**
     -   Prepare to be surprised! Things rarely turn out as expected, so there’s no point in fretting over what should have happened or might have happened. Take each moment as it comes, and make the best of it.
--   **It's over when it's over.**
+-   **It's over when it's over**
     -   We have time slots, but a conversation doesn't have to be exactly that long, not does it have to stay on topic. Maybe you run out of steam, or reach a great conclusion after just 20 minutes. Or maybe you want to continue this topic for another hour! That’s fine, although in that case you might want to move your group out of the way, to make space for the next group.
 
 ![Open space principles](../assets/Unconference-Principles.jpg "Open space principles")

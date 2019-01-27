@@ -14,7 +14,7 @@ So we don't actively recruit new Members. There's no economic incentive to grow 
 
 With happiness as our key metric, growth and revenue are a side effect so recruiting for the sake of these latter metrics doesn't rate.
 
-Having said all of that, we're still relatively new and don't know what the right number is and how often. As we learn we'll continue to update these pages. 
+Having said all of that, we're still relatively new and don't know what the right number is, and how often to do it. As we learn we'll continue to update these pages. 
 
 Hire amazing people, or don't hire at all
 -----------------------------------------
@@ -27,7 +27,7 @@ Who gets to join
 
 Because we believe in freedom and autonomy and therefore, because everyone is responsible for themselves, our minimum bar with new people is:
 
-1.  At least one us has worked with the candidate before. We want someone to say "Hey, I've worked with her before, she is extraordinary! We'd be IDIOTS not to let her join!" We may occasionally be open and curious if someone comes highly recommended from someone that one of us has worked with and trusts implicitly 
+1.  At least one us has worked with the candidate before. We want someone to say "Hey, I've worked with her before, she is bloody amazing! We'd be IDIOTS not to let her join!" We may also occasionally be open and curious if someone comes highly recommended from someone that one of us has worked with and trusts implicitly. 
 2.  Someone at Product Space is willing to be a "puller" for the candidate. That's our internal term for the person "pulling" an initiative and making sure things move forward, and that the candidate is well-treated. Similar to the bun holder in our [bun protocol](bun-protocol.html).
 3.  No one has vetoed the candidate.
 
@@ -36,14 +36,14 @@ This considerably limits the number of applicants, but again that's ok with us b
 Other things that we value and use to help us determine who to accept and reject:
 
 -   They complement us somehow, eg with new skills or perspectives that we lack. They will make us feel like newbies in some area!
--   They have lots of energy and ideas, and not shy in challenging the status quo.
--   THey have a strong reputation in the industry.
+-   They have lots of energy and ideas, and aren't  shy in challenging the status quo.
+-   They have a strong reputation in the industry.
 -   They share our values (this is non-negotiable).
 
 Don't steal people from clients
 --------------------------------
 
-One golden rule as a Product Space Member will never ever hire a co-worker from a client. Our Clients don't need that, they've got enough going on in their day. There is some possibility that after someone has long finished working at a client site and they come to us, well you can't keep that door closed.
+One golden rule as a Product Space Member, we never ever hire a co-worker from a client. Our Clients don't need that, they've got enough going on in their day. There is some possibility that after someone has long finished working at a client site and they come to us, well you can't keep that door closed.
 
 Again, we are in no hurry to grow. An amazing person is worth waiting for.
 
@@ -54,10 +54,12 @@ People who want stability. You won't have stable working hours and a fixed desk.
 
 This kind of model obviously doesn't fit everyone.
 
+People won't fit if they don't share our values either. 
+
 What kind of people do fit at Product Space?
 ------------------------------------
 
-Most people who end up at Product Space were previously independent consultants (or were heading in that direction), or interestingly, people who don't like the way many organisations operate or were feeling they weren't doing their best work.  Typical personality traits:
+Most people who end up at Product Space were previously independent consultants (or were heading in that direction), or interestingly, are people who don't like the way many organisations operate or were feeling they weren't doing their best work.  Typical personality traits:
 
 -   **Self-confident** - they know that they are highly skilled and in high demand.
 -   **Adventurous** - time without an assignment isn't the end of the world, it's an opportunity to play around, learn new stuff even stuff that's not directly related to their craft.
@@ -71,15 +73,15 @@ Of course, not everyone at Product Space has all these traits. But this is typic
 What's the recruitment process?
 -------------------------------
 
-This is a work in progress so currentlyit's as follows (we handle exceptions the same we make any other [decisions](decisions.html) at Product Space):
+This is a work in progress so currently it's as follows (we handle exceptions the same we make any other [decisions](decisions.html) at Product Space):
 
 1.  X (a candidate) approaches us and asks to join Product Space or we might even approach X.
 2.  One of our Members, Y, says she'd be happy to be X's "puller". All candidates must have a "puller" to proceed with the recruitment process. First requirement is met.
 3.  Y makes sure that the other minimum requirements are met:
-    1.  She finds out which Members have worked with Mr X before and what they think of him. That takes care of the requirement that someone has worked with X before.
-    2.  If those who know X give a thumbs up, he's now an official candidate. At this point she sends an email to the Members, for example:  "I think X should be a Member, because \[reasons\]. Anyone against?". She also adds Mr X to the recruitment document.
-    3.  Then she does what she deems necessary to make sure that people at Product Space know about X and have a chance to get to know him. She might organise interviews, coffees, discussions. She makes sure that no one is against X becoming a Member. As long as no one is against hiring X we keep going forward with the process. Now all the minimum requirements have been met.
-4.  It's now time for Y and all the "pullers" for other potential candidates (plus anyone else interested) to get together and compare the candidates based on our "nice to have" criteria, and our values. The "pullers" put together a list of candidates we should consider, all other candidates are rejected.
+    1.  She finds out which Members have worked with X before and what they think of him. That takes care of the requirement that someone has worked with X before.
+    2.  If those who know X give a thumbs up, he's now an official candidate. At this point Y sends an email to the Members, eg:  "I think X should be a Member, because \[reasons\]. Anyone against?". Y also adds X to the recruitment document.
+    3.  Then Y does what she deems necessary to make sure that people at Product Space know about X and have a chance to get to know him. She might organise interviews, coffees, discussions. She makes sure that no one is against X becoming a Member. As long as no one is against hiring X we keep going forward with the process. Now all the minimum requirements have been met.
+4.  It's now time for Y and all the "pullers" for other potential candidates (plus anyone else interested) to get together and compare the candidate based on our "nice to have" criteria, and our values. The "pullers" put together a list of candidates we should consider, all other candidates are rejected.
 
 What happens if Y wants to recruit X? In that case Y starts at Step 3i, and once it's clear there are no objections from the other Members, she contacts X and if he's on board and would like to join, she then proceeds to step 3ii. The rest of the process is the same. This gives X a chance to get to know the rest of us, and we get a chance to get to know him.
 
@@ -92,4 +94,6 @@ Welcome! You'll need to sign our [Member Agreement](team-contract-en.html), and 
 
 Congrats, you are now your own manager! Be nice.
 
-We will also go for dinner somewhere nice, setup your email account and other tools. We will also spend quite a bit of time with you at the start immersing you in our culture and our ways of working. Finally we'll proudly display you on our [site](https://www.theproductspace.com/about-the-product-space/) of course :)
+We will also go for dinner somewhere nice, setup your email account and other tools. 
+
+We will also spend quite a bit of time with you at the start immersing you in our culture and our ways of working. Finally we'll proudly display you on our [site](https://www.theproductspace.com/about-the-product-space/) :)

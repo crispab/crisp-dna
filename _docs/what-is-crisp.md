@@ -9,14 +9,19 @@ What is Product Space and why?
 
 Our purpose is simple: to enable our Members to be happy. We measure only one thing and that's their happiness. 
 
-We refer to this as "our home" which we've visualsed below, along with a description of other things  that are important to us. 
+Referred to as "our home", we've visualsed it below, along with a description of other things  that are important to us. 
 
-[insert our home]
 ![What is Product Space](../assets/WhatIsCrispA3-sv.jpg "What is Product Space")
 
-It hangs on the wall in our office, and we bring it to our gatherings and meetups to reminds us of who we are and why and also in case we want to update it.  
+It hangs on the wall in our office, and we bring it to our gatherings and meetups to reminds us of who we are and why, and also in case we want to update it.  
 
-In simple terms, we are a consultancy. But a consultancy done differently. Very differently. We consult in product management and all its flavours. 
+## What we do
+
+We are a product management consultancy. We provide coaching, assessment and other services that relate to digital product management and all its flavours. 
+
+
+In simple terms, we are a consultancy. But a consultancy done differently. Very differently. 
+
 
 ## What we value
 
@@ -24,10 +29,11 @@ Product Space is a home for consultants (Members) specialising in digital produc
 
 -   **Trust** - As partners, guides, coaches or collaborators, trust is is our default means of engagement.
 -   **Heart** - We are kind and help those around us: inside and outside the organisation. 
--   **Freedom** - To manage our own time and who we work with, and autonomoy to be who we are and make our own informed choices. 
+-   **Freedom** - To manage our own time and who we work with. And autonomoy to determine who we are and make our own informed choices. 
 -   **Creative Thinking** - Working with unknowns requires openness, curiosity and creativity.
 -   **Competence** - Continually learning and improving, both our craft and who we are as people.
 -   **Balance** - We believe in the power of collective intelligence.
+
 
 We believe these values lead to personal happiness as well as business success.
 
@@ -41,7 +47,7 @@ Basically, we're trying to find the magic balance between being an independent c
 ## More on our values
 
 Trust
- - People fundamentally want to do the right thing.
+ - People fundamentally want an will do the right thing.
 - People are systematically considered to be good.
 
 Heart
@@ -49,7 +55,7 @@ Heart
 - Vulnerability, humility and honesty are just fine: we don’t know everything.
 
 Freedom
-- Personal independence along with self-determination allows us to lead rich lives 
+- Personal independence along with self-determination allows us to lead rich lives.
 - With freedom and autonomy given, accountability and transparency gets received. Said another way, freedom and accountability are two sides of the same coin.
 
 Creative Thinking
@@ -61,6 +67,6 @@ Competence
 - Honing and practicing our craft is critical.
 
 Balance
-- Everything is shareable: knowledge, power, wealth, information.
+- Everything is shareable: knowledge, power, wealth, information. And kindness.
 - Things should be balanced: in financial reward, in flatter organisational structures, in how power is used and distributed, in sharing information and knowledge. And importantly in our personal lives. We could go on and on about this but you get the point right :)
 
