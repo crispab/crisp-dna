@@ -1,7 +1,7 @@
 - title: Driving principles
   docs:
-  - what-is-crisp.html
-  - how-crisp-works.html
+  - what-is-productspace.html
+  - how-productspace-works.html
   - why-this-works.html
 
 - title: Core practices
@@ -14,7 +14,6 @@
   - communication.html
   - bun-protocol.html
   - dashboard.html
-  - office-team.html
   - board.html
   - our-business.html
   - visions.html
@@ -23,15 +22,12 @@
 
 - title: Supporting practices
   docs:
-  - email-conventions.html
-  - hand-signals.html
   - industries-that-we-avoid.html
-  - hack-summit.html
-  - crisplets.html
+  - productlets.html
   - conflict-handling.html
   - contracts.html
   - building-competence.html
-  - courses-and-event-production.html
+  - courses.html
   - brand-building.html
 
 - title: Meta
