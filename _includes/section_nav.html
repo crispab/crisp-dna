@@ -1,14 +1,14 @@
 <div class="section-nav">
   <div class="left align-right">
     {% if page.prev_section != null %}
-      <a href="/docs/{{ page.prev_section }}" accesskey="b" class="prev">&laquo; Back</a>
+      <a href="docs/{{ page.prev_section }}" accesskey="b" class="prev">&laquo; Back</a>
     {% else %}
       <span class="prev disabled">&laquo; Back</span>
     {% endif %}
   </div>
   <div class="right align-left">
     {% if page.next_section != null %}
-      <a href="/docs/{{ page.next_section }}" accesskey="n" class="next">Next &raquo;</a>
+      <a href="docs/{{ page.next_section }}" accesskey="n" class="next">Next &raquo;</a>
     {% else %}
       <span class="next disabled">Next &raquo;</span>
     {% endif %}
