@@ -11,7 +11,7 @@ Our purpose is simple: to enable our Members to be happy. We measure only one th
 
 Referred to as "our home", we've visualsed it below, along with a description of other things  that are important to us. 
 
-![What is Product Space](../assets/WhatIsCrispA3-sv.jpg "What is Product Space")
+![What is Product Space](../assets/theproductspace-what.png "What is Product Space")
 
 It hangs on the wall in our office, and we bring it to our gatherings and meetups to reminds us of who we are and why, and also in case we want to update it.  
 

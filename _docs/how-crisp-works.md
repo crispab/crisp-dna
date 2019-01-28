@@ -9,7 +9,7 @@ How Product Space works
 
 Our second A3 is called "Product Space strategy" but it's really more about how we operate:
 
-![Product Space Strategy A3](../assets/CrispStrategyA3-sv.jpg "Product Space Strategy A3")
+![Product Space Strategy A3](../assets/theproductspace-how.png "Product Space Strategy A3")
 
 It hangs on the wall next to the [What is Product Space](what-is-crisp.html) A3. 
 
