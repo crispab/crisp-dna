@@ -2,3 +2,4 @@ _site/
 .idea/
 .DS_Store
 crisp-dna.iml
+Gemfile.lock
