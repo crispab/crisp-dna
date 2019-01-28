@@ -7,20 +7,22 @@ next_section: contracts.html
 Conflict handling
 =================
 
-Conflict is inevitable in any organisation because, well, Humans :)
+Conflict is inevitable in any organisation because, well, we're all human and from time to time, fragile, sensitive; ocasionally stupid :)
 
-The way we deal with conflict is really important - some conflicts are healthy and productive and drive improvement - other conflicts are ugly and political and suck the soul out of the culture. We obviously want more of the former and less of the latter!
+The way we deal with conflict is super important - some conflicts are healthy and productive and drive improvement - other conflicts are ugly, political and suck the soul out of the culture. We want more of the former and less of the latter!
 
-Conflict handling gets a bit tricky with organizations like Product Space, with everything bottom-up and no managers. We've done pretty OK so far, but we want to get better.
+Conflict handling gets a bit tricky with organisations like Product Space, with everything bottom-up, with no management or managers, no place to "escalate". 
 
-Inspired by the book [Reinventing Organizations](http://www.reinventingorganizations.com), we've learned that self-organization at scale really needs an explicit conflict handling strategy, a simple process that everyone needs to be bought into.
+Inspired by the book [Reinventing Organizations](http://www.reinventingorganizations.com), we've learned that self-organisation at scale benefits from an explicit conflict handling strategy, a simple process that everyone needs to understand and commit to.
 
 We agreed on this 3-step conflict escalation process:
 
 Our conflict handling process
 ---------------------------------------------------
 
-**Step 1:** I take responsibility for bringing up and sorting out any gravel with the involved person(s) ASAP, or accept it and let it go for real (= don't complain). If someone brings up gravel with me, I will meet up.
+**Step 1:** I take responsibility for bringing up and sorting an issue with the involved person(s) ASAP, or accept it and let it go for real (seriously ... you really let it go). If someone brings up an issue with me, I commit to meeting up.
+
+In this phase the two people sit together and try to sort it out privately. The initiator has to make a clear request (not a judgement, not a demand), an the other person has to respond clearly to the request (with a yes, no or perhaps a counterproposal.)
 
 *... if the conflict didn't get solved:*
 
@@ -28,23 +30,12 @@ Our conflict handling process
 
 *... if the conflict didn't get solved:*
 
-**Step 3:** Moose-head meeting at Product Space ASAP with the involved parties.
+**Step 3:** Sev 1 at Product Space with the involved parties.
 
-Gravel? Moose head? Huh?
-------------------------
+There's nothing worse than stuff that festers so this is treated with extraordinary priority. A panel of 3 is convened asap; their role to listen an help shape agreement. The panel cannot force a decision but usually carries enough moral weight for matters to come to a conclusion. 
 
-Glad you asked!
+There's no need yet for a Step 4 ... 
 
-Gravel is a metaphor for small annoying problems that, if left unfixed, will get worse over time. For example a piece of gravel in your shoe. Best strategy is to stop and remove it as soon as you notice it.
-
-Moose head is a metaphor for a big ugly stinking thing sitting on the table. It brings the mood down, but it's been around for so long that few people notice it any more, and those who do don't dare to mention it or do anything about it.
-
-The purpose of our conflict handling process is to catch Gravel before it becomes a Moose head!
-
-How is it used?
---------------------------------
-
-Now it is pretty much part of our culture, and we try to hold each other accountable for it. Things like - "Hey Mark, I hear you complaining about Lisa. So are you going to bring it up with her directly, or let it go?"
 
 
 

@@ -1,8 +1,8 @@
 ---
-title: Team contract, English translation
+title: Member Services Agreement
 ---
 
-Product Space Member Services Agreement
+Member Services Agreement
 ===================
 
 Each Member runs their own company or sole trader (the language in Australia), and each Member provides services to Product Space. That includes Sarah and Sandy the owners of the business.

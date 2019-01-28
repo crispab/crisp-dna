@@ -75,7 +75,7 @@ Supporting practices
 
 (relevant stuff, but not core to our model)
 
--   [Agreements](contracts.html) - our internal agreements for Product Space membership, ownership.
+-   [Agreements](contracts.html) - legal agreements for Product Space membership, ownership.
 -   [Building competence](building-competence.html) - how we learn from each other and improve.
 -   [Brand building](brand-building.html) - how we build the brand, both Product Space and personal brands.
 -   [Conflict handling](conflict-handling.html) - How we make sure conflicts are constructive rather than destructive.

@@ -7,25 +7,24 @@ next_section: brand-building.html
 Courses
 ================
 
-Although we are at heart a consulting company, we do offer quite a lot of courses and seminars. So how does that work with our model?
+Although we are at heart a consulting company, we do offer courses and workshops. So how does that work with our model?
 
 How we do courses
 -----------------
 
 Product Space itself doesn't really run courses, it just provides the platform.
 
-Anyone at Product Space can organiSe a course (or any kind of event), and when they do so they implicitly take on the Producer role for that course.
+Anyone at Product Space can organise a course (or an event or workshop), and when they do so they implicitly take on the Producer role for that course.
 
 Driving principles:
 
--   Each course or event has a Producer
+-   Each course or event has a Producer.
 -   As Producer, you "own" the course. You are responsible for the course as whole, including course design, quality, marketing, etc.
--   As Producer, you use the Product Space Calendar (a shared Google calendar) to book the classroom and make sure there isn't a conflict.
 -   As Producer, you own the financial result of your course (win or loss). Just like with consulting, Product Space retains X% of your profit (see [economic model](economic-model.html)).
--   Product Space's role is to be the "platform", providing things such as a classroom, onsite assistance (serving coffee & snacks, etc) and lots of administrative support (invoices, lunch reservation, email communication, registration page, etc). The office team organises all of that.
--   Product Space will charge the producer a fixed course admin fee (usually around $600-700 per day), an all-inclusive fee that covers the cost of the office and all administrative support.
+-   Product Space's role is to be the "platform", providing things such as a classroom, onsite assistance (serving coffee & snacks, etc) and admin support (invoices, lunch reservation, email comms, registration page, etc).
+-   Product Space charges the Producer a reasonable and fair fixed admin fee that covers the cost of the office and all admin support.
 
-The Producer doesn't necessarily have to teach the course (although that's the most common case). Sometimes a producer will invite a "star" (someone outside of Product Space who is a well-known "guru" within his/her field) and host or co-teach a course.
+The Producer doesn't necessarily have to teach the course (although that's the most common case). Sometimes a Producer will invite a "star" (someone outside of Product Space who is a well-known "guru" within his/her field) and host or co-teach a course.
 
 Example
 -------
@@ -35,7 +34,7 @@ Here's a high-level summary of what happens with a typical course:
 1.  Sarah decides to teach an Agile Foundations course.
 2.  Sarah opens the Product Space calendar on Google, finds an open slot Feb 12-13, and writes Agile Fundations course (Sarah)". 
 3.  Sarah asks the Product Space office team to set up a registration page. He has taught this course before, so they copy-paste from last course instance.
-4.  Sarah synchronizes with other producers to make sure his course is mentioned in the next marketing email (see next section below).
+4.  Sarah synchronises with other producers to make sure his course is mentioned in the next marketing email (see next section below).
 5.  Registrations start coming in. We have a home-grown tool to process registrations and send email confirmations. Course registrations automatically end up in Google Spreadsheet.
 6.  About a week before the course, the office team sends a welcome email to the course participants
 7.  Feb 12 arrives. Sarah shows up at Product Space. Breakfast is served, handouts printed, everything ready to go thanks to the awesome office team!

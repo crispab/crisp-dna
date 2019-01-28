@@ -7,7 +7,7 @@ next_section: sales.html
 Purpose
 =======
 
-One big aha in our evolution was when we realised that Product Space is just a platform. We talked about using words like Community or Platform because these words describe what we want and we've settled on Home ... why? Because it just feels right :)
+One big aha in our evolution was when we realised that Product Space is just a Home. We talked about using words like Community or Platform because these words describe what we want and we've settled on Home ... why? Because it just feels right :)
 
 We have one clear purpose and that is for Product Space to be a [happy home for our Members](what-is-crisp.html).
 
