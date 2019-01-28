@@ -12,7 +12,7 @@ The model below is something we learned from the folk at Crisp and having reflec
 
 We're new compared to Crisp, so as we do more good work, we can reflect upon it against the backdrop of our real world experience and see if how it's working. 
 
-![WhyItWorks](../assets/WhyItWorks.png "WhyItWorks")
+![WhyItWorks](../assets/theproductspace-whyitworks.png "WhyItWorks")
 
 The key thing is the two loops - positive feedback cycles that keep getting stronger and stronger.
 
