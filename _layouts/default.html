@@ -25,6 +25,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      {% include section_nav.html %}
     </header>
 
     <main id="content" class="main-content" role="main">
