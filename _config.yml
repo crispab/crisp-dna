@@ -10,7 +10,9 @@ collections:
 company_name: "Product Space"
 google_analytics_tracker_code: "UA-7074695-4"
 title: Product Space DNA
-description: How Product Space works as a organisation, aka the Product Space DNA!x
+description: How Product Space works as a organisation, aka the Product Space DNA!
 google_analytics: UA-7074695-4
 show_downloads: true
 theme: jekyll-theme-cayman
+repository: theproductspace/crisp-dna
+github: [metadata]
