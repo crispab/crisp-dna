@@ -14,7 +14,9 @@ Why clone the Product Space DNA?
 
 Perhaps you are an independent consultant and want to start some kind of collaboration with others. You don't want to run it as a traditional consulting company, and yet you don't want to invent a model from scratch. In that case you can start from our model and modify it to fit your needs.
 
-Although we happen to work as IT consultants, there is nothing in our model that is specific to the IT consulting business.
+Remember we cloned it from the folk at Crisp in Sweden so if your company or organisation is closer to the Swedes than us Australians, maybe that one will suit you. Otherwise, off you go :)
+
+Although we happen to work as product management, digital, UX consultants, there is nothing in our model that is specific to this consulting business.
 
 What's the licensing model?
 ---------------------------
@@ -24,7 +26,7 @@ The Product Space DNA is licensed under [Attribution-ShareAlike 4.0 Internationa
 Can I call my company Product Space?
 ----------------------------
 
-Please don't. We can't legally stop you from calling your organization Product Space, but we prefer that you use a different name. Otherwise people may think there is some kind of relationship between our companies. If you pick a different name, our brands can evolve independently.
+Please don't. We can't legally stop you from calling your organisation Product Space, but we prefer that you use a different name. Otherwise people may think there is some kind of relationship between our companies. If you pick a different name, our brands can evolve independently.
 
 How do I create my own copy of the Product Space DNA site?
 --------------------------------------------------
@@ -37,21 +39,21 @@ Simplest way is to [fork](https://help.github.com/articles/fork-a-repo/) the [cr
 4.  Start editing! The articles are all in the \_docs folder, and the table of contents is in \_data. Try opening \_docs/index.textile, and press the little pencil icon on the top right to edit it, and then commit.
 5.  After your first commit the site will be auto-published at **http://YOURNAME.github.io/crisp-dna** (or whatever you decide to call your repo)
 
-Once you've cloned the dna, it's no longer the Product Space model, it's your model! Product Space is just your ancestral (and slightly weird) uncle. Change stuff as you like. Rename the company. Remove pages that aren't relevant. Change the content. Replace the pictures. Go wild.
+Once you've cloned the DNA, it's no longer the Product Space model, it's your model. Product Space is just your ancestral (and slightly weird) aunty. Change stuff as you like. Rename the company. Remove pages that aren't relevant. Change the content. Replace the pictures. Go wild.
 
 But wait, there's ALOT of content here!
 ---------------------------------------
 
-No worries, once you've forked it you can remove the stuff you don't need. The gist of our model is summarized in [What is Product Space](what-is-crisp.html) and [How Product Space works](how-crisp-works.html), so you might decide to just keep those two (but with your company name).
+No worries, once you've forked it you can remove the stuff you don't need. The gist of our model is summarised in [What is Product Space](what-is-crisp.html) and [How Product Space works](how-crisp-works.html), so you might decide to just keep those two (but with your company name).
 
-Another option is to skip the techie stuff (cloning and forking), and just steal the bits you like anyway.
+Another option is to skip the techie stuff (cloning and forking), and just take the bits you like anyway.
 
 Either way, please do mention on your website that your model is derived from (or inspired by) [Product Space DNA](http://dna.crisp.se), and summarize the key similarities and differences. Spread your learnings!
 
 How can I help improve the Product Space DNA?
 -------------------------------------
 
-Glad you asked, cuz Uncle Product Space always wants to improve! :o)
+Hey hey, thanks for asking because Aunt Product Space always wants to improve :)
 
 If you have an improvement suggestion (big or small) you can:
 
