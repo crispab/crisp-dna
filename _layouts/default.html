@@ -17,7 +17,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#1a1758">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=123214' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -35,7 +35,9 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      {{ content }}
+      <div class="main">
+       {{ content }} 
+      </div>    
       {% include docs_contents.html %}
       <footer class="site-footer">
         {% if site.github.is_project_page %}
