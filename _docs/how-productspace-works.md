@@ -7,7 +7,7 @@ next_section: why-this-works.html
 How Product Space works
 ===============
 
-We spose some will call this a strategy but it's really about how we operate:
+We suppose some will call this a strategy but it's really about how we operate:
 
 ![Product Space Strategy](../assets/theproductspace-how.png "Product Space Strategy")
 

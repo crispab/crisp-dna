@@ -14,7 +14,7 @@ Making decisions in a decentralised organisation with no managers is easier than
 Why don’t we have a well defined decision-making process?
 ---------------------------------------------------------
 
-We make lots of decisions all the time. Which type of sticky notes to buy? Should our internal fees be raised? Where and when is our next Product Space unconference? Which partners should we invite?
+We make lots of decisions all the time. Which type of sticky notes to buy? Should our internal fees be raised? Where and when is our next Product Space unconference? Should we invite partners and if so, who?
 
 Different types of decisions need a different process. It would be crazy to involve the whole team in decisions like which type of whiteboard pens to buy. And it would be crazy to NOT involve the whole team if we needed to decide on the location of our unconference.
 

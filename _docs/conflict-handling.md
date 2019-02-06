@@ -9,7 +9,7 @@ Conflict handling
 
 Conflict is inevitable in any organisation because, well, we're all human and from time to time, fragile, sensitive; ocasionally stupid :)
 
-The way we deal with conflict is super important - some conflicts are healthy and productive and drive improvement - other conflicts are ugly, political and suck the soul out of the culture. We want more of the former and less of the latter!
+The way we deal with conflict is super important - some conflicts are healthy and productive and drive improvement - other conflicts are shitty, political and suck the soul out of the culture. We want more of the former and less of the latter!
 
 Conflict handling gets a bit tricky with organisations like Product Space, with everything bottom-up, with no management or managers, no place to "escalate". 
 

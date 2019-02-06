@@ -16,7 +16,7 @@ Perhaps you are an independent consultant and want to start some kind of collabo
 
 Remember we cloned it from the folk at Crisp in Sweden so if your company or organisation is closer to the Swedes than us Australians, maybe that one will suit you. Otherwise, off you go :)
 
-Although we happen to work as product management, digital, UX consultants, there is nothing in our model that is specific to this consulting business.
+Although we happen to work as product management, digital, or UX consultants, there is nothing in our model that is specific to this consulting business.
 
 What's the licensing model?
 ---------------------------

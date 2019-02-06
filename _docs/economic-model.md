@@ -15,7 +15,7 @@ Example: One month
 Suppose Sandy is a Product Space consultant, and her current client is HappyClient1. Sandy's consulting fee is $150 per hour. And suppose the current Product Space fee is 10% of Sandy's billables + $200/month.
 
 1.  During January, Sandy does 100 hours of work for HappyClient1.
-2.  At the end of January, Sandy adds one row to the invoicing spreadsheet (a single shared Google doc for everyone at Product Space), noting that HappyClient1 should be invoiced $10,000 for January.
+2.  At the end of January, she adds one row to the invoicing spreadsheet (a single shared Google doc for everyone at Product Space), noting that HappyClient1 should be invoiced $10,000 for January.
 3.  The office team sends a $10,000 invoice from Product Space to HappyClient1, for Sandy's services.
 4.  Sandy sends a $9,000 invoice from her personal company to Product Space ($10,000 minus the 10% Product Space "members fee").
 
