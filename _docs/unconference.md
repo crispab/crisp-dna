@@ -114,10 +114,10 @@ Our larger unconferences usually look something like this:
 -   10:30 - 16:00 Breakout discussions (including lunch)
 -   16:00 - 17:00 Gather up and do summaries, decisions, and the like.
 
-Who organizes and facilitates the conference?
+Who organises and facilitates the conference?
 ---------------------------------------------
 
-The [office team](office-team.html) organize the trip itself (flight, hotel, venue, food, etc). The conference days are facilitated by a pair of Product Space consultants. Usually we rotate one person after every conference - the goal is that each conference should have one facilitator from last conference, and one that is new. That way the facilitator pair has experience from last conference, but also some new insights.
+Currently we volunteer amongst ourselves. The conference days are facilitated by a pair of Product Space Members. Usually we rotate one person after every conference - the goal is that each conference should have one facilitator from last conference, and one that is new. That way the facilitator pair has experience from last conference, but also some new insights.
 
 > We're lucky in that many Members work as coaches and have lots of facilitation experience. Of course, the downside is that it's sometimes challenging to facilitate other experienced facilitators! We sometimes slip into meta-discussions about how we should do stuff, rather than just doing it :)
 

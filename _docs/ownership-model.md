@@ -17,7 +17,7 @@ Our model is simple: **anyone who has been at Product Space for 2+ years can bec
 
 Now you might thinking "Huh, so *anyone* is allowed to become a owner? Really?".
 
-Exactly! The idea is that, if we wouldn't trust someone to co-own the company, why would we trust them to represent Product Space at all? So if, after two years, we don't trust a Member enough to offer them ownership, that's a sign they shouldn't be at Product Space at all. So far this hasn't happened.
+Exactly. The idea is that, if we wouldn't trust someone to co-own the company, why would we trust them to represent Product Space at all? So if, after two years, we don't trust a Member enough to offer them ownership, that's a sign they shouldn't be at Product Space at all. So far this hasn't happened.
 
 So, every year around early March (to co-incide with an upcoming Board meeting) we send an invite to all non-owners who have been around for at least 2 years, and ask them if they want to become owners.
 

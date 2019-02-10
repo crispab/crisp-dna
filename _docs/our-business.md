@@ -11,7 +11,7 @@ Product Space was initially born for those who love digital product management b
 
 In practice though, because of our history and the people who happen to work at Product Space, we've evolved two main business areas:
 
-1.  **Product Management**. The entire discipline, from the idea --> market dynamics --> validation --> marketing --> development --> operations. 
+1.  **Product Management**. The entire discipline, from the idea --> market research --> problemad solution validation --> marketing --> development --> operations. 
 2.  **Agile/Lean coaching and training**. Mostly focused on new ways of working, at the individual, team or organisational layer.
 
 That is, most Members happen to spend most of their time in one of those two areas. Some have one foot in each.

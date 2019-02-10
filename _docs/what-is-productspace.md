@@ -9,7 +9,7 @@ What is Product Space and why?
 
 Our purpose is simple: to enable our Members to be happy. We measure only one thing and that's their happiness. 
 
-Referred to as "our home", we've visualsed it below, along with a description of other things  that are important to us. 
+Referred to as "our home", we've visualised it below, along with a description of other things  that are important to us. 
 
 ![What is Product Space](../assets/theproductspace-what.png "What is Product Space")
 
@@ -17,7 +17,7 @@ It hangs on the wall in our office, and we bring it to our gatherings and meetup
 
 ## What we do
 
-We are a product management consultancy. We provide coaching, assessment and other services that relate to digital product management and all its flavours. 
+We are a product management consultancy. We provide coaching, assessment and other services that relate to digital product management and its core cousins like agile and UX. 
 
 
 In simple terms, we are a consultancy. But a consultancy done differently. Very differently. 
