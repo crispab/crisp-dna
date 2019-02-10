@@ -21,7 +21,7 @@ We believe:
 
 We've all read Agreements that go on for pages and pages, where you have to keep looking up the Definitions in order to understand the damn thing. 
  
- Well we hate that so we got our good mate Mark who's a savvy, practical, pragmatic lawyer who understands our values and principles to write something that would achieve our necessary legal requirements but be a fair and reasonable artifact to consume and commit to. 
+ Well we hate that so we got our good mate Mark who's a savvy, practica and pragmatic lawyer who understands our values and principles to write something that would achieve our necessary legal requirements but be a fair and reasonable artifact to consume and commit to. 
  
  We gave that copy to Lynne our good mate who specialises in Plain English writing and she finessed it.
  

@@ -7,9 +7,9 @@ next_section: office-team.html
 Product Space Happy Member Dashboard
 ===============
 
-The happy member dashboard is an internal shared google spreadsheet containing our most vital shared information. 
+The happy Member dashboard is an internal shared google spreadsheet containing our most vital shared information. 
 
-It starts with the [happiness index](happiness-index.html), and include other tabs like:
+It starts with the [happiness index](happiness-index.html), and includes other tabs like:
 
 -   **Happiness index** - how happy are we and why?
 -   **Happiness history** - how has the happiness index developed over time?
@@ -20,4 +20,4 @@ It starts with the [happiness index](happiness-index.html), and include other ta
 Who is responsible for keeping it up to date?
 ---------------------------------------------
 
-We are currently sharing the responsibility of keeping the dashboard updated.
+We currently sharing the responsibility of keeping the dashboard updated.
