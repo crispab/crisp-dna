@@ -46,4 +46,4 @@ Recruitment is crucial - the model only works as long as we are super-picky abou
 
 This makes for a slow-growth model but we're OK, in fact happy, with that. 
 
-See [Recruiting](recruiting.html) for more.
+See [Recruiting](recruiting-and-onboarding.html) for more.

@@ -65,7 +65,7 @@ Although these are core to our model, they are mostly just consequences of the p
 -   [How we make decisions](decisions.html) - how  decisions get made when there is no manager.
 -   [Our business](our-business.html) - what type of work we do.
 -   [Ownership model](ownership-model.html) - how  people become owners, and what ownership actually means.
--   [Recruiting](recruiting.html) - how new people get in.
+-   [Recruiting](recruiting-and-onboarding.html) - how new people get in.
 -   [Sales](sales.html) - how we actually sell Members?
 -   [Vision](visions.html) - How you get a bunch of autonomous people,
 -   [Unconference](unconference.html) - how our bi-annual unconference works.

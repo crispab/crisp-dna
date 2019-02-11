@@ -66,4 +66,4 @@ Fortunately, Product Space doesn't charge the Producer for a course if it got ca
 
 A few Product Spaceers puts up registrations for courses for which no course material exists. If no one signs up, then no one is harmed. If enough people sign-up, then there can be a mad scramble to create the course the few weeks before the course. This may not sound like a serious way to run things, but in a way it is like a lean startup - make a minimal product and see if it flies. And regardless of how professional a course may seem, the first time it was held the teachers were out on a limb and very nervous about it.
 
-This model works as long as nobody gets too reckless! Too many canceled courses would hurt the Product Space brand (see [how we build the brand](brand-building)). So far that hasn't been a problem.
+This model works as long as nobody gets too reckless! Too many canceled courses would hurt the Product Space brand (see [how we build the brand](brand-building.html)). So far that hasn't been a problem.

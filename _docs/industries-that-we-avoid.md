@@ -12,7 +12,7 @@ Currently we avoid the arms industry, the surveillance industry, gambling and po
 Why do we avoid these industries?
 ---------------------------------
 
-Our two [core values](what-is-crisp.html) "Freedom" and "Heart over Wallet" can sometimes collide. For example when it comes to which industries we work in. 
+Our two [core values](what-is-productspace.html) "Freedom" and "Heart over Wallet" can sometimes collide. For example when it comes to which industries we work in. 
 
 Some Members feel very strongly against the arms industry and the surveillance industry - for them, "Heart over Wallet" means avoiding those industries even if it means a loss of profit, and they don't want to associate with a company that works with these industries.
 
@@ -20,7 +20,7 @@ On the other hand, our "freedom" principle means that people can work with whate
 
 So what gives?
 
-To maintain a [happy Home](what-is-crisp.html) with mutual respect, we've agreed on this compromise:
+To maintain a [happy Home](what-is-productspace.html) with mutual respect, we've agreed on this compromise:
 
 1.  Product Space doesn't work with industries that at least one Member has a strong opinion against (currently arms, surveillance, porn and gambling).
 2.  If someone really wants to take on such a client, they must do so outside of Product Space.

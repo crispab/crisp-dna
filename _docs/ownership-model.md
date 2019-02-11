@@ -13,7 +13,7 @@ So who owns Product Space, how are new owners brought in, and what does ownershi
 
 Our model is simple: **anyone who has been at Product Space for 2+ years can become an owner.**
 
-> Why 2 years? Glad you asked :) Although we are [picky with recruiting](recruiting.html), we **might** screw up and bring in a bad apple. We trust that we'll  notice and get rid of a bad apple faster than 2 years! The 2 year rule reduces the risk that the bad apple is also a shareholder, which would complicate the getting-rid-of process.
+> Why 2 years? Glad you asked :) Although we are [picky with recruiting](recruiting-and-onboarding.html), we **might** screw up and bring in a bad apple. We trust that we'll  notice and get rid of a bad apple faster than 2 years! The 2 year rule reduces the risk that the bad apple is also a shareholder, which would complicate the getting-rid-of process.
 
 Now you might thinking "Huh, so *anyone* is allowed to become a owner? Really?".
 
@@ -24,7 +24,7 @@ So, every year around early March (to co-incide with an upcoming Board meeting) 
 What does ownership cost?
 -------------------------
 
-As you're read around this site, we work hard to to minimise the financial value of the company. Yes, you heard it right. I know, that's like the opposite of what other companies do right. But remember, the purpose of Product Space is not to enrich it's owners. The purpose is to [help Member be happy](what-is-crisp.html).
+As you're read around this site, we work hard to to minimise the financial value of the company. Yes, you heard it right. I know, that's like the opposite of what other companies do right. But remember, the purpose of Product Space is not to enrich it's owners. The purpose is to [help Member be happy](what-is-productspace.html).
 
 > We've all seen consulting companies that work like pyramid schemes - where old-timers (partners) are like fat cats parasiting from the hard work of newcomers. Where rate cards are astronomical to partly remunerate those fat cats but to cover the costs of those fabulous paintings and plush carpets they tread on. That's exactly what we **don't** want to be.</rant>
 

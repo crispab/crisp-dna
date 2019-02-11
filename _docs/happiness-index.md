@@ -9,11 +9,11 @@ Happiness Index
 
 Our primary metric is our Happiness Index. It's the only thing we systemically measure and follow up. The scale is 1-5 and the data lives in our [dashboard](dashboard.html) (a shared Google sheet).
 
-![Happiness History](../assets/HappinessIndex.png "Happiness History"):https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE
+![Happiness History](../assets/HappinessIndex.png "Happiness History")
 
-Here's an [example & template](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE), feel free to copy & modify.
+Here's an [example & template from Crisp](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE).
 
-There's pretty strong peer pressure for people to update this, and most of us do. Some every month, others less frequently. But nobody is forced (remember one of our [core values](what-is-crisp.html) is freedom, so nobody forces anyone to do anything). But all in all this gives us a solid overview of what's working and what needs to be fixed.
+There's pretty strong peer pressure for people to update this, and most of us do. Some every month, others less frequently. But nobody is forced (remember one of our [core values](what-is-productspace.html) is freedom, so nobody forces anyone to do anything). But all in all this gives us a solid overview of what's working and what needs to be fixed.
 
 Survey questions
 ----------------
@@ -49,7 +49,7 @@ It's pretty interesting to read what people write.
 How we use the happiness data
 -----------------------------
 
-The happiness index is used as key artifact during [board meetings](board.html), and we also print it out and bring to our [bi-annual unconference](unconference.html).
+The happiness index is used as key artifact during [board meetings](board-of-directors.html), and we also print it out and bring to our [bi-annual unconference](unconference.html).
 
 Whenever the average changes significantly, we talk about why, and what we can do to make everybody happier. If we see a 1 or 2 on any row, that acts as an effective call for help. People go out of their way to find out how they can help that person, which often results in some kind of process improvement in the company. Or something. 
 

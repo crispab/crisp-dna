@@ -11,7 +11,7 @@ Some may call this a strategy but for us, it's about how we operate:
 
 ![Product Space Strategy](../assets/theproductspace-how.png "Product Space Strategy")
 
-It hangs on the wall next to the [What is Product Space](what-is-crisp.html). 
+It hangs on the wall next to the [What is Product Space](what-is-productspace.html). 
 
 What do we measure?
 -------------------
@@ -55,7 +55,7 @@ How many do we want to be?
 -   We don't have a growth target. Growth is not a goal in itself.
 -   We grow only when we find amazing people.
 
-For more see [Recruiting](recruiting.html).
+For more see [Recruiting](recruiting-and-onboarding.html).
 
 How do we run the company?
 --------------------------

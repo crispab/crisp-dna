@@ -90,10 +90,10 @@ Bottom line: If even one single Member is against hiring a candidate, we won't d
 How does on-boarding work?
 --------------------------
 
-Welcome! You'll need to sign our [Member Agreement](team-contract-en.html), and create your own personal company (if you don't already have one). Formally you'll be employed by your company, not Product Space and we can help you get started.
+Welcome! You'll need to sign our [Member Agreement](shareholder-contract-en.html), and create your own personal company (if you don't already have one). Formally you'll be employed by your company, not Product Space and we can help you get started.
 
 Congrats, you are now your own manager! Be nice.
 
 We will also go for dinner somewhere nice, setup your email account and other tools. 
 
-We will also spend quite a bit of time with you at the start immersing you in our culture and our ways of working. Finally we'll proudly display you on our [site](https://www.theproductspace.com/about-the-product-space/) :)
+We will also spend quite a bit of time with you at the start immersing you in our culture and our ways of working. Finally we'll proudly display you on our [site](https://www.theproductspace.com/) :)

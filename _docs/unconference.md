@@ -82,9 +82,7 @@ Now everyone knows approximately what's happening when & where! The schedule is 
 
 One hour before the end, gather everyone back into the ring. For each topic, ask someone to do a 2 minute summary of what came out. Collect key decisions/actions on the wall. Ask if anyone else has anything to say, or if there are any decisions that need to be made while we are all gathered.
 
-We have a [consensus-based decision model](decisions.html) and make diligent use of [hand signals](hand-signals.html).
-
-![Summaries and Decisions](../assets/Unconference-Summary.jpg "Summaries and Decisions")
+We have a [consensus-based decision model](decisions.html).
 
 Finally we wrap up by asking people to share their key take-aways from the day.
 

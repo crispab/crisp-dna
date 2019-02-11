@@ -56,7 +56,7 @@ If she turns out to be wrong (because Company Y cancels her engagement) then the
 Example: adjusting the fees
 ---------------------------
 
-At the end of the financial year, the [board](board.html) notices that Product Space is accumulating too much money (remember we maintain a limited liquidity buffer and try not build up piles of cash), so they lower the fee to 9% + $200/month, and lower the ceiling to $18,000/year. Yay!
+At the end of the financial year, the [board](board-of-directors.html) notices that Product Space is accumulating too much money (remember we maintain a limited liquidity buffer and try not build up piles of cash), so they lower the fee to 9% + $200/month, and lower the ceiling to $18,000/year. Yay!
 
 Check [how Product Space works](how-productspace-works.html) if you are curious about why we don't want Product Space to earn a big profit.
 
