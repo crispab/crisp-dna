@@ -24,4 +24,4 @@ We believe:
  
  The result ... an Agreement we actually enjoy reading. An Agreement that's straight-forward to commit to.
 
- For those in Australia and possibly New Zealand, take a copy and use it for your own work. It's our pleasure. 
+ For those in Australia and possibly New Zealand, [take a copy](contracts.html) and use it for your own work. It's our pleasure. 

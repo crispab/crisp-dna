@@ -9,9 +9,9 @@ How we make decisions
 
 Making decisions in a decentralised organisation with no managers is easier than you think ...
 
-> For how we deal with opportunities for consultants to work with clients we have a specific protocol for that – the [bun protocol](bun-protocol.html). We have something similar for [recruitment] (recruiting-and-onboarding.html) decisions.
+> For how we deal with opportunities for Members to work with clients we have a specific protocol for that – the [bun protocol](bun-protocol.html). We have something similar for [recruitment](recruiting-and-onboarding.html) decisions.
 
-Why don’t we have a well defined decision-making process?
+Why don't  have a well defined decision-making process
 ---------------------------------------------------------
 
 We make lots of decisions all the time. Which type of sticky notes to buy? Should our internal fees be raised? Where and when is our next Product Space unconference? Should we invite partners and if so, who?
@@ -29,10 +29,10 @@ Instead, we follow these principles/guidelines:
 
 -   **The person driving an issue owns the decision process.**
 -   **A decision is only a decision if there is a “puller” who follows up on the execution.** (we use the term "driver" and "puller" interchangeably)
--   **Important decisions should be documented in our [decision log](dashboard.html)**
+-   **Important decisions are documented in our [decision log](dashboard.html)**.
 -   Some decisions lead to funded “projects”, like say, a new website. The people involved in something like that form a Productlet. To get funding, there needs to be two “pullers” throughout the whole project. In practice, we seldom have big projects and rarely need to use this model.
 
-> **Example:** If the board is considering to raise the team fee, the board drives that question, and therefore gets to pick the decision process.
+> **Example:** If the board is considering to raise the Membership fee, the board drives that question, and therefore gets to pick the decision process.
 
 > **Example:** If I want Product Space to collaborate with company X, then I’m the one driving that question and I pick the decision process.
 

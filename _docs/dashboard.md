@@ -15,9 +15,9 @@ It starts with the [happiness index](happiness-index.html), and includes other t
 -   **Happiness history** - how has the happiness index developed over time?
 -   **Capacity & availability** - who needs a new client?
 -   **Competency matrix** - who is good at what, and who is interested in what?
--   **Decision log** - which Product Space-wide decisions have been made?
+-   **Decision log** - log of Product Space-wide that decisions have been made
 
 Who is responsible for keeping it up to date?
 ---------------------------------------------
 
-We currently sharing the responsibility of keeping the dashboard updated.
+We currently share the responsibility.

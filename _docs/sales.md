@@ -27,7 +27,7 @@ See the [bun protocol](bun-protocol.html) page for answers to questions about ho
 Do we have a "finders fee" for finding gigs for each other?
 ------------------------------------------------------------------
 
-Yeah, nah (that's an Australian saying!). 
+Yeah, nah (that's an Australian saying!). And it means no :)
 
 If you pass a client on to another Member, you won't earn a commission, finder's fee or anything like that. Why? Because the underlying [purpose of Product Space](what-is-crisp.html) is not to maximise profit, it's to maximise [happiness](happiness-index.html). We earn money from our clients, not from each other.
 

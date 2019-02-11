@@ -21,7 +21,7 @@ Although we happen to work as product management, digital, or UX consultants, th
 What's the licensing model?
 ---------------------------
 
-The Product Space DNA is licensed under [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). This means you are welcome to edit the text anyway you wish, even for commercial purposes, as long as you attribute the original text to us, and keep the license, so that others can fork off of your ingenious changes. But go read the license, it is well worth the effort!
+The Product Space DNA is licensed under [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). This means you are welcome to edit the text anyway you wish, even for commercial purposes, as long as you attribute the original text to us, and keep the license, so that others can fork off of your ingenious changes. But go read the license, it is well worth the effort.
 
 Can I call my company Product Space?
 ----------------------------
@@ -35,7 +35,7 @@ Simplest way is to [fork](https://help.github.com/articles/fork-a-repo/) the [cr
 
 1.  Surf to <http://github.com/crispab/crisp-dna>.
 2.  Press the "Fork" button on the top right somewhere (here's a [direct link](https://github.com/crispab/crisp-dna/fork)).
-3.  You should now have your own copy of the crisp dna!
+3.  You should now have your own copy of the crisp dna.
 4.  Start editing! The articles are all in the \_docs folder, and the table of contents is in \_data. Try opening \_docs/index.textile, and press the little pencil icon on the top right to edit it, and then commit.
 5.  After your first commit the site will be auto-published at **http://YOURNAME.github.io/crisp-dna** (or whatever you decide to call your repo)
 
@@ -48,12 +48,12 @@ No worries, once you've forked it you can remove the stuff you don't need. The g
 
 Another option is to skip the techie stuff (cloning and forking), and just take the bits you like anyway.
 
-Either way, please do mention on your website that your model is derived from (or inspired by) [Product Space DNA](http://dna.crisp.se), and summarize the key similarities and differences. Spread your learnings!
+Either way, please do mention on your website that your model is derived from (or inspired by) [Product Space DNA](http://dna.crisp.se), and summarise the key similarities and differences. Spread your learnings :)
 
 How can I help improve the Product Space DNA?
 -------------------------------------
 
-Hey hey, thanks for asking because Aunt Product Space always wants to improve :)
+Hey hey, thanks for asking because Product Space always wants to improve :)
 
 If you have an improvement suggestion (big or small) you can:
 

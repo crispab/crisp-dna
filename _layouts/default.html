@@ -17,7 +17,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#1a1758">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=123214' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | append: site.github.build_revision | relative_url }}">
+
+    <link rel="stylesheet" href="{{ '/assets/css/override.css' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -28,10 +30,7 @@
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      
     </header>
 
     <main id="content" class="main-content" role="main">
