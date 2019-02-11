@@ -30,6 +30,7 @@
   - courses.html
   - brand-building.html
 
-- title: Meta
+- title: Other
   docs:
   - how-to-copy.html
+  - acknowledgements.md
