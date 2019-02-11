@@ -18,7 +18,7 @@ For example:
 -   Firstly we don't like the word consultants so we call ourselves Members. Having said that, consulting is an obvious description of what we do.
 - None of the Members are employed by Product Space.
 -   We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
--   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](what-is-crisp.html)), and work as much or as little as they want, for who they want.
+-   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](what-is-productspace.html)), and work as much or as little as they want, for who they want.
 -   Product Space's main purpose is to enable Members to be happy, and the [Product Space Happiness Index](happiness-index.html) is our driving metric. Strong revenue and happy clients are a side effect, not a goal.
 -   Product Space doesn't earn money from its Members. It is in practice, a non-profit company (although not formally so). Members [keep most of what they earn](economic-model.html). Gold in, gold out for those that work at Product Space.
 -   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
@@ -47,8 +47,8 @@ Driving principles
 
 These principles drive almost everything at Product Space:
 
--   [What is Product Space](what-is-crisp.html) - the purpose of the company.
--   [How Product Space works](how-crisp-works.html) - summary of our model, and some driving principles.
+-   [What is Product Space](what-is-productspace.html) - the purpose of the company.
+-   [How Product Space works](how-productspace-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model serves us so well.
 
 Core structure and practices
@@ -56,14 +56,13 @@ Core structure and practices
 
 Although these are core to our model, they are mostly just consequences of the principles above:
 
--   [Board of directors](board.html) - Australian law requires that we have a Board of Directors; her's how it works.
+-   [Board of directors](board-of-directors.html) - Australian law requires that we have a Board of Directors; her's how it works.
 -   [Bun protocol](bun-protocol.html) - how handle client enquiries and route to the right Member.
--   [Communication](communication.html) - how we collaborate, sync, and improve.
+-   [Communication](communication-meetings-tools.html) - how we collaborate, sync, and improve.
 -   [Dashboard](dashboard.html) - how we see the big picture.
 -   [Economic model](economic-model.html) - how  money flows through the system.
 -   [Happiness index](happiness-index.html) - how we know if we are succeeding.
 -   [How we make decisions](decisions.html) - how  decisions get made when there is no manager.
--   [Office team](office-team.html) - how we handle admin and day-to-day operations.
 -   [Our business](our-business.html) - what type of work we do.
 -   [Ownership model](ownership-model.html) - how  people become owners, and what ownership actually means.
 -   [Recruiting](recruiting.html) - how new people get in.
@@ -80,13 +79,12 @@ This is relevant stuff, but not core to our model.
 -   [Building competence](building-competence.html) - how we learn from each other and improve.
 -   [Brand building](brand-building.html) - how we build the brand, both Product Space and personal brands.
 -   [Conflict handling](conflict-handling.html) - How we make sure conflicts are constructive rather than destructive.
--   [Courses](courses-and-event-production.html) - how courses get produced and delivered.
+-   [Courses](courses-development.html) - how courses get produced and delivered.
 -   [Industries that we avoid](industries-that-we-avoid.html) - why we avoid certain industries.
--   [Productlets](crisplets.html) - how bottom-up initiatives get funded.
 
 
 
-Meta
+Other
 ----
 
 -   [How to clone the Product Space DNA](how-to-copy.html)
