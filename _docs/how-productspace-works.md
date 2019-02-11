@@ -35,8 +35,6 @@ See [Economic model](economic-model.html) for concrete examples.
 What do we do with the money?
 -----------------------------
 
-![What do we do with the money](../assets/WhatDoWeDoWithTheMoney.png "What do we do with the money")
-
 The guiding principles are:
 
 -   **Naked in, Naked out / Gold in, Gold out** - you don't need to put in serious cash to join Product Space, and there's nothing to cash out when you leave.
