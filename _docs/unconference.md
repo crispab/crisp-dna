@@ -54,7 +54,6 @@ Other guiding principles (we vary them a bit, but this should give you the gener
 -   **It's over when it's over**
     -   We have time slots, but a conversation doesn't have to be exactly that long, not does it have to stay on topic. Maybe you run out of steam, or reach a great conclusion after just 20 minutes. Or maybe you want to continue this topic for another hour! That’s fine, although in that case you might want to move your group out of the way, to make space for the next group.
 
-![Open space principles](../assets/Unconference-Principles.jpg "Open space principles")
 
 What's the conference format?
 -----------------------------
@@ -67,25 +66,17 @@ Here's a summary of what we typically do on a conference day:
 
 ### 1. Do some lightning talks, or short team-building activities to get everyone inspired
 
-![Lightning talks](../assets/Unconference-LightningTalk.jpg "Lightning talks")
-
 ### 2. Present the format and Brainstorm topics
 
 Gather everyone in a ring. Present the open space format & today's theme (sometimes we have a theme, sometimes not). Show the empty schedule grid, and ask people to suggest topics and write on stickies.
-
-![Kicking off the open space](../assets/Unconference-BigRing.jpg "Kicking off the open space")
 
 ### 3. Create a schedule
 
 Ask the people who suggested topics to organize them into the schedule grid. Left-to-right are all the locations in the room, and up-to-down are all the time slots (usually 30-60 minutes each). And a small section to capture "mini-topics" for when we all gather at the end.
 
-![Creating the schedule grid](../assets/Unconference-Schedule.jpg "Creating the schedule grid")
-
 ### 4. Breakouts!
 
 Now everyone knows approximately what's happening when & where! The schedule is a guide, not a hard constraint. Lots of other interesting and unplanned topics are going to pop up here and there. Let people self-organize for the next few hours, using the Law of 2 Feet. Make sure there is plenty of snacks, fruit, coffee & drink around.
-
-![Breakout sessions](../assets/Unconference-Breakouts.jpg "Breakout sessions")
 
 ### 5. Gather up for summaries and decisions
 
