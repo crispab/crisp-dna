@@ -6,11 +6,11 @@ next_section: what-is-crisp.html
 What is this?
 =============
 
-This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Product Space works and why. Think of it as our DNA, or, in other words, our manifesto.
+This site is [open-source](http://en.wikipedia.org/wiki/Open_source) and  describes how Product Space works and why. Think of it as our DNA, or, in other words, our manifesto.
 
-The way we work and why, is so important to us that we want to describe it in detail. In the process of doing this, we discovered Crisp, an extraordinary company in Sweden. The content you read here comes largely from Crisp documenting the way they work. Crisp allows organisations to clone a copy of their DNA for re-use. And we've done that. From deep in our hearts, thank you [Crisp](https://www.crisp.se).
+The way we work and why, is so important to us that we want to describe it in detail. In the process, we discovered Crisp, an extraordinary company in Sweden. The content you read here comes largely from Crisp documenting the way they work. Crisp allows organisations to clone a copy of their DNA for re-use. And we've done that. From deep in our hearts, thank you [Crisp](https://www.crisp.se).
 
-We have modified quite a bit of it to suit us and our Australian way of doing things, but in essence, we think and act similar to the way Crisp does.
+We've modified quite a bit of it to suit us and our Australian way of doing things, but in essence, we think and act similar to the way Crisp does.
 
 [Product Space](https://www.theproductspace.com) is an agile product management consultancy based in Sydney, Australia. We are a consulting company but importantly, we do consulting differently
 For example:
@@ -24,7 +24,7 @@ For example:
 -   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
 
 
-People are quite intrigued when we talk about this and are curious as to how it works in practice, especially from other people looking to create something similar. 
+People are intrigued when we talk about this and are curious as to how it works in practice, especially from other people looking to create something similar. 
 
 Between what we've learned from Crisp and our amazing mates at Nomad8 in New Zealand, we've converged on a model that works well for us. And that's basically the sweet spot between being an independent consultant and being an employee. 
 
@@ -34,7 +34,7 @@ Why open-source the Product Space DNA?
 ------------------------------
 
 -   To make the world a better place :) The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
--   Open-sourcing it is a fun social experiment, we're curious about what's going to happen :o)
+-   Open-sourcing it is a fun social experiment, we're curious about what's going to happen :)
 - Open-sourcing suits our values around sharing and power. It makes us happy to share this.
 -   By making our model public, we're more likely to keep it up-to-date and improve it as we learn.
 -   Putting it on GitHub makes it easier for others to clone and evolve the model, and in turn, we can learn from them.
@@ -56,18 +56,18 @@ Core structure and practices
 
 Although these are core to our model, they are mostly just consequences of the principles above:
 
--   [Board of directors](board-of-directors.html) - Australian law requires that we have a Board of Directors; her's how it works.
--   [Bun protocol](bun-protocol.html) - how handle client enquiries and route to the right Member.
+-   [Board of directors](board-of-directors.html) - Australian law requires that we have a Board of Directors; here's how it works.
+-   [Bun protocol](bun-protocol.html) - how we handle client enquiries and route to the right Member.
 -   [Communication](communication-meetings-tools.html) - how we collaborate, sync, and improve.
 -   [Dashboard](dashboard.html) - how we see the big picture.
 -   [Economic model](economic-model.html) - how  money flows through the system.
 -   [Happiness index](happiness-index.html) - how we know if we are succeeding.
--   [How we make decisions](decisions.html) - how  decisions get made when there is no manager.
+-   [How we make decisions](decisions.html) - how  decisions get made when there is no manager or CEO.
 -   [Our business](our-business.html) - what type of work we do.
 -   [Ownership model](ownership-model.html) - how  people become owners, and what ownership actually means.
 -   [Recruiting](recruiting-and-onboarding.html) - how new people get in.
--   [Sales](sales.html) - how we actually sell Members?
--   [Vision](visions.html) - How you get a bunch of autonomous people,
+-   [Sales](sales.html) - how we sell Members.
+-   [Vision](visions.html) - how you get a bunch of autonomous people aligned.
 -   [Unconference](unconference.html) - how our bi-annual unconference works.
 
 Supporting practices
@@ -75,10 +75,10 @@ Supporting practices
 
 This is relevant stuff, but not core to our model.
 
--   [Agreements](contracts.html) - legal agreements for Product Space membership, ownership.
+-   [Agreements](contracts.html) - legal agreements for Product Space membership, ownership, etc.
 -   [Building competence](building-competence.html) - how we learn from each other and improve.
--   [Brand building](brand-building.html) - how we build the brand, both Product Space and personal brands.
--   [Conflict handling](conflict-handling.html) - How we make sure conflicts are constructive rather than destructive.
+-   [Brand building](brand-building.html) - how we build the brands, both Product Space and personal brands.
+-   [Conflict handling](conflict-handling.html) - how we make sure conflicts are constructive rather than destructive.
 -   [Courses](courses-development.html) - how courses get produced and delivered.
 -   [Industries that we avoid](industries-that-we-avoid.html) - why we avoid certain industries.
 
