@@ -9,7 +9,7 @@ What is Product Space and why?
 
 Our purpose is simple: to enable our Members to be happy. We measure only one thing and that's their happiness. 
 
-Referred to as "our home", we've visualised it below, along with a description of other things  that are important to us. 
+We've visualised "Our home" below, along with a description of other things  that are important to us. 
 
 ![What is Product Space](../assets/theproductspace-what.png "What is Product Space")
 
@@ -17,22 +17,21 @@ It hangs on the wall in our office, and we bring it to our gatherings and meetup
 
 ## What we do
 
-We are a product management consultancy. We provide coaching, assessment and other services that relate to digital product management and its core cousins like agile and UX. 
-
+We are an agile product management business. We provide coaching, assessment and other services that related to all parts of the product management lifecycle including UX. Agile is our approach.  
 
 In simple terms, we are a consultancy. But a consultancy done differently. Very differently. 
 
 
 ## What we value
 
-Product Space is a home for consultants (Members) specialising in digital product management or an important relative to it such as agile or UX, who value:
+Product Space is a home for consultants (Members) specialising in agile product management and UX, who value:
 
--   **Trust** - As partners, guides, coaches or collaborators, trust is is our default means of engagement.
--   **Heart** - We are kind and help those around us: inside and outside the organisation. 
--   **Freedom** - To manage our own time and who we work with. And autonomoy to determine who we are and make our own informed choices. 
--   **Creative Thinking** - Working with unknowns requires openness, curiosity and creativity.
--   **Competence** - Continually learning and improving, both our craft and who we are as people.
--   **Balance** - We believe in the power of collective intelligence.
+-   **Trust** - as partners, guides, coaches or collaborators, trust is is our default means of engagement.
+-   **Heart** - we are kind and help those around us: inside and outside the organisation. 
+-   **Freedom** - to manage our own time and who we work with. And autonomoy to determine who we are and make our own informed choices. 
+-   **Creative Thinking** - working with unknowns requires openness, curiosity and creativity.
+-   **Competence** - continually learning and improving, both our craft and who we are as people.
+-   **Balance** - we believe in the power of collective intelligence.
 
 
 We believe these values lead to personal happiness as well as business success.
@@ -47,7 +46,7 @@ Basically, we're trying to find the magic balance between being an independent c
 ## More on our values
 
 Trust
- - People fundamentally want an will do the right thing.
+ - People fundamentally want and will do the right thing.
 - People are systematically considered to be good.
 
 Heart
@@ -55,8 +54,8 @@ Heart
 - Vulnerability, humility and honesty are just fine: we don’t know everything.
 
 Freedom
-- Personal independence along with self-determination allows us to lead rich lives.
-- With freedom and autonomy given, accountability and transparency gets received. Said another way, freedom and accountability are two sides of the same coin.
+- Personal independence along with self-determination enables us to lead rich lives.
+- With freedom and autonomy assumed, accountability and transparency are received. Said another way, freedom and accountability are two sides of the same coin.
 
 Creative Thinking
 - Great ideas come from anywhere so we see and encourage the potential in others.
