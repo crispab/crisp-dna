@@ -9,7 +9,7 @@ What is Product Space and why?
 
 Our purpose is simple: to enable our Members to be happy. We measure only one thing and that's their happiness. 
 
-We've visualised "Our home" below, along with a description of other things  that are important to us. 
+We've visualised "Our home" below, along with a description of other things that are important to us. 
 
 ![What is Product Space](../assets/theproductspace-what.png "What is Product Space")
 
@@ -17,7 +17,7 @@ It hangs on the wall in our office, and we bring it to our gatherings and meetup
 
 ## What we do
 
-We are an agile product management business. We provide coaching, assessment and other services that related to all parts of the product management lifecycle including UX. Agile is our approach.  
+We are an agile product management business. We provide coaching, assessment and other services that relate to all parts of the product management lifecycle including UX. Agile is our approach.  
 
 In simple terms, we are a consultancy. But a consultancy done differently. Very differently. 
 
