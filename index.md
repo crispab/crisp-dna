@@ -3,9 +3,7 @@ What is this?
 
 This site is [open-source](http://en.wikipedia.org/wiki/Open_source) and  describes how Product Space works and why. Think of it as our DNA, or, our manifesto.
 
-The way we work and why, is so important to us that we wanted to describe it in detail. In the process, we discovered Crisp, an extraordinary company in Sweden. The content here comes largely from Crisp documenting the way they work. They allow organisatios to clone a copy of their DNA for re-use. And we've done just that. From deep in our hearts, thank you [Crisp](https://www.crisp.se).
-
-We've modified quite a bit to suit our Australian way of doing things, but in essence, we think and act similar to the way Crisp does.
+The way we work and why, is so important to us that we wanted to describe it in detail. In the process, we discovered Crisp, an extraordinary company in Sweden. The content here comes largely from Crisp documenting the way they work so please see below for our Acknowledgement of them. 
 
 [Product Space](https://www.theproductspace.com) is an agile product management consultancy based in Sydney, Australia. We are a consulting company but importantly, we do consulting differently
 For example:
