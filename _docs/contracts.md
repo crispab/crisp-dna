@@ -31,4 +31,4 @@ We believe:
  
  "Thank you". 
  
- "You're weclome, it's our pleasure :)"
+ "You're welcome, it's our pleasure :)"
