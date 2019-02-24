@@ -20,8 +20,15 @@ We believe:
  
  Well that shits people like us, so we first briefed our good mate Mark who's a savvy lawyer on who we are and why we operate the way we do. He then wrote a draft Agreement that covered the legal requirements but was written with our values and purpose in mind. He did a great job on guiding us through where in the Agreement we could relax, what we could rewrite and remove. 
  
- We gave that copy to Lynne our good mate who specialises in Plain English writing but has a legal background and asked her to edit it.
+ We gave that copy to Lynne our good mate who specialises in Plain English writing but has a legal background and asked her to finesse it.
  
+ The result ... an Agreement we actually enjoy reading. Ok, that's a stretch, but it's an  Agreement that Members can understand quickly and don't need to get legal advice on
+
  The result. An Agreement that's easy to read, easy to understand and straight-forward to commit to.
 
- For those in Australia and possibly New Zealand, if it makes sense to do so, [help yourself to a copy](contracts.html) and use it for your own work. It's our pleasure. 
+ For those in Australia and possibly New Zealand, if it makes sense to do so, [help yourself to a copy](contracts.html) and use it for your own work.
+ 
+ "Thank you". 
+ 
+ "You're weclome, it's our pleasure :)"
+ 
