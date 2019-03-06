@@ -1,6 +1,6 @@
 md---
 title: Product Space DNA
-next_section: what-is-crisp.html
+next_section: what-is-productspace.html
 ---
 
 What is this?

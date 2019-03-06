@@ -3,7 +3,7 @@ What is this?
 
 This site is [open-source](http://en.wikipedia.org/wiki/Open_source) and  describes how Product Space works and why. Think of it as our DNA, or, our manifesto.
 
-The way we work and why, is so important to us that we wanted to describe it in detail. In the process, we discovered Crisp, an extraordinary company in Sweden. The content here comes largely from Crisp documenting the way they work so please see below for our Acknowledgement of them. 
+The way we work and why, is so important to us that we wanted to describe it in detail. In the process, we discovered Crisp, an extraordinary company in Sweden. The content here comes largely from Crisp documenting the way they work so please see below for our acknowledgement of them. 
 
 [Product Space](https://www.theproductspace.com) is an agile product management consultancy based in Sydney, Australia. We are a consulting company but importantly, we do consulting differently
 For example:
@@ -13,11 +13,11 @@ For example:
 -   We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
 -   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](what-is-productspace.html)), and work as much or as little as they want, for who they want.
 -   Product Space's main purpose is to enable Members to be happy and the [Happiness Index](happiness-index.html) is our driving metric. Solid revenue and happy clients are a side effect, not a goal.
--   Product Space doesn't earn money from its Members. It is in practice, a non-profit company (although not legally so). Members [keep most of what they earn](economic-model.html). Gold in, gold out for those that work at Product Space.
+-   Product Space doesn't earn money from its Members. It is, in practice, a non-profit company (although not legally so). Members [keep most of what they earn](economic-model.html). Gold in, gold out for those that work at Product Space.
 -   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
 
 
-People are intrigued when we talk about this and are curious as to how it works in practice, especially from other people looking to create something similar. 
+People are intrigued when we talk about this and are curious as to how it works in practice. 
 
 Between what we've learned from Crisp and our amazing mates at Nomad8 in New Zealand, we've converged on a model that works well for us. And that's basically the sweet spot between being an independent consultant and being an employee. 
 
@@ -35,9 +35,9 @@ Why open-source the Product Space DNA?
 Acknowledgements
 ------------------------------
 
-What’s described on the following pages are values we’ve held for a long-time; they just didn’t have anywhere to channel or be expressed until Product Space came along.
+What’s described on the following pages are values we’ve held for a long-time; they just didn’t have anywhere to be expressed until Product Space came along.
 
-What we found when we sat down to articulate and express who we are, how we want to work, how we want to be, and how we want our company to be, we realised there are others out there who feel the same way we do. 
+What we found when we sat down to articulate and express who we are, how we work, how we want to be, and how we want our company to be, we realised there are others out there who feel the same way. 
 
 Spending time with our mates [Nomad8](https://www.noamd8.com) in New Zealand, we realised they run the way we want to. We've had lots of drinks and dinners with these folk and they've been super helpful. We also learned that they learned off their friends, [Crisp](https://www.crisp.se), in Sweden. 
 

@@ -1,8 +1,6 @@
 title: Acknowledgements
 
-prev_section: xx.html
-
-next_section: xx.html
+next_section: what-is-productspace.html
 ---
 
 Acknowledgements
