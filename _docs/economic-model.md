@@ -36,7 +36,7 @@ Suppose Sandy earns the same amount as above, every month for a year. In that ca
 -   Product Space earned $12,000 from Sandy's work at HappyClient1 (10% of the income from HappyClient1).
 -   In addition, Sandy paid $2,400 to Product Space in fixed fees ($200 x 12 months).
 -   **Result for the year:**
-    -   APNIC: -$120,000
+    -   HappyClient1: -$120,000
     -   Sandy: +$102,000
     -   Product Space: +$14,400.
 
@@ -83,7 +83,7 @@ As a result, our discussions always end up with people divided into two camps:
 -   **Yes**: "An insurance will increase my freedom and security, because Product Space will help me if I run into temporary cash flow problems."
 -   **No**: "An insurance will decrease my freedom and security, because of the increased fees. I manage risk fine today by saving cash and minimising unnecessary expenses."
 
-Ther is where our [explicitly stated core values](what-is-producspace.html) come into use. Freedom is a core value, financial stability isn't. That doesn't mean financial stability isn't important, it just means that people came to Product Space primarily for freedom, and that includes the freedom to choose your own risk-management approach.
+This is where our [explicitly stated core values](what-is-producspace.html) come into use. Freedom is a core value, financial stability isn't. That doesn't mean financial stability isn't important, it just means that people came to Product Space primarily for freedom, and that includes the freedom to choose your own risk-management approach.
 
 Ther reasoning always leads us to the same conclusion:
 

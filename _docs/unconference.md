@@ -18,7 +18,7 @@ Think of it as an alternative to a conference. If the purpose of a conference is
 Why we do conferences
 ---------------------
 
-Face-to-face is the most effective way to get to know each other, spread knowledge, solve problems, and make decisions. Unfortunately, since we are consultants and work with different clients, we rarely naturally meet as a big group. So that's the purpose of the unconference - to get everyone together!
+Face-to-face is the most effective way to get to know each other, spread knowledge, solve problems, and make decisions. Unfortunately, since we are members and work with different clients, we rarely naturally meet as a big group. So that's the purpose of the unconference - to get everyone together!
 
 Where do we go?
 ---------------
