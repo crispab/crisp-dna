@@ -41,7 +41,7 @@ You have 3 options:
 -   **Give it to somebody else.** eg: to a colleague who is more suitable than you, or even another  company if you want. If you don't know exactly who should take it, broadcast it out over our Slack channel: "Hey peeps, anyone interested in taking this bun?". Note that the bun remains yours until someone else takes it. This is a really important rule that we follow. Allow a day at least so that Members have time to react, but if that takes more than a couple of days you need to keep the bun warm (eg: go back to the potential client and let them know you're searching for someone who can help). Importantly, you can't push the bun to someone, you can only offer it. The receiver has to pull the bun from you.
 -   **Throw it away.** eg: someone emails me "Can you come and teach a product pricing course?". I answer "No" (politely of course). Or I answer "No, we don't do product pricing courses, but I recommend you speak to Ms ProductPricingPeep, she's amazing and knows this area". That still counts as throwing away the bun, since I let it go and won't follow it up. Someone else might take it out of my garbage, but I don't need to know or care if that happens :o)
 
-The one thing you should NOT do is just let the bun sit and dry. Better to explicitly throw it away in that case (ie tell the sender kindy that we can't help).
+The one thing you should NOT do is just let the bun sit and dry. Better to explicitly throw it away in that case (ie tell the sender kindly that we can't help).
 
 So initially a buns appears through a "push" protocol; the initial recipient gets the bun whether he wants to or not. After that, however, everything is "pull"-based.
 

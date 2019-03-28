@@ -27,7 +27,7 @@ We believe:
  
  The result ... an Agreement we actually enjoy reading. Ok, that's a stretch, but it's an  Agreement that Members that's easy to read, easy to understand and straight-forward to commit to.
 
- For those in Australia and possibly New Zealand, if it makes sense to do so, [help yourself to a copy](contracts.html) and use it for your own work.
+ For those in Australia and possibly New Zealand, if it makes sense to do so, [help yourself to a copy](https://docs.google.com/document/d/1r9Cyy0FJ8KXZQJ9U5-0btr4aHiKseiZGP4w-cl8bc08/edit?usp=sharing) and use it for your own work.
  
  "Thank you". 
  
