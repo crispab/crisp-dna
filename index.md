@@ -14,7 +14,7 @@ For example:
 -   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](what-is-productspace.html)), and work as much or as little as they want, for who they want.
 -   Product Space's main purpose is to enable Members to be happy and the [Happiness Index](happiness-index.html) is our driving metric. Solid revenue and happy clients are a side effect, not a goal.
 -   Product Space doesn't earn money from its Members. It is, in practice, a non-profit company (although not legally so). Members keep most of what they earn. Gold in, gold out for those that work at Product Space.
--   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
+-   Our [ownership model](/docs/ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
 
 
 People are intrigued when we talk about this and are curious as to how it works in practice. 
@@ -39,7 +39,7 @@ What’s described on the following pages are values we’ve held for a long-tim
 
 What we found when we sat down to articulate and express who we are, how we work, how we want to be, and how we want our company to be, we realised there are others out there who feel the same way. 
 
-Spending time with our mates [Nomad8](https://www.noamd8.com) in New Zealand, we realised they run the way we want to. We've had lots of drinks and dinners with these folk and they've been super helpful. We also learned that they learned off their friends, [Crisp](https://www.crisp.se), in Sweden. 
+Spending time with our mates [Nomad8](https://nomad8.com) in New Zealand, we realised they run the way we want to. We've had lots of drinks and dinners with these folk and they've been super helpful. We also learned that they learned off their friends, [Crisp](https://www.crisp.se), in Sweden. 
 
 When we poured over the Crisp website we came across their DNA, a detailed expression of who they are. And they encourage others who are interested, to copy their content from Github. So we did :) 
 
@@ -47,5 +47,5 @@ Whilst much of it has been morphed into our language, Crisp have done the heavy 
 
 So we'd like to thank them both from deep within our hearts because a lot of what we say here, is what they say and think too.
 
-Thank you [Nomad8](https://www.noamd8.com) and thank you [Crisp](https://www.crisp.se).
+Thank you [Nomad8](https://nomad8.com) and thank you [Crisp](https://www.crisp.se).
 
