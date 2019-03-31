@@ -14,7 +14,7 @@ For example:
 -   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](what-is-productspace.html)), and work as much or as little as they want, for who they want.
 -   Product Space's main purpose is to enable Members to be happy and the [Happiness Index](happiness-index.html) is our driving metric. Solid revenue and happy clients are a side effect, not a goal.
 -   Product Space doesn't earn money from its Members. It is, in practice, a non-profit company (although not legally so). Members keep most of what they earn. Gold in, gold out for those that work at Product Space.
--   Our [ownership model](/docs/ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
+-   Our [ownership model](/dna/docs/ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
 
 
 People are intrigued when we talk about this and are curious as to how it works in practice. 
