@@ -28,7 +28,7 @@ Product Space is a home for consultants (Members) specialising in agile product 
 
 -   **Trust** - as partners, guides, coaches or collaborators, trust is is our default means of engagement.
 -   **Heart** - we are kind and help those around us: inside and outside the organisation. 
--   **Freedom** - to manage our own time and who we work with. And autonomoy to determine who we are and make our own informed choices. 
+-   **Freedom** - to manage our own time and who we work with. We have autonomy to determine who we are and make our own informed choices. 
 -   **Creative Thinking** - working with unknowns requires openness, curiosity and creativity.
 -   **Competence** - continually learning and improving, both our craft and who we are as people.
 -   **Balance** - we believe in the power of collective intelligence.
