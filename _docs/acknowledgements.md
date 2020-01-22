@@ -6,7 +6,7 @@ next_section: what-is-productspace.html
 Acknowledgements
 =============================
 
-What’s described on the following pages are values we’ve held for a long-time; they just didn’t have anywhere to channel or be expressed until Product Space came along.
+What is described on the following pages are values we’ve held for a long-time; they just didn’t have anywhere to channel or be expressed until Product Space came along.
 
 What we found when we sat down to articulate and express who we are, how we want to work, how we want to be, and how we want our company to be, we realised there are others out there who feel the same way we do. 
 
