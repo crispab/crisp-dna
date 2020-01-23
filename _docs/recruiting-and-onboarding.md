@@ -10,7 +10,7 @@ Recruitment - how we grow
 We are in absolutely no hurry to grow
 --------------------------
 
-So we don't actively recruit new Members. There's no economic incentive to grow so the main reasons we're interested in adding people is to work with people that complement our areas of competence in the digital and agile product management space or because they're simply amazing and share our values. 
+There's no economic incentive to grow so the main reasons we're interested in adding people is to work with people that complement our areas of competence in the digital and agile product management space or because they're simply amazing and share our values. 
 
 With happiness as our key metric, growth and revenue are a side effect so recruiting for the sake of these latter metrics doesn't rate.
 
