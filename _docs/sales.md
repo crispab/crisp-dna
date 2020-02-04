@@ -4,7 +4,7 @@ prev_section: visions.html
 next_section: unconference.html
 ---
 
-How we do Sales
+How we do sales
 ===============
 
 Product Space Members mostly sell themselves, and each other. Our sales have been reactive to date but we may move into being more proactive if we need. 
