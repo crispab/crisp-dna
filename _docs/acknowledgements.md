@@ -3,7 +3,7 @@ title: Acknowledgements
 next_section: what-is-productspace.html
 ---
 
-Acknowledgements
+Acknowledgement
 =============================
 
 What's described on the following pages are values we’ve held for a long-time; they just didn’t have anywhere to channel or be expressed until Product Space came along.
