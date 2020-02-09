@@ -15,15 +15,16 @@ Having said that, if decent $$ buffer builds up in the entity, it gets shared ba
 
 Here are some things we do to keep learning:
 
--   Our yearly [unconference](unconference.html).
--   Members meetup where someone presents something interesting that they've learned or are practicing.
--   Invite our favorite gurus and rock stars to come to Sydney and teach courses or co-train with us.
+-   Members physically meetup 4 times / year. Typically someone presents something interesting that they've learned or are practising.
 -   Peer-coaching workshops, where the Members meet to help each other solve problems.
+-   Create repeatable tools or frameworks that we can use and share with each other and even the rest of othe world
+Write [articles.](https://www.theproductspace.com)
 -   Write [articles.](https://www.theproductspace.com)
 -   Create and teach [courses](https://www.theproductspace.com) (gives the teacher a strong motivation to learn the topic!)
 -   Pair-coach and pair-teach - lets us steal tricks from each other.
 -   Share all course material with each other (Google Drive.)
+-   Invite our favorite gurus and rock stars to come to Sydney and teach courses or co-train with us.
 
-Some of these forums are very active and some less so, it varies over time. But it adds up to a lot of opportunity to learn and that's the key thing. 
+Some of these methods are very active and some less so, it varies over time. But it adds up to a lot of opportunity to learn and that's the key thing. 
 
 At the end of the day, though, it's up to each Member to reserve the time needed to learn new stuff, and not always be 100% booked up with work.
