@@ -10,9 +10,9 @@ Recruitment - how we grow
 We are in absolutely no hurry to grow
 --------------------------
 
-There's no economic incentive to grow so the main reasons we're interested in adding people is to work with people that complement our areas of competence in the digital and agile product management space or because they're simply amazing and share our values. 
+There's no economic incentive to grow so the main reasons we're interested in adding Members is to work with people that complement our areas of competence in the coaching and agile product management space or because they're simply amazing and share our values. 
 
-With happiness as our key metric, growth and revenue are a side effect so recruiting for the sake of these latter metrics doesn't rate.
+With happiness as our key metric, growth and revenue are a side effect, so recruiting for the sake of these latter metrics doesn't rate.
 
 Having said all of that, we're still relatively new and don't know what the right number is, and how often to do it. As we learn we'll continue to update these pages. 
 
@@ -27,7 +27,7 @@ Who gets to join
 
 Because we believe in freedom and autonomy and therefore, because everyone is responsible for themselves, our minimum bar with new people is:
 
-1.  At least one us has worked with the candidate before. We want someone to say "Hey, I've worked with her before, she is bloody amazing! We'd be IDIOTS not to let her join!" We may also occasionally be open and curious if someone comes highly recommended from someone that one of us has worked with and trusts implicitly. 
+1.  At least one us has worked with the candidate before or they come highly recommended from one of our trusted mates. We want someone to say "Hey, I've worked with her before, she is bloody amazing and we'd be IDIOTS not to let her join!"  
 2.  Someone at Product Space is willing to be a "puller" for the candidate. That's our internal term for the person "pulling" an initiative and making sure things move forward, and that the candidate is well-treated. Similar to the bun holder in our [bun protocol](bun-protocol.html).
 3.  No one has vetoed the candidate.
 
@@ -38,7 +38,7 @@ Other things that we value and use to help us determine who to accept and reject
 -   They complement us somehow, eg with new skills or perspectives that we lack. They will make us feel like newbies in some area!
 -   They have lots of energy and ideas, and aren't  shy in challenging the status quo.
 -   They have a strong reputation in the industry.
--   They share our values (this is non-negotiable).
+-   They share our values and the way we approach the business (this is non-negotiable).
 
 Don't steal people from clients
 --------------------------------
@@ -50,7 +50,7 @@ Again, we are in no hurry to grow. An amazing person is worth waiting for.
 What kind of people don't fit at Product Space?
 ---------------------------------------
 
-People who want stability. You won't have stable working hours and a fixed desk. You won't even get a fixed salary - in fact, it's the other way around - you pay a fee (but keep most of what you earn). See the [economic model](economic-model.html). So when you don't have a client, you bleed money every month. On the other hand, when you do have a client, because you choose what you want to bill, you can earn more than what any company would pay you in salary. It's the Members responsibility to buffer cash and manage risk.
+People who want stability. You won't have stable working hours and a fixed desk. You won't even get a fixed salary - in fact, it's the other way around - you pay a fee (but keep most of what you earn). See the [economic model](economic-model.html). So when you don't have a client, you bleed money every month. On the other hand, when you do have a client, because you choose what you bill, you can earn more than what any company would pay you in salary. But it is the Members responsibility to buffer cash and manage their own risk.
 
 This kind of model obviously doesn't fit everyone.
 
@@ -59,7 +59,7 @@ People won't fit if they don't share our values either.
 What kind of people do fit at Product Space?
 ------------------------------------
 
-Most people who end up at Product Space were previously independent consultants (or were heading in that direction), or interestingly, are people who don't like the way many organisations operate or were feeling they weren't doing their best work.  Typical personality traits:
+Most people who end up at Product Space were previously independent consultants (or were heading in that direction), or interestingly, are people who don't like the way many organisations traditionally operate or were feeling they weren't doing their best work.  Typical personality traits:
 
 -   **Self-confident** - they know that they are highly skilled and in high demand.
 -   **Adventurous** - time without an assignment isn't the end of the world, it's an opportunity to play around, learn new stuff even stuff that's not directly related to their craft.

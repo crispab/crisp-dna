@@ -17,14 +17,16 @@ We bring it to our gatherings and meetups to remind us of who we are and why, an
 
 ## What we do
 
-We are an agile product management business. We provide coaching, assessment and other services that relate to all parts of the product management lifecycle including UX. Agile is our approach.  
+We are an agile product management business. We  coach individuals, teams and leaders in product management and new ways of working. We love seeing human potential unleashed and valuable products created for customers when you work with a team to craft new approaches to the work they do.
+
+We touch all parts of the product lifecycle but have a preference and love for work around product discovery, UX and team makeup. Agile is our approach. 
 
 In simple terms, we are a consultancy. But a consultancy done differently. Very differently. 
 
 
 ## What we value
 
-Product Space is a home for consultants (Members) specialising in agile product management and UX, who value:
+Product Space is a home for consultants (Members) specialising in people and team coaching, product management and UX, who value:
 
 -   **Trust** - as partners, guides, coaches or collaborators, trust is is our default means of engagement.
 -   **Heart** - we are kind and help those around us: inside and outside the organisation. 
@@ -34,7 +36,7 @@ Product Space is a home for consultants (Members) specialising in agile product 
 -   **Balance** - we believe in the power of collective intelligence.
 
 
-We believe these values lead to personal happiness as well as business success.
+We reckon these values lead to personal happiness as well as business success.
 
 Because of how important they are to us, we've banged on a bit more about them below. 
 
@@ -63,7 +65,7 @@ Creative Thinking
 
 Competence
 - Continuous learning and improvement is essential for our craft.
-- Honing and practicing our craft is critical.
+- Honing and practising our craft is critical.
 
 Balance
 - Everything is shareable: knowledge, power, wealth, information. And kindness.
