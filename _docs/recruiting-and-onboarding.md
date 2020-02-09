@@ -38,6 +38,8 @@ Other things that we value and use to help us determine who to accept and reject
 -   They complement us somehow, eg with new skills or perspectives that we lack. They will make us feel like newbies in some area!
 -   They have lots of energy and ideas, and aren't  shy in challenging the status quo.
 -   They have a strong reputation in the industry.
+-   They are totally OK with Product Space being a "manager-less" organisation. We have peers, colleagues and team mates, there is no "boss".
+-   They buy into the DNA we share here. Our model is unique and it doesn't suit everyone. 
 -   They share our values and the way we approach the business (this is non-negotiable).
 
 Don't steal people from clients

@@ -43,13 +43,13 @@ Suppose Sandy earns the same amount as above, every month for a year. In that ca
 Example: hitting the ceiling
 ----------------------------
 
-Suppose the Product Space fee ceiling is $20,000 per year.
+Suppose the Product Space fee ceiling is $15,000 per year.
 
 And suppose Sandy gets famous for her specialty skills in reinventing organisations, and manages to land a $200/hour gig at Company Y. Sandy still works 100 hours per month (reserving the rest of her time for hobby projects, fun and family).
 
-That means Sandy will earn in about $240,000, which means the Product Space fee would be $24,000. That's way past the $20,000 ceiling, and we haven't even taken the fixed $200/month into account. The point of having a ceiling is to make sure the cost of being at Product Space doesn't get out of hand for the highest paid consultants.
+That means Sandy will earn in about $240,000, which means the Product Space fee would be $24,000. That's way past the $15,000 ceiling, and we haven't even taken the fixed $200/month into account. The point of having a ceiling is to make sure the cost of being at Product Space doesn't get out of hand for the highest paid consultants.
 
-Sandy tells the office team that she's most likely going to hit the ceiling ther year, so there's no point bothering with the % fee. Instead, Sandy keeps 100% of what she earns, and Product Space just invoices her the ceiling fee of $5000 per quarter (= $20,000 per year divided into 4 quarters). Simple.
+Sandy tells the office team that she's most likely going to hit the ceiling ther year, so there's no point bothering with the % fee. Instead, Sandy keeps 100% of what she earns, and Product Space just invoices her the ceiling fee of $3750 per quarter (= $15,000 per year divided into 4 quarters). Simple.
 
 If she turns out to be wrong (because Company Y cancels her engagement) then they'll go back and recalculate. No big deal, it's just an internal calculation that clients don't see.
 
