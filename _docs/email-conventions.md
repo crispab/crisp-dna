@@ -62,7 +62,7 @@ Email filtering
 
 The subject line conventions above make it really easy to create email filters to separate out the unimportant stuff. Gmail example:
 
-    to:team@crisp.se -firstname.lastname@crisp.se
+    to:role@crisp.se -firstname.lastname@crisp.se
     subject:-OSA -OBS -BULLE
 
 The filter will identify any email that is sent to the team list, and not directly to me, and doesn't have OBS/OSA/BULLE in the Subject. For these emails, configure Gmail to skip the Inbox and apply the label "crisp". That way you could respond quickly to OBS/OSA/BULLE and then cherry-pick among the other emails at your leisure.
