@@ -19,7 +19,7 @@ Both are needed. If we **only** delight our clients, but aren't visible to the w
 How we delight clients
 --------------------------
 
-We kind of cheat here, because our model only attracts the type of people that were already pretty good at delighting their clients - with or without Product Space. In fact, that's a requirement (see [recruiting](recruiting.html)). We don't have an army of sales people chasing down clients for you, and you don't get any kind of base salary if you don't have a client, so it really is in your own interest to delight your clients.
+We kind of cheat here, because our model only attracts the type of people that were already pretty good at delighting their clients - with or without Product Space. In fact, that's a requirement (see [recruiting](recruiting-and-onboarding.html)). We don't have an army of sales people chasing down clients for you, and you don't get any kind of base salary if you don't have a client, so it really is in your own interest to delight your clients.
 
 Also, our model attracts the kind of people that like to learn things and spread knowledge. And clients appreciate that.
 
