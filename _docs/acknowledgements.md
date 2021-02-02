@@ -18,5 +18,5 @@ Whilst much of it has been morphed into our language, Crisp have done the heavy 
 
 So we'd like to thank them both from deep within our hearts because a lot of what we say here, is what they say and think too.
 
-Thank you [Nomad8](https://www.noamd8.com) and thank you [Crisp](https://www.crisp.se).
+Thank you [Nomad8](https://www.nomad8.com) and thank you [Crisp](https://www.crisp.se).
 
