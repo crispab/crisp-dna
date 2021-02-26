@@ -34,10 +34,8 @@ This is the template for our quarterly board meetings.
 - EOY
 
 3. FOR DISCUSSION
-- Check in on 2019 goals / activities
+- Check in on yearly goals / activities
 - Retrospective 
 - Check in on voluntary roles and time commitments
 
 4. ANY OTHER BUSINESS
-
-Another little change here.
