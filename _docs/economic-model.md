@@ -93,3 +93,4 @@ So anyone who wants to do risk-pooling is free to propose a model and see if any
 
 Interestingly enough, no such generic insurance has been created yet, because nobody has managed to define a model that is good enough to attract a critical mass of participants.
 
+THis is a tempoarary change. 
