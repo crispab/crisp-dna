@@ -1,14 +1,14 @@
 ---
-title: Crisp DNA
+title: Crisp Governance
 next_section: what-is-crisp.html
 ---
 
 What is this?
 =============
 
-This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Crisp works and why.
+This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Crisp Governance works and why.
 
-[Crisp](https://www.crisp.se) is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
+This site is a copy from [Crisp](https://www.crisp.se) which is a consulting company based in Stockholm, Sweden. They are not a very typical consulting company. For example:
 
 -   None of the 35+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
 -   We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
@@ -16,8 +16,6 @@ This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site des
 -   Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants [keep most of what they earn](economic-model.html).
 -   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in".
 -   Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our house](what-is-crisp.html)), and work as much or as little as they want.
-
-We get a lot of questions about how this works in practice, especially from other consultants looking to create something similar. After many years of experimenting we've converged on a model that works well, basically the sweet spot between being an independent consultant and being an employee. So we decided to [open source](http://en.wikipedia.org/wiki/Open_source) it.
 
 Want to start a similar org? See [How to clone the Crisp DNA](how-to-copy.html).
 
