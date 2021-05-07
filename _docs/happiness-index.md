@@ -20,9 +20,9 @@ Survey questions
 
 The 3 main questions in the survey are:
 
--   **How happy are you with being at Product Space**? This is the main overarching happiness index.
--   **How happy are you with your tasks in Product Space**? This means internal work such as board meetings, conference facilitation, or creating this Product Space DNA site. 
--   **How happy are you with your current client, or your bench situation?** We measure this separately, because sometimes a person could be happy with Product Space, but sad about the current client. Or vice versa. For Members who are not currently with a client, this can express how they feel about that.
+-   **How happy are you with being at Organa**? This is the main overarching happiness index.
+-   **How happy are you with your tasks in Organa**? This means internal work such as board meetings, conference facilitation, or creating this Organa DNA site. 
+-   **How happy are you with your current client, or your bench situation?** We measure this separately, because sometimes a person could be happy with Organa, but sad about the current client. Or vice versa. For Members who are not currently with a client, this can express how they feel about that.
 
 The scale is:
 
@@ -53,4 +53,4 @@ The happiness index is used as key artifact during [board meetings](board-of-dir
 
 Whenever the average changes significantly, we talk about why, and what we can do to make everybody happier. If we see a 1 or 2 on any row, that acts as an effective call for help. People go out of their way to find out how they can help that person, which often results in some kind of process improvement in the company. Or something. 
 
-Product Space Happiness Index is more important than any financial metric, not only because it visualises the aspect that matters most to us, but also because it is a leading indicator, which makes us more agile. Most financial metrics are trailing indicators, making it hard to react to change in time.
+Organa Happiness Index is more important than any financial metric, not only because it visualises the aspect that matters most to us, but also because it is a leading indicator, which makes us more agile. Most financial metrics are trailing indicators, making it hard to react to change in time.

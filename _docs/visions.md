@@ -7,9 +7,9 @@ next_section: sales.html
 Purpose
 =======
 
-One big aha in our evolution was when we realised that Product Space is just a Home. We talked about using words like Community or Platform but we've settled on Home. Why? Because it just feels right :)
+One big aha in our evolution was when we realised that Organa is just a Home. We talked about using words like Community or Platform but we've settled on Home. Why? Because it just feels right :)
 
-We have one clear purpose and that is for Product Space to be a [happy home for our Members](what-is-productspace.html).
+We have one clear purpose and that is for Organa to be a [happy home for our Members](what-is-productspace.html).
 
 Like Crisp, we measure this using a [Happiness Index](happiness-index.html) which you can take a look at. 
 

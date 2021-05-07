@@ -23,7 +23,7 @@ Positive feedback loops
 
 1. Competent and motivated Members do a better job, which leads to happy clients.
 2. Happy clients give us a good reputation.
-3. Good reputation increases our motivation further and attracts competent people to Product Space.
+3. Good reputation increases our motivation further and attracts competent people to Organa.
 4. GOTO 1.
 
 **Right loop:**

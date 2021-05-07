@@ -9,7 +9,7 @@ The Bun Protocol
 
 The Bun protocol is a lightweight, decentralised request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
 
-> We introduced this at Product Space after seeing how effective it was at Nomad8.
+> We introduced this at Organa after seeing how effective it was at Nomad8.
 
 The metaphor
 ------------
@@ -107,7 +107,7 @@ Sure, we could do that if we were scared of potentially losing clients or scared
 
 ### What about traceability?
 
-Buns have a home in the Product Space Client Funnel Trello board.
+Buns have a home in the Organa Client Funnel Trello board.
 
 ### How do we avoid buns falling through the cracks
 

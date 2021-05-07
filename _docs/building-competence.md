@@ -9,7 +9,7 @@ Building competence
 
 As shown in [Why this works](why-this-works.html), competence is crucial to our business. If we don't keep building competence, our model will probably stop working.
 
-Fortunately, Product Space is built around individuals who love learning anyway, so it's really just a matter of making sure nothing gets in the way. We don't have training budgets, approval processes and things like that, we just trust people to manage their own money and take responsibility for their own competency development. 
+Fortunately, Organa is built around individuals who love learning anyway, so it's really just a matter of making sure nothing gets in the way. We don't have training budgets, approval processes and things like that, we just trust people to manage their own money and take responsibility for their own competency development. 
 
 Having said that, if decent $$ buffer builds up in the entity, it gets shared back to Members through learning and dev, training, coming together, etc. 
 

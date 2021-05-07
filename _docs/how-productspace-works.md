@@ -1,15 +1,15 @@
 ---
-title: How Product Space works
+title: How Organa works
 prev_section: what-is-crisp.html
 next_section: why-this-works.html
 ---
 
-How Product Space works
+How Organa works
 ===============
 
 Some may call this a strategy but for us, it's about how we operate:
 
-![Product Space Strategy](../assets/theproductspace-how.png "Product Space Strategy")
+![Organa Strategy](../assets/theproductspace-how.png "Organa Strategy")
 
 What do we measure?
 -------------------
@@ -22,11 +22,11 @@ We measure:
 How do we finance the home?
 ---------------------------
 
-To cover our costs, every Member pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around $200/mth, and the variable fee is usually around 8-12%. The fee is intended only to cover Product Space's costs, so we check and possibly adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
+To cover our costs, every Member pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around $200/mth, and the variable fee is usually around 8-12%. The fee is intended only to cover Organa's costs, so we check and possibly adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
 
-> **Why a fixed + variable fee?** All of our Members have fixed and variable costs. Same with Product Space. With a fixed + variable fee, we get a nice balance that acknowledges fixed + variable costs on both sides. Our Members feel this is a balanced approach.
+> **Why a fixed + variable fee?** All of our Members have fixed and variable costs. Same with Organa. With a fixed + variable fee, we get a nice balance that acknowledges fixed + variable costs on both sides. Our Members feel this is a balanced approach.
 
-We also have a ceiling, to limit the total fee a Member pays to Product Space per year (variable + fixed). Some Members earn a lot more than others and we don't want them to leave just because Product Space gets too expensive. The ceiling is usually around $20,000 per year.
+We also have a ceiling, to limit the total fee a Member pays to Organa per year (variable + fixed). Some Members earn a lot more than others and we don't want them to leave just because Organa gets too expensive. The ceiling is usually around $20,000 per year.
 
 See our [Economic model](economic-model.html) for concrete examples.
 
@@ -35,13 +35,13 @@ What do we do with the money?
 
 The guiding principles are:
 
--   **Gold in, Gold out** - you don't need to put in serious cash to join Product Space, and there's nothing to cash out when you leave.
+-   **Gold in, Gold out** - you don't need to put in serious cash to join Organa, and there's nothing to cash out when you leave.
 -   **No gold on the table** - we don't try to build financial value in the company.
 -   **No pot of gold at that end** - there's no financial incentive to sell the company.
 -   **A gold-strewn road** - you keep most of what you earn, as you earn it.
 -   **Continual improvement** - where we can, and if the buffer builds up, we spend it on group activities; learning, coming together, fun.
 
-> **Why don't we try to build financial value?** If Product Space has a big pile of money, that creates a financial incentive to own the company, and increases the risk of conflict as the "value" of the company goes up and down. If we keep the company lean, with only a small liquidity buffer, then we don't need to argue about who owns what.
+> **Why don't we try to build financial value?** If Organa has a big pile of money, that creates a financial incentive to own the company, and increases the risk of conflict as the "value" of the company goes up and down. If we keep the company lean, with only a small liquidity buffer, then we don't need to argue about who owns what.
 
 See [Economic model](economic-model.html) and [Ownership model](ownership-model.html) for more detail on how money flows through the system.
 
@@ -68,13 +68,13 @@ How do we differentiate?
 
 How are we different from a typical consulting company?
 
--   Product Space doesn't want to earn money from its Members.
+-   Organa doesn't want to earn money from its Members.
 -   100% freedom for all consultants (as long as they don't hurt the home).
--   Product Space has no other goal than to provide a happy home.
+-   Organa has no other goal than to provide a happy home.
 
 How are we different from a typical network of independents?
 
--   We are dedicated to Product Space - that is, Members are encouraged to do all their work and invoicing through Product Space.
+-   We are dedicated to Organa - that is, Members are encouraged to do all their work and invoicing through Organa.
 -   We commit to helping and supporting each other.
 
 

@@ -1,15 +1,15 @@
 ---
-title: "How to clone the Product Space DNA"
+title: "How to clone the Organa DNA"
 prev_section: brand-building.html
 next_section: 
 ---
 
-How to clone the Product Space DNA
+How to clone the Organa DNA
 ==========================
 
-The Product Space DNA is [open-source on github](https://github.com/theproductspace/crisp-dna), so you are welcome to copy it and create something similar.
+The Organa DNA is [open-source on github](https://github.com/theproductspace/crisp-dna), so you are welcome to copy it and create something similar.
 
-Why clone the Product Space DNA?
+Why clone the Organa DNA?
 ------------------------
 
 Perhaps you are an independent consultant and want to start some kind of collaboration with others. You don't want to run it as a traditional consulting company, and yet you don't want to invent a model from scratch. In that case you can start from our model and modify it to fit your needs.
@@ -21,14 +21,14 @@ Although we happen to work as product management, digital, or UX consultants, th
 What's the licensing model?
 ---------------------------
 
-The Product Space DNA is licensed under [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). This means you are welcome to edit the text anyway you wish, even for commercial purposes, as long as you attribute the original text to us, and keep the license, so that others can fork off of your ingenious changes. But go read the license, it is well worth the effort.
+The Organa DNA is licensed under [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). This means you are welcome to edit the text anyway you wish, even for commercial purposes, as long as you attribute the original text to us, and keep the license, so that others can fork off of your ingenious changes. But go read the license, it is well worth the effort.
 
-Can I call my company Product Space?
+Can I call my company Organa?
 ----------------------------
 
-Please don't. We can't legally stop you from calling your organisation Product Space, but we prefer that you use a different name. Otherwise people may think there is some kind of relationship between our companies. If you pick a different name, our brands can evolve independently.
+Please don't. We can't legally stop you from calling your organisation Organa, but we prefer that you use a different name. Otherwise people may think there is some kind of relationship between our companies. If you pick a different name, our brands can evolve independently.
 
-How do I create my own copy of the Product Space DNA site?
+How do I create my own copy of the Organa DNA site?
 --------------------------------------------------
 
 Simplest way is to [fork](https://github.com/TheProductSpace) the [dna repo](https://github.com/crispab/crisp-dna) on github. Something like this:
@@ -39,21 +39,21 @@ Simplest way is to [fork](https://github.com/TheProductSpace) the [dna repo](htt
 4.  Start editing! The articles are all in the \_docs folder, and the table of contents is in \_data. Try opening \_docs/index.textile, and press the little pencil icon on the top right to edit it, and then commit.
 5.  After your first commit the site will be auto-published at **http://YOURNAME.github.io/dna** (or whatever you decide to call your repo)
 
-Once you've cloned the DNA, it's no longer the Product Space model, it's your model. Product Space is just your ancestral (and slightly weird) aunty. Change stuff as you like. Rename the company. Remove pages that aren't relevant. Change the content. Replace the pictures. Go wild.
+Once you've cloned the DNA, it's no longer the Organa model, it's your model. Organa is just your ancestral (and slightly weird) aunty. Change stuff as you like. Rename the company. Remove pages that aren't relevant. Change the content. Replace the pictures. Go wild.
 
 But wait, there's ALOT of content here!
 ---------------------------------------
 
-No worries, once you've forked it you can remove the stuff you don't need. The gist of our model is summarised in [What is Product Space](what-is-productspace.html) and [How Product Space works](how-productspace-works.html), so you might decide to just keep those two (but with your company name).
+No worries, once you've forked it you can remove the stuff you don't need. The gist of our model is summarised in [What is Organa](what-is-productspace.html) and [How Organa works](how-productspace-works.html), so you might decide to just keep those two (but with your company name).
 
 Another option is to skip the techie stuff (cloning and forking), and just take the bits you like anyway.
 
-Either way, please do mention on your website that your model is derived from (or inspired by) [Product Space DNA](https://theproductspace.github.io/dna/), and summarise the key similarities and differences. Spread your learnings :)
+Either way, please do mention on your website that your model is derived from (or inspired by) [Organa DNA](https://theproductspace.github.io/dna/), and summarise the key similarities and differences. Spread your learnings :)
 
-How can I help improve the Product Space DNA?
+How can I help improve the Organa DNA?
 -------------------------------------
 
-Hey hey, thanks for asking because Product Space always wants to improve :)
+Hey hey, thanks for asking because Organa always wants to improve :)
 
 If you have an improvement suggestion (big or small) you can:
 

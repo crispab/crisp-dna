@@ -5,7 +5,7 @@ title: Team Member Services Agreement
 Team Member Services Agreement
 ===================
 
-Each Member runs their own company or sole trader (the language in Australia), and each Member provides services to Product Space. That includes Sarah and Sandy the curret owners of the business.
+Each Member runs their own company or sole trader (the language in Australia), and each Member provides services to Organa. That includes Sarah and Sandy the curret owners of the business.
 
 That means that each of us commits to the same Services Agreement and the same conditions.
 

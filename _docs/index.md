@@ -1,26 +1,26 @@
 md---
-title: Product Space DNA
+title: Organa DNA
 next_section: what-is-productspace.html
 ---
 
 What is this?
 =============
 
-This site is [open-source](http://en.wikipedia.org/wiki/Open_source) and  describes how Product Space works and why. Think of it as our DNA, or, our manifesto.
+This site is [open-source](http://en.wikipedia.org/wiki/Open_source) and  describes how Organa works and why. Think of it as our DNA, or, our manifesto.
 
 The way we work and why, is so important to us that we wanted to describe it in detail. In the process, we discovered Crisp, an extraordinary company in Sweden. The content here comes largely from Crisp documenting the way they work. They allow organisatios to clone a copy of their DNA for re-use. And we've done just that. From deep in our hearts, thank you [Crisp](https://www.crisp.se).
 
 We've modified quite a bit to suit our Australian way of doing things, but in essence, we think and act similar to the way Crisp does.
 
-[Product Space](https://www.theproductspace.com) is an agile product management consultancy based in Sydney, Australia. We are a consulting company but importantly, we do consulting differently
+[Organa](https://www.theproductspace.com) is an agile product management consultancy based in Sydney, Australia. We are a consulting company but importantly, we do consulting differently
 For example:
 
 -   Firstly we don't like the word 'consultant' so we call ourselves Members. Having said that, consulting is an obvious description of what we do.
-- None of the Members are employed by Product Space.
+- None of the Members are employed by Organa.
 -   We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](/docs/decisions.html).
 -   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](what-is-productspace.html)), and work as much or as little as they want, for who they want.
--   Product Space's main purpose is to enable Members to be happy and the [Happiness Index](happiness-index.html) is our driving metric. Solid revenue and happy clients are a side effect, not a goal.
--   Product Space doesn't earn money from its Members. It is in practice, a non-profit company (although not legally so). Members keep most of what they earn. Gold in, gold out for those that work at Product Space.
+-   Organa's main purpose is to enable Members to be happy and the [Happiness Index](happiness-index.html) is our driving metric. Solid revenue and happy clients are a side effect, not a goal.
+-   Organa doesn't earn money from its Members. It is in practice, a non-profit company (although not legally so). Members keep most of what they earn. Gold in, gold out for those that work at Organa.
 -   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
 
 
@@ -28,9 +28,9 @@ People are intrigued when we talk about this and are curious as to how it works 
 
 Between what we've learned from Crisp and our amazing mates at Nomad8 in New Zealand, we've converged on a model that works well for us. And that's basically the sweet spot between being an independent consultant and being an employee. 
 
-Want to start a similar org? See [How to clone the Product Space DNA](how-to-copy.html). Or if you like, go back to the source and clone the Crisp DNA.
+Want to start a similar org? See [How to clone the Organa DNA](how-to-copy.html). Or if you like, go back to the source and clone the Crisp DNA.
 
-Why open-source the Product Space DNA?
+Why open-source the Organa DNA?
 ------------------------------
 
 -   To make the world a better place :) The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
@@ -45,10 +45,10 @@ Contents
 Driving principles
 ------------------
 
-These principles drive almost everything at Product Space:
+These principles drive almost everything at Organa:
 
--   [What is Product Space](what-is-productspace.html) - the purpose of the company.
--   [How Product Space works](how-productspace-works.html) - summary of our model, and some driving principles.
+-   [What is Organa](what-is-productspace.html) - the purpose of the company.
+-   [How Organa works](how-productspace-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model serves us so well.
 
 Core structure and practices
@@ -75,9 +75,9 @@ Supporting practices
 
 This is relevant stuff, but not core to our model.
 
--   [Agreements](contracts.html) - legal agreements for Product Space membership, ownership, etc.
+-   [Agreements](contracts.html) - legal agreements for Organa membership, ownership, etc.
 -   [Building competence](building-competence.html) - how we learn from each other and improve.
--   [Brand building](brand-building.html) - how we build the brands, both Product Space and personal brands.
+-   [Brand building](brand-building.html) - how we build the brands, both Organa and personal brands.
 -   [Conflict handling](conflict-handling.html) - how we make sure conflicts are constructive rather than destructive.
 -   [Courses](courses-development.html) - how courses get produced and delivered.
 -   [Industries that we avoid](industries-that-we-avoid.html) - why we avoid certain industries.
@@ -87,4 +87,4 @@ This is relevant stuff, but not core to our model.
 Other
 ----
 
--   [How to clone the Product Space DNA](how-to-copy.html)
+-   [How to clone the Organa DNA](how-to-copy.html)

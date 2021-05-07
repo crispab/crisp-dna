@@ -5,7 +5,7 @@ title: Shareholder contract, English translation
 Shareholder agreement
 ====================
 
-After tax advice (try describing a slow-growth consultancy that doesn't measure profit or growth but measures happiness!), we decided the structure in Australia that would work best for us is a Trust as it allows Product Space to operate legally and importantly, create and support the Home we've described elsewhere in our DNA.
+After tax advice (try describing a slow-growth consultancy that doesn't measure profit or growth but measures happiness!), we decided the structure in Australia that would work best for us is a Trust as it allows Organa to operate legally and importantly, create and support the Home we've described elsewhere in our DNA.
 
 Here's a simple picture of how it looks:
 [insert legal structure.png from legals folder]

@@ -14,7 +14,7 @@ Making decisions in a decentralised organisation with no managers is easier than
 Why don't  have a well defined decision-making process
 ---------------------------------------------------------
 
-We make lots of decisions all the time. Which type of sticky notes to buy? Should our internal fees be raised? Where and when is our next Product Space unconference? Should we invite partners and if so, who?
+We make lots of decisions all the time. Which type of sticky notes to buy? Should our internal fees be raised? Where and when is our next Organa unconference? Should we invite partners and if so, who?
 
 Different types of decisions need a different process. It would be crazy to involve the whole team in decisions like which type of whiteboard pens to buy. And it would be crazy to NOT involve the whole team if we needed to decide on the location of our unconference.
 
@@ -34,7 +34,7 @@ Instead, we follow these principles/guidelines:
 
 > **Example:** If the board is considering to raise the Membership fee, the board drives that question, and therefore gets to pick the decision process.
 
-> **Example:** If I want Product Space to collaborate with company X, then I’m the one driving that question and I pick the decision process.
+> **Example:** If I want Organa to collaborate with company X, then I’m the one driving that question and I pick the decision process.
 
 
 How do I pick a decision process?
@@ -61,13 +61,13 @@ Some things to consider when choosing a decisions process:
 -   **Is the decision reversible?** Most decisions are. What is the consequence of making the “wrong” decision, and who is affected by that?
 -   **How easy or hard is the decision?** How easy is it to reach consensus with all people affected?
 -   **How urgent is the decision?** What is the consequence of delaying the decision, or not making a decision at all?
--   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, etc. It may also depend on how long you’ve been at Product Space (if you are new and unsure you might need to seek more anchoring from people).
+-   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, etc. It may also depend on how long you’ve been at Organa (if you are new and unsure you might need to seek more anchoring from people).
 -   **Is the outcome affected by laws?** The board of directors in an Australian company is bound by Australian laws, so some decisions must be aligned with the board of directors.
 
 > Example decisions:
 >-   “Should I arrange a free seminar with Sarah Kirkby” =&gt; **Own decision**. Just do it.
->-   “Which colour should we have on the Product Space cup?” =&gt; **Own decision with team input**.
->-   “How often should we do Product Space unconferences?” =&gt; **Own decision with team anchoring**.
+>-   “Which colour should we have on the Organa cup?” =&gt; **Own decision with team input**.
+>-   “How often should we do Organa unconferences?” =&gt; **Own decision with team anchoring**.
 >-   “Should we divided the company into two business units?” =&gt; **Team decision**.
 
 At the end of the day it’s about balancing risk. If you make the decision yourself it will be fast, but you risk a backlash if others don’t support it. If you seek 100% consensus you may get a better decision with better support, but it could take time – especially for questions where people have opposing opinions.
@@ -80,8 +80,8 @@ What if I still feel unsure of which decision process to use?
 Here are some options:
 
 -   **Take a chance!** “Better to ask for forgiveness than permission”. Most decisions are reversible, so you don’t really need to be afraid of making the “wrong” decision or using the “wrong” decision process. Just be open to, and accept feedback, and learn.
--   **Talk to a Product Space colleague**, for example someone who has been around longer and can give examples of what has worked in the past.
--   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next Product Space unconference to be in Europe I’d involve the team, since we usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team on slack.
+-   **Talk to a Organa colleague**, for example someone who has been around longer and can give examples of what has worked in the past.
+-   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next Organa unconference to be in Europe I’d involve the team, since we usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team on slack.
 
 -   **Escalate the decision** to the [board of directors](board-of-directors.html). For example “hey board, I want to change our recruiting process, how would we make a decision like that?”. We try to minimise the number of decisions that have to be made by the board, but they can give useful input about who needs to be involved.
 
