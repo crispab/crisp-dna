@@ -7,10 +7,10 @@ defaults:
 collections:
   docs:
     output: true
-company_name: "Product Space"
+company_name: "Organa"
 google_analytics_tracker_code: "UA-136781112-2"
-title: Product Space DNA
-description: How Product Space works as a organisation, aka the Product Space DNA!
+title: Organa DNA
+description: How Organa works as a organisation, aka the Organa DNA!
 google_analytics: UA-7074695-4
 show_downloads: true
 theme: jekyll-theme-cayman
