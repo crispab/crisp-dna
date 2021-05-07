@@ -1,6 +1,6 @@
 ---
 title: Conflict handling
-prev_section: Product Spacelets.html
+prev_section: Organa.html
 next_section: contracts.html
 ---
 
