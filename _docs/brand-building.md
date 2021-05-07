@@ -35,7 +35,7 @@ Again, because our model attracts the kind of people that like to learn and spre
 
 -   [Blog articles](http://www.theproductspace.com/blog/).
 -   Partnerships with well-respected people and conpanies.
--   This [dna.Product Space](https://theproductspace.github.io/dna/) site.
+-   This [dna.Organa](https://theproductspace.github.io/dna/) site.
 
 It's all about co-branding
 --------------------------
