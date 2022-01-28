@@ -34,12 +34,12 @@ Simplest way is to [fork](https://help.github.com/articles/fork-a-repo/) the [cr
 1.  Surf to <http://github.com/crispab/crisp-dna>.
 2.  Press the "Fork" button on the top right somewhere (here's a [direct link](https://github.com/crispab/crisp-dna/fork)).
 3.  You should now have your own copy of the crisp dna!
-4.  Start editing! The articles are all in the \_docs folder, and the table of contents is in \_data. Try opening \_docs/index.textile, and press the little pencil icon on the top right to edit it, and then commit.
+4.  Start editing! The articles are all in the `\_docs` folder, and the table of contents is in `\_data`. Try opening `\_docs\index.md`, and press the little pencil icon on the top right to edit it, and then commit.
 5.  After your first commit the site will be auto-published at **http://YOURNAME.github.io/crisp-dna** (or whatever you decide to call your repo)
 
 Once you've cloned the dna, it's no longer the Crisp model, it's your model! Crisp is just your ancestral (and slightly weird) uncle. Change stuff as you like. Rename the company. Remove pages that aren't relevant. Change the content. Replace the pictures. Go wild.
 
-But wait, there's ALOT of content here!
+But wait, there's A LOT of content here!
 ---------------------------------------
 
 No worries, once you've forked it you can remove the stuff you don't need. The gist of our model is summarized in [What is Crisp](what-is-crisp.html) and [How Crisp works](how-crisp-works.html), so you might decide to just keep those two (but with your company name).
@@ -55,14 +55,17 @@ Glad you asked, cuz Uncle Crisp always wants to improve! :o)
 
 If you have an improvement suggestion (big or small) you can:
 
--   [Fork our repo](https://github.com/crispab/crisp-dna/fork) (as described above), make changes, and issue a [pull request](https://help.github.com/articles/using-pull-requests/) on our repo. If we like your change we will pull it back into our version.
--   ... or [File an issue](https://github.com/crispab/crisp-dna/issues/new) (pick a suitable label to the right)
+- [Fork our repo](https://github.com/crispab/crisp-dna/fork) (as described above), make changes, and issue a [pull request](https://help.github.com/articles/using-pull-requests/) on our repo. If we like your change we will pull it back into our version.
+- ... or [File an issue](https://github.com/crispab/crisp-dna/issues/new) (pick a suitable label to the right)
 
 We appreciate all feedback and hopefully someone will respond, but we can't guarantee it. Remember, we're all volunteers :)
 
 How do I ask questions or give feedback?
 ----------------------------------------
 
-If you have a question feel free to [File an issue](https://github.com/crispab/crisp-dna/issues/new) on the crisp-dna repo (pick the "question" label to the right). No response guaranteed though.
+If you have a question feel free to join our [Crisp DNA Slack channel](https://crispdna.slack.com/). You can also [file an issue](https://github.com/crispab/crisp-dna/issues/new) on the crisp-dna repo (pick the "question" label to the right). No response guaranteed though.
 
 If you have a general comment (for example "Wow, Awesome!") then the best place is probably on the [blog post announcing this launch](http://blog.crisp.se/2015/01/23/maxwenzin/crisp-dna-is-now-open-source).
+
+If you want to read more, [see blog posts about the Crisp DNA](https://blog.crisp.se/category/crisp-dna).
+
