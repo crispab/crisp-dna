@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'RedCloth'
-gem 'github-pages'
-gem 'nokogiri'
+# See: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
+#gem 'jekyll'
+gem 'github-pages', "~> 223", group: :jekyll_plugins
