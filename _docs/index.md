@@ -12,12 +12,10 @@ The way we work and why, is so important to us that we wanted to describe it in 
 
 We've modified quite a bit to suit our Australian way of doing things, but in essence, we think and act similar to the way Crisp does.
 
-[Organa](https://www.theproductspace.com) is an agile product management consultancy based in Sydney, Australia. We are a consulting company but importantly, we do consulting differently
-For example:
+[Organa](https://www.organa.com.au) is a home for experts who provide a range of services such as coaching, facilitation, training and consulting.
 
--   Firstly we don't like the word 'consultant' so we call ourselves Members. Having said that, consulting is an obvious description of what we do.
-- None of the Members are employed by Organa.
--   We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](/docs/decisions.html).
+- Because none of us are employed by Organa, we call ourselves Members.
+- We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](/docs/decisions.html).
 -   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](what-is-productspace.html)), and work as much or as little as they want, for who they want.
 -   Organa's main purpose is to enable Members to be happy and the [Happiness Index](happiness-index.html) is our driving metric. Solid revenue and happy clients are a side effect, not a goal.
 -   Organa doesn't earn money from its Members. It is in practice, a non-profit company (although not legally so). Members keep most of what they earn. Gold in, gold out for those that work at Organa.
