@@ -1,6 +1,6 @@
 md---
 title: Organa DNA
-next_section: what-is-productspace.html
+next_section: what-is-organa.html
 ---
 
 What is this?
@@ -16,7 +16,7 @@ We've modified quite a bit to suit our Australian way of doing things, but in es
 
 - Because none of us are employed by Organa, we call ourselves Members.
 - We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](/docs/decisions.html).
--   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](what-is-productspace.html)), and work as much or as little as they want, for who they want.
+-   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](/docs/what-is-organa.html)), and work as much or as little as they want, for who they want.
 -   Organa's main purpose is to enable Members to be happy and the [Happiness Index](happiness-index.html) is our driving metric. Solid revenue and happy clients are a side effect, not a goal.
 -   Organa doesn't earn money from its Members. It is in practice, a non-profit company (although not legally so). Members keep most of what they earn. Gold in, gold out for those that work at Organa.
 -   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
@@ -45,7 +45,7 @@ Driving principles
 
 These principles drive almost everything at Organa:
 
--   [What is Organa](what-is-productspace.html) - the purpose of the company.
+-   [What is Organa](what-is-organa.html) - the purpose of the company.
 -   [How Organa works](how-productspace-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model serves us so well.
 

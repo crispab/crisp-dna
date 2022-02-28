@@ -29,7 +29,7 @@ Do we have a "finders fee" for finding gigs for each other?
 
 Yeah, nah (that's an Australian saying!). And it means no :)
 
-If you pass a client on to another Member, you won't earn a commission, finder's fee or anything like that. Why? Because the underlying [purpose of Organa](what-is-productspace.html) is not to maximise profit, it's to maximise [happiness](happiness-index.html). We earn money from our clients, not from each other.
+If you pass a client on to another Member, you won't earn a commission, finder's fee or anything like that. Why? Because the underlying [purpose of Organa](what-is-organa.html) is not to maximise profit, it's to maximise [happiness](happiness-index.html). We earn money from our clients, not from each other.
 
 We've found that monetary incentive schemes invite sub-optimisation. People tend to focus on whatever gives them a bigger bonus, instead of what truly benefits the Home. 
 

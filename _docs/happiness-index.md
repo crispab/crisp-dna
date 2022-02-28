@@ -13,7 +13,7 @@ Our primary metric is our Happiness Index. It's the only thing we systemically m
 
 Here's an [example & template from Crisp](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE).
 
-There's pretty strong peer pressure for people to update this, and most of us do. Some every month, others less frequently. But nobody is forced (remember one of our [core values](what-is-productspace.html) is freedom, so nobody forces anyone to do anything). But all in all this gives us a solid overview of what's working and what needs to be fixed.
+There's pretty strong peer pressure for people to update this, and most of us do. Some every month, others less frequently. But nobody is forced (remember one of our [core values](what-is-organa.html) is freedom, so nobody forces anyone to do anything). But all in all this gives us a solid overview of what's working and what needs to be fixed.
 
 Survey questions
 ----------------

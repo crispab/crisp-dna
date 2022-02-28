@@ -24,7 +24,7 @@ So, every year around early March (to co-incide with an upcoming Board meeting) 
 What does ownership cost?
 -------------------------
 
-As you're read around this site, we work hard to to minimise the financial value of the company. Yes, you heard it right. I know, that's like the opposite of what other companies do right. But remember, the purpose of Organa is not to enrich it's owners. The purpose is to [help Member be happy](what-is-productspace.html).
+As you're read around this site, we work hard to to minimise the financial value of the company. Yes, you heard it right. I know, that's like the opposite of what other companies do right. But remember, the purpose of Organa is not to enrich it's owners. The purpose is to [help Member be happy](what-is-organa.html).
 
 > We've all seen consulting companies that work like pyramid schemes - where old-timers (partners) are like fat cats parasiting from the hard work of newcomers. Where rate cards are astronomical to partly remunerate those fat cats but to cover the costs of those fabulous paintings and plush carpets they tread on. That's exactly what we **don't** want to be.</rant>
 

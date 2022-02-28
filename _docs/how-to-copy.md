@@ -44,7 +44,7 @@ Once you've cloned the DNA, it's no longer the Organa model, it's your model. Or
 But wait, there's ALOT of content here!
 ---------------------------------------
 
-No worries, once you've forked it you can remove the stuff you don't need. The gist of our model is summarised in [What is Organa](what-is-productspace.html) and [How Organa works](how-productspace-works.html), so you might decide to just keep those two (but with your company name).
+No worries, once you've forked it you can remove the stuff you don't need. The gist of our model is summarised in [What is Organa](what-is-organa.html) and [How Organa works](how-productspace-works.html), so you might decide to just keep those two (but with your company name).
 
 Another option is to skip the techie stuff (cloning and forking), and just take the bits you like anyway.
 
