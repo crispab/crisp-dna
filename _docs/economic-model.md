@@ -12,7 +12,7 @@ Our high level economic model is summarised in [How Organa Works](how-Product-Sp
 Example: One month
 ------------------
 
-Suppose Sandy is a Organa Member, and her current client is HappyClient1. Sandy's consulting fee is $150 per hour. And suppose the current Organa fee is 10% of Sandy's billables + $200/month.
+Suppose Sandy is a Organa Member, and her current client is HappyClient1. Sandy's consulting fee is $150 per hour. And suppose the current Organa fee is 10% of Sandy's billables + $250/month.
 
 1.  During January, Sandy does 100 hours of work for HappyClient1.
 2.  At the end of January, she adds one row to the invoicing spreadsheet (a single shared Google doc), noting that HappyClient1 should be invoiced $10,000 for January.
@@ -22,7 +22,7 @@ Suppose Sandy is a Organa Member, and her current client is HappyClient1. Sandy'
 **Result for January:**
 HappyClient1 pays $10,000, Sandy earns $9,000, Organa earns $1,000.
 
-In addition, once per quarter Organa sends a $600 invoice to Sandy's company (3 x $200, the monthly fixed fee).
+In addition, once per quarter Organa sends a $750 invoice to Sandy's company (3 x $250, the monthly fixed fee).
 
 So let's put it all together.
 
@@ -34,7 +34,7 @@ Suppose Sandy earns the same amount as above, every month for a year. In that ca
 -   HappyClient1 paid $120,000 for Sandy's services ($10,000 x 12 months).
 -   Sandy earned $108,000 for her work at HappyClient1 (90% of the income from HappyClient1).
 -   Organa earned $12,000 from Sandy's work at HappyClient1 (10% of the income from HappyClient1).
--   In addition, Sandy paid $2,400 to Organa in fixed fees ($200 x 12 months).
+-   In addition, Sandy paid $3,000 to Organa in fixed fees ($250 x 12 months).
 -   **Result for the year:**
     -   HappyClient1: -$120,000
     -   Sandy: +$102,000
