@@ -13,7 +13,7 @@ We don't have a sales department and we require each Member to handle their own 
 
 Having said that, we do share. That's part of being connected to the Home. 
 
-As a consultant or contractor, timing is a huge challenge. When will my next gig start, will want one or multiple gigs at the same time. How likely is it that a future client will come knocking on the door precisely when I'm done with my current client, etc etc. Most of us who have experienced life as a consultant know we tend to have too much work or too little work, never just enough :0
+As a consultant or contractor, timing is a huge challenge. When will my next gig start, will I have one or multiple gigs at the same time? How likely is it that a future client will come knocking on the door precisely when I'm done with my current client, etc etc. Most of us who have experienced life as a consultant know we tend to have too much work or too little work, never just enough :0
 
 The solution is *load balancing* - having a group of trusted Members that you can send clients to and receive clients from. And that's exactly what Organa is - a bunch of trusted Members!
 
