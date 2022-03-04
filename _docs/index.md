@@ -15,7 +15,7 @@ We've modified quite a bit to suit our Australian way of doing things, but in es
 [Organa](https://www.organa.com.au) is a home for experts who provide a range of services such as coaching, facilitation, training and consulting.
 
 - Because none of us are employed by Organa, we call ourselves Members.
-- We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](/docs/decisions.html).
+- We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom up, and [anyone can drive any decision](/docs/decisions.html).
 -   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](/docs/what-is-organa.html)), and work as much or as little as they want, for who they want.
 -   Organa's main purpose is to enable Members to be happy and the [Happiness Index](happiness-index.html) is our driving metric. Solid revenue and happy clients are a side effect, not a goal.
 -   Organa doesn't earn money from its Members. It is in practice, a non-profit company (although not legally so). Members keep most of what they earn. Gold in, gold out for those that work at Organa.
