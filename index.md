@@ -5,23 +5,21 @@ This site is [open-source](http://en.wikipedia.org/wiki/Open_source) and describ
 
 The way we work and why, is so important to us that we wanted to describe it in detail. In the process, we discovered Crisp, an extraordinary company in Sweden. The content here comes largely from Crisp documenting the way they work so please see below for our acknowledgement of them. 
 
-[Organa](https://www.theproductspace.com) is an agile product management consultancy based in Sydney, Australia. We are a consulting company but importantly, we do consulting differently
-For example:
+[Organa](https://www.organa.com.au) is a home for experts who provide a range of services such as coaching, facilitation, training and consulting.
 
--   Firstly we don't like the word 'consultant' so we call ourselves Members. Having said that, consulting is an obvious description of what we do.
-- None of the Members are employed by Organa.
--   We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](https://theproductspace.github.io/dna/docs/decisions.html).
--   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](https://theproductspace.github.io/dna/docs/what-is-productspace.html)), and work as much or as little as they want, for who they want.
--   Organa's main purpose is to enable Members to be happy and the [Happiness Index](https://theproductspace.github.io/dna/docs/happiness-index.html) is our driving metric. Solid revenue and happy clients are a side effect, not a goal.
+- Because none of us are employed by Organa, we call ourselves Members.
+- We have no managers, no admin, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](/docs/decisions.html).
+-   Members are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our Home](https://organa-dna.github.io/dna/docs/what-is-organa.html)), and work as much or as little as they want, for who they want.
+-   Organa's main purpose is to enable Members to be happy and the [Happiness Index](https://organa-dna.github.io/dna/docs/happiness-index.html) is our driving metric. Solid revenue and happy clients are a side effect, not a goal.
 -   Organa doesn't earn money from its Members. It is, in practice, a non-profit company (although not legally so). Members keep most of what they earn. Gold in, gold out for those that work at Organa.
--   Our [ownership model](https://theproductspace.github.io/dna/docs/ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
+-   Our [ownership model](https://organa-dna.github.io/dna/docs/ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in". The company isn't worth anything, financially speaking. 
 
 
 People are intrigued when we talk about this and are curious as to how it works in practice. 
 
 Between what we've learned from Crisp and our amazing mates at Nomad8 in New Zealand, we've converged on a model that works well for us. And that's basically the sweet spot between being an independent consultant and being an employee. 
 
-Want to start a similar org? See [How to clone the Organa DNA](https://theproductspace.github.io/dna/docs/how-to-copy.html). Or if you like, go back to the source and clone the Crisp DNA.
+Want to start a similar org? See [How to clone the Organa DNA](https://organa-dna.github.io/dna/docs/how-to-copy.html). Or if you like, go back to the source and clone the Crisp DNA.
 
 Why open-source the Organa DNA?
 ------------------------------
