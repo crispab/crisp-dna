@@ -1,4 +1,5 @@
 _site/
 .idea/
+vendor/
 .DS_Store
 crisp-dna.iml
