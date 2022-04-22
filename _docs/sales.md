@@ -5,7 +5,6 @@ next_section: unconference.html
 ---
 
 # How we do sales
-=================
 
 Most of our sales is lead or demand driven. That is, the most common scenario is that a new client contacts one of us directly or by e-mail after finding us via our website, some online content, being recommended us by a colleague or by some other form of word of mouth or reputation driven reason.
 
@@ -22,19 +21,17 @@ The solution is *load balancing* - having a group of trusted colleagues that you
 The [bun protocol](bun-protocol.html) is our main tool for routing client requests between each other. It helps connect the right client with the right consultant at the right time, which benefits everyone! And it works pretty OK without any kind of central control :o)
 
 How do we handle conflicts, such as two consultants competing for the same client gig?
---------------------------------------------------------------------------------------
 
 See the [bun protocol](bun-protocol.html) page for answers to that and many similar questions about how we route clients internally.
 
 ## Do we have a "finders fee" for finding client gigs for each other?
-------------------------------------------------------------------
 
 Nope. If you pass a client on to a colleague, you won't earn a provision or finder's fee or anything like that. Why? Because the underlying [purpose of Crisp](what-is-crisp.html) is not to accumulate profit at our collective level, it is to maximize [happiness](happiness-index.html). We earn money from our clients, not from each other.
 
 > Once upon a time, we actually did have a finder's fee model. Each client had an "owner" (the person who was first contacted by the client, or the person who first started working with that client), and we had a spreadsheet to keep track of which consultant owned which client. If other consultants work with that client, they had to pay 10% of their revenue to the "owner". After a few years we realized that this model wasn't helping us at all. It was just causing a bunch of bureaucracy, sub-optimization, and confusion. Who "owns" a huge client like Ericsson? Do I still count as owner for client X if they get bought by client Y? Is ownership permanent or time-limited, and if so how do I "renew" it? Needless to say, we dumped the model many years ago and haven't missed it one bit. Instead the guiding principle is "what goes around, comes around". Today I give you a client, tomorrow someone else gives me a client, and over time it more or less evens out. 100% "fairness" just isn't worth pursuing.
 
 ## What is the Sales Crisplet, and how does it work?
--------------------------------------------------
+
 The sales crisplet is an opt in service that any crisper can decide if they want to have access to. If you opt in, you get access to our sales professional. She is absolutely top notch!
 
 Our strong reputation generates plenty of leads, typically in market segments where we are well established. Our active sales efforts are therefore focused on more emerging areas of the market that we may be proactively targeting because we find them attractive or as an area of future opportunity.
@@ -42,15 +39,15 @@ Our strong reputation generates plenty of leads, typically in market segments wh
 We are always [learning](building-competence.md) and therefore Crisp is always developing as well!
 
 ## What about the bun protocol and the sales crisplet, how do they work together?
+
 Every member of crisp has access to the [bun protocol](bun-protocol.html), which is our main form of pooling leads. If you have opted into of the sales crisplet you get access to even more leads through our active sales professional and associated additional sales services.
 
 ## How does membership in the sales crisplet work, do I pay when I need a new client?
+
 No. If you join the sales crisplet you pay in two ways, in part as a monthly flat fee and in part as a percentage of revenue billed. This means that you pay more when you have more income and less when you have less income.
 
 
-
 ## What power does the business developer have?
---------------------------------------------
 
 No formal powers at all! Although, like with all Crispers, there's plenty of *informal power* to go around :o)
 
