@@ -1,6 +1,6 @@
 ---
 title: Happiness Index
-prev_section: why-this-works.html
+prev_section: core.html
 next_section: ownership-model.html
 ---
 
