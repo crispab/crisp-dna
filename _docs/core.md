@@ -21,4 +21,4 @@ The base Crisp fee covers these services.
 
 The idea behind having Core services and is that we want a shared base of services, but we don't want everything to be mandatory.
 We want the freedom to select which services we want to have, and only pay for what we use. 
-Additional services are optional and offered as so-called [Crisplets](crisplets.html#what-is-a-crisplet).
+Additional services are optional and offered as so-called [Crisplets](crisplets.html).
