@@ -2,7 +2,7 @@
 title: Why this works well for us
 
 prev_section: how-crisp-works.html
-next_section: happiness-index.html
+next_section: core.html
 ---
 
 Why this model works (for us)
