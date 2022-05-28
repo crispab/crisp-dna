@@ -1,4 +1,4 @@
-	---
+---
 title: Decision making
 prev_section: economic-model.html
 next_section: recruiting.html
@@ -56,7 +56,6 @@ Organa uses four decision protocols:
 - Proceed
 
 4. Consensus: Facilitate a decision from the whole team (using consensus, with majority vote as fallback if we can’t reach consensus).
-
 For simple decisions, this communication can happen via slack, email or a poll. For more complex or sensitive decisions, face-to-face conversation is better. We usually do those at our [unconference](unconference.html).
 
 Some things to consider when choosing a decisions process:
