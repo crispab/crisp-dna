@@ -58,6 +58,7 @@ We have a simple version of the Sociocratic Consent model:
   - Harms the Home
 - Proceed
 
+
 4. **Consensus:** 
 Facilitate a decision from the whole team (using consensus, with majority vote as fallback if we can’t reach consensus).
 For simple decisions, this communication can happen via slack, email or a poll. For more complex or sensitive decisions, face-to-face conversation is better. We usually do those at our [unconference](unconference.html).
