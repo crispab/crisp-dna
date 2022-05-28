@@ -58,7 +58,7 @@ Example: adjusting the fees
 
 At the end of the financial year, the [board](board-of-directors.html) notices that Organa is accumulating too much money (remember we maintain a limited liquidity buffer and try not build up piles of cash), so they lower the fee to 9% + $200/month, and lower the ceiling to $18,000/year. Yay!
 
-Check [how Organa works](how-productspace-works.html) if you are curious about why we don't want Organa to earn a big profit.
+Check [how Organa works](how-organa-works.html) if you are curious about why we don't want Organa to earn a big profit.
 
 What about taxes and GST?
 -------------------------
