@@ -42,11 +42,14 @@ How do I pick a decision process?
 
 Organa uses four decision protocols:
 
-1. Own decision: Decide yourself without talking to anyone.
+1. **Own decision:** 
+Decide yourself without talking to anyone.
 
-2. Advice: Ask for input (perspectives, implications) from the team, but then make the decision yourself. It’s likely to be small enough to try, safe enough to fail.
+2. **Advice:** 
+Ask for input (perspectives, implications) from the team, but then make the decision yourself. It’s likely to be small enough to try, safe enough to fail.
 
-3. Consent: We have a simple version of the Sociocratic Consent model:
+3. **Consent:** 
+We have a simple version of the Sociocratic Consent model:
 - Proposal presented
 - Round of clarification
 - Seek objection: Objections need to be “truly problematic” or “simply unappealing”. If the latter the objector is asked to let it go. If it is “truly problematic” it is the objectors responsibility to articulate and clarify the objection based on one of these three considerations:
@@ -55,7 +58,8 @@ Organa uses four decision protocols:
   - Harms the Home
 - Proceed
 
-4. Consensus: Facilitate a decision from the whole team (using consensus, with majority vote as fallback if we can’t reach consensus).
+4. **Consensus:** 
+Facilitate a decision from the whole team (using consensus, with majority vote as fallback if we can’t reach consensus).
 For simple decisions, this communication can happen via slack, email or a poll. For more complex or sensitive decisions, face-to-face conversation is better. We usually do those at our [unconference](unconference.html).
 
 Some things to consider when choosing a decisions process:
@@ -70,9 +74,9 @@ Some things to consider when choosing a decisions process:
 
 > Example decisions:
 >-   “Should I arrange a free seminar with Sarah Kirkby” =&gt; **Own decision**. Just do it.
->-   “Which colour should we have on the Organa cup?” =&gt; **Own decision with team input**.
->-   “How often should we do Organa unconferences?” =&gt; **Own decision with team anchoring**.
->-   “Should we divided the company into two business units?” =&gt; **Team decision**.
+>-   “Which colour should we have on the Organa cup?” =&gt; **Advice Process**.
+>-   “How often should we do Organa unconferences?” =&gt; **Consent**.
+>-   “Should we divided the company into two business units?” =&gt; **Consensus**.
 
 At the end of the day it’s about balancing risk. If you make the decision yourself it will be fast, but you risk a backlash if others don’t support it. If you seek 100% consensus you may get a better decision with better support, but it could take time – especially for questions where people have opposing opinions.
 
