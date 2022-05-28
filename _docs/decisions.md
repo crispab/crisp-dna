@@ -57,7 +57,7 @@ We have a simple version of the Sociocratic Consent model:
   - It harms my ability to do my job
   - It harms the home (the community)
 - Proceed
-
+ 
 
 4. **Consensus:** 
 Facilitate a decision from the whole team (using consensus, with majority vote as fallback if we can’t reach consensus).
