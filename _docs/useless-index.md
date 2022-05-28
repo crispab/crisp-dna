@@ -1,4 +1,4 @@
-md---
+---
 title: Organa DNA
 next_section: what-is-organa.html
 ---
@@ -46,7 +46,7 @@ Driving principles
 These principles drive almost everything at Organa:
 
 -   [What is Organa](what-is-organa.html) - the purpose of the company.
--   [How Organa works](how-productspace-works.html) - summary of our model, and some driving principles.
+-   [How Organa works](how-organa-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model serves us so well.
 
 Core structure and practices
