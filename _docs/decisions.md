@@ -52,10 +52,10 @@ Ask for input (perspectives, implications) from the team, but then make the deci
 We have a simple version of the Sociocratic Consent model:
 - Proposal presented
 - Round of clarification
-- Seek objection: Objections need to be “truly problematic” or “simply unappealing”. If the latter the objector is asked to let it go. If it is “truly problematic” it is the objectors responsibility to articulate and clarify the objection based on one of these three considerations:
-  - Harms our values
-  - Harms my ability to do my job
-  - Harms the Home
+- Seek objection: Objections are either “truly problematic” or “simply unappealing”. If it is "simply unappealing", the objector is asked to let it go. If it is “truly problematic” it is the objectors responsibility to articulate and clarify the objection based on one of these three categories:
+  - It harms our values
+  - It harms my ability to do my job
+  - It harms the home (the community)
 - Proceed
 
 
