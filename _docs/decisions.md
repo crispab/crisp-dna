@@ -1,4 +1,4 @@
----
+	---
 title: Decision making
 prev_section: economic-model.html
 next_section: recruiting.html
@@ -40,17 +40,22 @@ Instead, we follow these principles/guidelines:
 How do I pick a decision process?
 ---------------------------------
 
-Here are some examples of different decisions processes on a scale from “fast” to “well-anchored”.
+Organa uses four decision protocols:
 
--   **Own decision**. Decide yourself without talking to anyone.
--   **Own decision with team input**. Ask for input from the team, but then make the decision yourself.
--   **Own decision with team-anchoring**. Ask for input from the team, suggest a decision, check if the team is OK with it before closing the decision.
--   **Team decision**. Facilitate a decision from the whole team (using consensus, with majority vote as fallback if we can’t reach consensus).
+1. Own decision: Decide yourself without talking to anyone.
 
-The term “team” in this case really means “those who are affected by the decision”. Sometimes the whole team, sometimes just a few of us.
+2. Advice: Ask for input (perspectives, implications) from the team, but then make the decision yourself. It’s likely to be small enough to try, safe enough to fail.
 
-These decisions processes can be combined. 
-> Example: start by getting input from the whole team, then suggest a decision and anchor with those people who are most directly affected.
+3. Consent: We have a simple version of the Sociocratic Consent model:
+- Proposal presented
+- Round of clarification
+- Seek objection: Objections need to be “truly problematic” or “simply unappealing”. If the latter the objector is asked to let it go. If it is “truly problematic” it is the objectors responsibility to articulate and clarify the objection based on one of these three considerations:
+  - Harms our values
+  - Harms my ability to do my job
+  - Harms the Home
+- Proceed
+
+4. Consensus: Facilitate a decision from the whole team (using consensus, with majority vote as fallback if we can’t reach consensus).
 
 For simple decisions, this communication can happen via slack, email or a poll. For more complex or sensitive decisions, face-to-face conversation is better. We usually do those at our [unconference](unconference.html).
 
