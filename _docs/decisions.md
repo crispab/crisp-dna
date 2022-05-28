@@ -91,9 +91,4 @@ Here are some options:
 -   **Take a chance!** “Better to ask for forgiveness than permission”. Most decisions are reversible, so you don’t really need to be afraid of making the “wrong” decision or using the “wrong” decision process. Just be open to, and accept feedback, and learn.
 -   **Talk to an Organa colleague**, for example someone who has been around longer and can give examples of what has worked in the past.
 -   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want to create a new Agile product course, I might ask another Organa member to pair-drive the decision.
-
 -   **Escalate the decision** to the [board of directors](board-of-directors.html). For example “hey board, I want to change our recruiting process, how would we make a decision like that?”. We try to minimise the number of decisions that have to be made by the board, but they can give useful input about who needs to be involved.
-
-Our [unconferences](unconference.html) and similar gatherings are a great place to discuss a decision process – and in many cases make the actual decision as well, since everyone is there :)
-
-The [open format](unconference.html) of our conference is quite essential to our decision making process.
