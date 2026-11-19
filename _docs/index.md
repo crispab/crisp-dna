@@ -41,11 +41,12 @@ Driving principles
 -   [How Crisp works](how-crisp-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model has served us so well
 
-Core structure and practices
+Main structure and practices
 ----------------------------
 
 (although these are core to our model, they are mostly just consequences of the principles above)
 
+-   [Crisp Core](core.html) - what do all Crispers get, and what is opt-in?
 -   [Happiness index](happiness-index.html) - how do we know if we are succeeding?
 -   [Ownership model](ownership-model.html) - how do people become owners, and what ownership actually means?
 -   [Economic model](economic-model.html) - how does money flow through the system?

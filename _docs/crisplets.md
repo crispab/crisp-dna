@@ -4,7 +4,8 @@ prev_section: hack-summit.html
 next_section: conflict-handling.html
 ---
 
-# Crisplets
+Crisplets
+=========
 
 How do bottom-up initiatives get funded? 
 How do you get money to do something without a budget process?
@@ -12,7 +13,8 @@ How do we fund and steer services that only some Crispers want?
 
 Answer: If you want something that needs funding, form a Crisplet. That is, find others that want the same thing and are willing to pay for it with their own money. Crisp can foot the bill initially.
 
-## What is a Crisplet?
+What is a Crisplet?
+-------------------
 
 A Crisplet is a loosely coupled interest group of Crispers who want to co-fund an initiative. Perfect for situations where we don't really need everyone at Crisp involved.
 
@@ -28,7 +30,8 @@ But when in doubt (or if in a hurry), go for opt-in and just form a Crisplet. Be
 
 Some Crisplets are temporary in nature and some are more long lived. For long-lived Crisplets, such as the Sales Crisplet and the Engineering Crisplet, there is a monthly fee.
 
-## Sample Crisplets
+Sample Crisplets
+----------------
 
 - **Agile Crisplet**: Not really an active Crisplet any more, since agile has been embedded in the whole company pretty much. But this was our first crisplet, formed in 2007, when we introduced the crisplet concept. Our goal was to become awesome helping companies (both Crisp and our clients) become agile.
 - **Climate Crisplet**: A group of people passionate about reducing global warming. This was our first open crisplet (membership open to anyone, even non-Crispers). See https://climate.crisp.se.
@@ -36,9 +39,10 @@ Some Crisplets are temporary in nature and some are more long lived. For long-li
 - **Missing People Crisplet**: Similar to the above, this Crisplet provides continuous support to [Missing People](https://missingpeople.se). People can join and leave as they like.
 - **Hack summit**: Most of us love [hack summit](hack-summit.html), but again we don't want to force it upon everyone, so by creating a Crisplet we make sure the costs only affect those who are involved.
 - **Crisp Engineering**: All Crispers who love software engineering are members of this Crisplet.
-- **Sales Crisplet**: Since around 2020, we extracted our Sales function from our base services and made it into a Crisplet which Crispers could choose to join.
+- **Sales Crisplet**: Since around 2020, we extracted our Sales function from [Crisp Core](core.html) and made it into a Crisplet which Crispers could choose to join.
 
-# Benefits of forming a Crisplet
+Benefits of forming a Crisplet
+------------------------------
 
 The main benefit to forming a Crisplet is that we reduce the need for centralized decision making, and maximize people's economic freedom.
 
@@ -51,14 +55,16 @@ But why Crisplets at all? Can't people just "huddle up and do it"? True, but the
 - **Liquidity** - a Crisplet can spend money that it doesn't have (yet). For example, with our donation to Doctors Without Borders, Crisp paid the donation and **then** invoiced each participant. This works because Crisp has a cash buffer (although limited), and because we trust that each participant will pay their part when the time comes.
 - **Responsibility** - Crisplet Accounts only appear when there are actual *individuals* who are prepared to pay. This reduces the risk that Crisp as a whole spends money on stuff that isn't important, or that very few people care about.
 
-# What is required of a Crisplet
+What is required of a Crisplet
+------------------------------
 
 - A wiki page describing the purpose of the Crisplet, how collaboration is done and who has joined
 - A link from the list of Crisplets to the wiki page describing the Crisplet
 - All Crisplets are open for any Crisper to join.
 - Every new Crisplet is announced via an [OBS-email](email-conventions.html).
 
-# Sometimes Crisplets don't have to pay
+Sometimes Crisplets don't have to pay
+-------------------------------------
 
 Crisplets are expected to run at a loss (they are basically cost centers), so each Crisplet Account can be seen as a short-term loan from Crisp to a group of participants. Each participant should expect to receive an invoice from Crisp at some point, to cover their part of the cost.
 
