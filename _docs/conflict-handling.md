@@ -13,7 +13,7 @@ The way we deal with conflict is really important - some conflicts are healthy a
 
 Conflict handling gets a bit tricky with organizations like Crisp, with everything bottom-up and no managers. We've done pretty OK so far, but we want to get better.
 
-Inspired by the book [Reinventing Organizations](http://www.reinventingorganizations.com), we've learned that self-organization at scale really needs an explicit conflict handling strategy, a simple process that everyone needs to be bought into.
+Inspired by the book [Reinventing Organizations](https://www.reinventingorganizations.com), we've learned that self-organization at scale really needs an explicit conflict handling strategy, a simple process that everyone needs to be bought into.
 
 We agreed on this 3-step conflict escalation process:
 

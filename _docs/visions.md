@@ -7,7 +7,7 @@ next_section: sales.html
 Visions
 =======
 
-One big aha in our evolution was when we [realized](http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) that Crisp itself is just a platform. Crisp doesn't have a Vision (with a Big V), we just want Crisp to be a [nice home for consultants](what-is-crisp.html).
+One big aha in our evolution was when we [realized](https://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) that Crisp itself is just a platform. Crisp doesn't have a Vision (with a Big V), we just want Crisp to be a [nice home for consultants](what-is-crisp.html).
 
 However, many of the *people* at Crisp do have a vision. Here are the most widely shared visions:
 

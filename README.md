@@ -2,14 +2,14 @@
 ---
 # Crisp DNA - tech setup for the site
 
-Crisp DNA is a web site that describes how Crisp works and why. The source lives on github and is auto-published on [http://dna.crisp.se](http://dna.crisp.se) every time a change is pushed.
+Crisp DNA is a web site that describes how Crisp works and why. The source lives on github and is auto-published on [https://dna.crisp.se](https://dna.crisp.se) every time a change is pushed.
 
-Below are instructions for how to set up a local development environment. Useful for when you want to make many changes and test locally before pushing to github. See [How to clone](http://dna.crisp.se/docs/how-to-copy.html) for more options on how to clone the Crisp model.
+Below are instructions for how to set up a local development environment. Useful for when you want to make many changes and test locally before pushing to github. See [How to clone](https://dna.crisp.se/docs/how-to-copy.html) for more options on how to clone the Crisp model.
 
 
 ## 1. Install GIT
 
-Here's [how to install GIT](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
+Here's [how to install GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
 
 ## 2. Clone the repo
 
@@ -20,7 +20,7 @@ Tell git to download the crisp-dna source:
 
 You should now have the whole thing, including the README.md file that you are reading right now!
 
-The web site source files are under `_docs`, have a look! They are written using [markdown](https://guides.github.com/features/mastering-markdown/) (a simpler format than html). When you push to github, a GitHub Actions workflow converts the pages to static html and publishes the site on http://dna.crisp.se. 
+The web site source files are under `_docs`, have a look! They are written using [markdown](https://guides.github.com/features/mastering-markdown/) (a simpler format than html). When you push to github, a GitHub Actions workflow converts the pages to static html and publishes the site on https://dna.crisp.se. 
 
 ## 3. Install Ruby (project-local)
 

@@ -19,7 +19,7 @@ What do we measure?
 We measure:
 
 -   How happy we are (see [Happiness Index](happiness-index.html))
--   How happy our customers are. (actually, this point is partly aspirational. Currently our only systematic customer satisfaction metric is [Net Promoter Score](http://en.wikipedia.org/wiki/Net_Promoter) for course participants).
+-   How happy our customers are. (actually, this point is partly aspirational. Currently our only systematic customer satisfaction metric is [Net Promoter Score](https://en.wikipedia.org/wiki/Net_Promoter) for course participants).
 
 How do we finance the home?
 ---------------------------
@@ -61,8 +61,8 @@ For more see [Recruiting](recruiting.html).
 How do we run the company?
 --------------------------
 
--   **Lean & Agile** - our approach is based on lean and [agile](http://agilemanifesto.org) principles.
--   **Meritocracy & Consensus** - we don't have titles, managers, or reporting structures. Instead we are a [meritocracy](http://en.wikipedia.org/wiki/Meritocracy), which basically means your power to influence stuff is based on your competence and engagement. Decisions are made mostly using consensus ([here's how](decisions.html)).
+-   **Lean & Agile** - our approach is based on lean and [agile](https://agilemanifesto.org) principles.
+-   **Meritocracy & Consensus** - we don't have titles, managers, or reporting structures. Instead we are a [meritocracy](https://en.wikipedia.org/wiki/Meritocracy), which basically means your power to influence stuff is based on your competence and engagement. Decisions are made mostly using consensus ([here's how](decisions.html)).
 -   **Ask for forgiveness rather than permission** - if you want to start or change something, go ahead! The default answer to any request or idea is "Sure! If you believe in it and want to put time into it!". Very few mistakes are fatal or irreversible, so we encourage each other to just try things rather than seek permission.
 -   **Simple models** - being a bunch of smart engineers and process nerds, we can come up with detailed rules and structures for any kind problem. But we really try not to! We don't want to overcomplicate things, and prefer to err on the side of simplicity. Better to have too few rules than too many, and better to follow high level guiding principles than low level detailed procedures.
 
@@ -89,4 +89,4 @@ Although this is part of the A3, it's really a separate topic: [Why this model w
 Further reading
 ---------------
 
-See the [What is Crisp](http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) blog article. It describes some of the history behind the model.
+See the [What is Crisp](https://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000) blog article. It describes some of the history behind the model.
