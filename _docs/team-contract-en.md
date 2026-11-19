@@ -1,5 +1,6 @@
 ---
 title: Team contract, English translation
+description: "The Crisp team contract every Crisper signs. The Swedish original is not yet translated to English, so this page links to a machine translation."
 ---
 
 Crisp Team Contract

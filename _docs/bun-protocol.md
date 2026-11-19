@@ -1,5 +1,6 @@
 ---
 title: Bun protocol
+description: "The Bun Protocol: Crisp's lightweight, decentralized way of routing incoming client requests to the right consultant at the right time."
 prev_section: communication.html
 next_section: dashboard.html
 ---

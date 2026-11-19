@@ -1,5 +1,6 @@
 ---
 title: Crisp DNA
+description: "Crisp DNA describes how Crisp, a consulting company in Stockholm with no employees and no managers, works and why."
 next_section: what-is-crisp.html
 ---
 

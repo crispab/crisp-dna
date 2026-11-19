@@ -1,5 +1,6 @@
 ---
 title: Economic Model
+description: "Concrete examples of how money flows through Crisp: invoicing, the fixed and variable fee, the fee ceiling and fee adjustments."
 prev_section: ownership-model.html
 next_section: decisions.html
 ---

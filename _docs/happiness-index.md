@@ -1,5 +1,6 @@
 ---
 title: Happiness Index
+description: "The Crisp Happiness Index: the one metric we systematically measure and follow up, and how we act on it."
 prev_section: core.html
 next_section: ownership-model.html
 ---

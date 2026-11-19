@@ -1,5 +1,6 @@
 ---
 title: Hand signals
+description: "The hand signals Crisp uses to run discussions and check for agreement quickly in large groups."
 prev_section: email-conventions.html
 next_section: industries-that-we-avoid.html
 ---

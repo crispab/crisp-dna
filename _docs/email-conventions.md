@@ -1,5 +1,6 @@
 ---
 title: Email conventions
+description: "How Crisp gets transparency without email overload: one team mailing list and a few simple subject line conventions."
 prev_section: unconference.html
 next_section: hand-signals.html
 ---

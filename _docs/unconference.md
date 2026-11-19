@@ -1,5 +1,6 @@
 ---
 title: Unconference
+description: "The Crisp Unconference: twice a year we meet for a conference with no predefined agenda, to share knowledge, solve problems and decide things together."
 prev_section: sales.html
 next_section: email-conventions.html
 ---

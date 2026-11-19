@@ -1,5 +1,6 @@
 ---
 title: How Crisp works
+description: "A summary of how Crisp works: what we measure, how the fees finance the company, what we do with the money, and our driving principles."
 prev_section: what-is-crisp.html
 next_section: why-this-works.html
 ---

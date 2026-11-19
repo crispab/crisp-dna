@@ -1,5 +1,6 @@
 ---
 title: Conflict handling
+description: "How Crisp handles conflict in a self-organizing company with no managers, using a simple three-step escalation process."
 prev_section: crisplets.html
 next_section: contracts.html
 ---

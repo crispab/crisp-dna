@@ -1,5 +1,6 @@
 ---
 title: Courses and event production
+description: "How courses and events work at Crisp: every course has a Producer who owns it, and Crisp provides the platform."
 prev_section: building-competence.html
 next_section: brand-building.html
 ---

@@ -1,5 +1,6 @@
 ---
 title: Crisp Core
+description: "Crisp Core: the basic services every Crisper gets and pays for through the Core fee, and the opt-in services run as Crisplets."
 prev_section: why-this-works.html
 next_section: happiness-index.html
 ---

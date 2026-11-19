@@ -1,5 +1,6 @@
 ---
 title: Building competence
+description: "How Crispers keep learning without training budgets or approval processes: unconferences, Hack Summits, pairing and teaching each other."
 prev_section: contracts.html
 next_section: courses-and-event-production.html
 ---

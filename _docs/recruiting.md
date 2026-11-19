@@ -1,5 +1,6 @@
 ---
 title: Recruitment
+description: "How Crisp grows slowly and carefully: we don't actively recruit, we are picky about who we bring in, and we aim for a few new consultants per year."
 prev_section: decisions.html
 next_section: communication.html
 ---

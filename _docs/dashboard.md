@@ -1,5 +1,6 @@
 ---
 title: Dashboard
+description: "The Crisp Dashboard: a shared spreadsheet with our most vital shared information, starting with the happiness index."
 prev_section: bun-protocol.html
 next_section: admin.html
 ---

@@ -1,5 +1,6 @@
 ---
 title: Brand building
+description: "How Crisp built a strong brand without a marketing department: delight your clients and be visible, as a company and as individuals."
 prev_section: courses-and-event-production.html 
 next_section: how-to-copy.html
 ---

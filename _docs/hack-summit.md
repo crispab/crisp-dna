@@ -1,5 +1,6 @@
 ---
 title: "Hack Summit"
+description: "Crisp Hack Summit: a two-day off-site event, a few times per year, where we hack on pet projects and learn new technology."
 prev_section: industries-that-we-avoid.html
 next_section: crisplets.html
 ---

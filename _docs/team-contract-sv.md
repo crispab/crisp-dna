@@ -1,6 +1,7 @@
 ---
 lang: sv
 title: Team contract, Swedish original
+description: "Crisp Team-kontraktet, avtalet mellan Crisp AB och varje Crispare."
 ---
 
 Crisp Team Kontrakt

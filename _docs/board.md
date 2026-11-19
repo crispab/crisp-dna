@@ -1,5 +1,6 @@
 ---
 title: Board of directors
+description: "How Crisp's board of directors works: what it is responsible for, how board members are paid, and how all Crispers elect the board every year."
 prev_section: admin.html
 next_section: our-business.html
 ---

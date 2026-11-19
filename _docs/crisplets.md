@@ -1,5 +1,6 @@
 ---
 title: Crisplets
+description: "Crisplets: how groups of Crispers co-fund initiatives and opt-in services without a central budget process."
 prev_section: hack-summit.html
 next_section: conflict-handling.html
 ---

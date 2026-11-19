@@ -1,5 +1,6 @@
 ---
 title: Ownership model
+description: "Who owns Crisp and what ownership means: anyone who has been at Crisp for two years or more can become an owner."
 prev_section: happiness-index.html
 next_section: economic-model.html
 ---

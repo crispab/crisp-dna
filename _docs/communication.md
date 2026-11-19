@@ -1,5 +1,6 @@
 ---
 title: Communication
+description: "How Crisp communicates without managers: unconferences, pulse meetings, one team mailing list, board meetings and more."
 prev_section: recruiting.html
 next_section: bun-protocol.html
 ---

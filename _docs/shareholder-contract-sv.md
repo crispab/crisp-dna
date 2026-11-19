@@ -1,6 +1,7 @@
 ---
 lang: sv
 title: Shareholder contract, Swedish original
+description: "Aktieägaravtalet för Crisp AB, som varje delägare skriver under."
 ---
 
 Aktieägaravtal

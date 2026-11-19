@@ -1,5 +1,6 @@
 ---
 title: Sales
+description: "How sales works at Crisp: mostly through reputation and shared leads, with an opt-in Sales Crisplet for more active sales support."
 prev_section: visions.html
 next_section: unconference.html
 ---

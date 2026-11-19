@@ -1,5 +1,6 @@
 ---
 title: Our visions
+description: "Crisp itself has no vision, but many Crispers do. These are the visions most widely shared among us."
 prev_section: our-business.html
 next_section: sales.html
 ---

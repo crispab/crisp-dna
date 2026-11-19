@@ -1,5 +1,6 @@
 ---
 title: Decision making
+description: "How decisions get made at Crisp, a decentralized company with no managers, where anyone can drive any decision."
 prev_section: economic-model.html
 next_section: recruiting.html
 ---

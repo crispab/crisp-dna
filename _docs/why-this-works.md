@@ -1,5 +1,6 @@
 ---
 title: Why this works well for us
+description: "Why the Crisp model works for us: two positive feedback loops where competent, motivated consultants make customers happy, which feeds reputation and learning."
 
 prev_section: how-crisp-works.html
 next_section: core.html
