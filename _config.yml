@@ -11,6 +11,7 @@ company_name: "Crisp"
 google_analytics_tracker_code: "UA-7074695-4"
 exclude:
   - CLAUDE.md
+  - run
   - Gemfile
   - Gemfile.lock
   - node_modules

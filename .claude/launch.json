@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "crisp-dna", "runtimeExecutable": "./run", "runtimeArgs": [], "port": 4000 }
+  ]
+}
