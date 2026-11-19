@@ -611,6 +611,11 @@ td {
   font-weight: 300;
 }
 
+table.signatures,
+table.signatures td {
+  border: none;
+}
+
 form {
   background: #f2f2f2;
   padding: 20px;

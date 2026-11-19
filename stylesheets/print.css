@@ -118,8 +118,13 @@ th {
 
 td {
   border: 1px solid #ebebeb;
-  text-align: center; 
+  text-align: center;
   font-weight: 300;
+}
+
+table.signatures,
+table.signatures td {
+  border: none;
 }
 
 form {
