@@ -13,8 +13,8 @@ We are in no hurry to grow
 
 We don't actively recruit consultants. There's no economic incentive to do so, and each new addition makes Crisp a bit more anonymous, a bit less personal, and a bit harder to coordinate.
 
-So... how did we get to be more than 30 consultants then?
----------------------------------------------------------
+So... how did we get to be about 20 consultants then?
+----------------------------------------------------
 
 Like vampires, fresh blood makes us stronger. New people who are smart and passionate will challenge the status quo and inject new ideas! That compensates for the pain of growing.
 

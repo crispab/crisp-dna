@@ -11,7 +11,7 @@ This site is an [open-source](https://en.wikipedia.org/wiki/Open_source) site de
 
 [Crisp](https://www.crisp.se) is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
 
--   {{ site.company_name }} has no employees. None of the ~30 consultants, not even the board, are employed by {{ site.company_name }}.
+-   {{ site.company_name }} has no employees. We are about 20 consultants, and none of us, not even the board, are employed by {{ site.company_name }}.
 -   We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
 -   Crisp's main purpose is to enable consultants to be happy, and [Crisp Happiness Index](happiness-index.html) is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
 -   Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants [keep most of what they earn](economic-model.html).
