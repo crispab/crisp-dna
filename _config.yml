@@ -28,17 +28,13 @@ defaults:
       path: "index.html"
     values:
       sitemap: false
-  -
-    scope:
-      path: "README.md"
-    values:
-      sitemap: false
 collections:
   docs:
     output: true
 company_name: "Crisp"
 exclude:
   - CLAUDE.md
+  - README.md
   - run
   - Gemfile
   - Gemfile.lock
