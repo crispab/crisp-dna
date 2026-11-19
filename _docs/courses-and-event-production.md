@@ -7,12 +7,14 @@ next_section: brand-building.html
 Courses and event production
 ============================
 
-Although we are at heart a consulting company, we do offer quite a lot of courses and seminars. In fact, every week we run 1-2 public courses at our office in Stockholm. So how does that work with our model?
+Although we are at heart a consulting company, we do offer quite a lot of courses and seminars. In fact, most weeks there are at least 2-3 course days at our office in Stockholm, and in busy periods often twice that. So how does that work with our model?
 
 How we do courses
 -----------------
 
 Crisp itself doesn't really run courses, it just provides the platform.
+
+The Crispers who produce courses form the Course Crisplet. They are also the ones who use the office the most, so the Course Crisplet works closely with the Office Crisplet that runs the office (see [Crisplets](crisplets.html)). The office has two large training rooms, and a smaller room that is both a podcast studio and an office.
 
 Anyone at Crisp can organize a course (or any kind of event), and when they do so they implicitly take on the Producer role for that course.
 
@@ -20,11 +22,11 @@ Driving principles:
 
 -   Each course or event has a Producer
 -   As Producer, you "own" the course. You are responsible for the course as whole, including course design, quality, marketing, etc.
--   As Producer, you use the Crisp Calendar (a shared Google calendar) to book the classroom and make sure there isn't a conflict.
+-   As Producer, you use the Crisp Calendar (a shared Google calendar) to book a training room and make sure there isn't a conflict. A booked course has priority over other use of the room, whether or not the Producer is a member of the Office Crisplet.
 -   As Producer, you own the financial result of your course (win or loss). Just like with consulting, Crisp retains X% of your profit (see [economic model](economic-model.html)).
 -   As Producer, you also do the course administration (registration page, emails to participants, lunch reservation, onsite arrangements, etc). Other Crispers help out with technical support on a voluntary basis.
--   Crisp's role is to be the "platform", providing things such as the brand, the classroom at our office in Stockholm, and invoicing through our accounting firm.
--   Crisp will charge the producer a fixed course admin fee (usually around €600-700 per day), a fee that covers the cost of using the office.
+-   Crisp's role is to be the "platform", providing things such as the brand and invoicing through our accounting firm.
+-   The producer pays a fixed fee per course day (usually around €600-700) for using the training room.
 
 The Producer doesn't necessarily have to teach the course (although that's the most common case). Sometimes a producer will invite a "star" (someone outside of Crisp who is a well-known "guru" within his/her field) and host or co-teach a course.
 

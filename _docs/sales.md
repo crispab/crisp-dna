@@ -38,6 +38,8 @@ What is the Sales Crisplet, and how does it work?
 
 The Sales Crisplet is an opt-in service that any Crisper can decide if they want to have access to. If you opt in, you get access to our sales professional.
 
+Some of what our sales professional does benefits all Crispers, members or not, such as handling incoming email and phone, and reviewing and signing agreements. That part is paid for by [Crisp Core](core.html).
+
 Our strong reputation generates plenty of leads, typically in market segments where we are well established. Our active sales efforts are therefore focused on more emerging areas of the market that we may be proactively targeting because we find them attractive or as an area of future opportunity.
 
 We are always [learning](building-competence.html) and therefore Crisp is always developing as well!

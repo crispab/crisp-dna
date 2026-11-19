@@ -30,7 +30,7 @@ To cover our costs, every Crisper pays the [Core](core.html) fee: a fixed fee pe
 
 We also have a ceiling, to limit the total fee a consultant pays to Crisp per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because Crisp gets too expensive. The ceiling is usually around kSEK 250-300 per year.
 
-On top of that, Crispers who opt in to services that not everyone needs, such as sales support or office space, pay a separate fee for each of them. See [Crisp Core](core.html).
+On top of that, Crispers who opt in to services that not everyone needs, such as sales support or priority at the office, pay a separate fee for each of them. See [Crisp Core](core.html).
 
 See [Economic model](economic-model.html) for concrete examples.
 
