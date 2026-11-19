@@ -20,8 +20,8 @@ Here are some things we do to keep learning:
 - Crisp Friday - one friday every month, we try to get time off from client work to spend time and work on stuff together. It might be writing a blog post, preparing for the next conference, Hack Summit or a new course. We often take time to share ideas, experiences and challenges which help us in our client work. 
 - Invite our favorite gurus and rock stars to come to Stockholm and teach courses or co-train with us
 - Peer-coaching workshops, where the agile coaches meet to help each other solve problems
-- Active [mailing list](mail-conventions.html) and chat (on Slack)
-- Write [blog articles](http://blog.crisp.se) and [books](https://www.crisp.se/bocker-och-produkter) (sometimes in pairs or larger groups).
+- Active [mailing list](email-conventions.html) and chat (on Slack)
+- Write [blog articles](https://blog.crisp.se) and [books](https://www.crisp.se/bocker-och-produkter) (sometimes in pairs or larger groups).
 - Create and teach [Crisp courses](https://www.crisp.se/kurser) (gives the teacher a very strong motivation to learn the topic!)
 - Attend [Crisp courses](https://www.crisp.se/kurser)
 - Pair-coach and pair-teach - lets us steal tricks from each other

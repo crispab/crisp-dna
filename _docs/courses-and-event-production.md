@@ -47,7 +47,7 @@ Here's a high-level summary of what happens with a typical course:
 Quality and customer feedback
 -----------------------------
 
-We are pretty systemic when it comes to course quality. For every course, the Producer is expected to measure [Net Promoter Score](http://en.wikipedia.org/wiki/Net_Promoter) (NPS) and post it on the Course Log (a shared spreadsheet listing all courses and basic data such as who produced it, how many participants showed up, NPS, etc).
+We are pretty systemic when it comes to course quality. For every course, the Producer is expected to measure [Net Promoter Score](https://en.wikipedia.org/wiki/Net_Promoter) (NPS) and post it on the Course Log (a shared spreadsheet listing all courses and basic data such as who produced it, how many participants showed up, NPS, etc).
 
 The purpose of the course log is to provide internal transparency, so we can learn from each other's successes and failures. It's not mandatory (very few things are), but we encourage each other to fill it in.
 
@@ -60,7 +60,7 @@ Marketing
 
 Some of our courses market themselves (as in, previous participants recommend it, or the teacher is famous). Just post the registration page and it fills up!
 
-Other courses are new and need a bit of exposure. So about once or twice per quarter we send an email to our customer list (all previous course participants). We store our customer data in [Insightly](https://www.insightly.com) and send marketing emails using [MailChimp](http://mailchimp.com).
+Other courses are new and need a bit of exposure. So about once or twice per quarter we send an email to our customer list (all previous course participants). We store our customer data in [Insightly](https://www.insightly.com) and send marketing emails using [MailChimp](https://mailchimp.com).
 
 Typically one of the producers of an upcoming course will take lead on this, talk to other producers, agree on what should be in the email (usually via a shared Google Doc), and send the email. They will of course also market the courses through their personal networks, LinkedIn, Facebook, Twitter, and whatever other channels make sense. If a course needs an extra push they might ask other Crispers to retweet, etc.
 
@@ -75,4 +75,4 @@ Fortunately, Crisp doesn't charge the Producer for a course if it got canceled. 
 
 A few Crispers puts up registrations for courses for which no course material exists. If no one signs up, then no one is harmed. If enough people sign-up, then there can be a mad scramble to create the course the few weeks before the course. This may not sound like a serious way to run things, but in a way it is like a lean startup - make a minimal product and see if it flies. And regardless of how professional a course may seem, the first time it was held the teachers were out on a limb and very nervous about it.
 
-This model works as long as nobody gets too reckless! Too many canceled courses would hurt the Crisp brand (see [how we build the brand](brand-building)). So far that hasn't been a problem though.
+This model works as long as nobody gets too reckless! Too many canceled courses would hurt the Crisp brand (see [how we build the brand](brand-building.html)). So far that hasn't been a problem though.

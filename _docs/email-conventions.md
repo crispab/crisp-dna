@@ -72,7 +72,7 @@ Some do this, while others skip the filter and read all team email. It's up to e
 Keep long discussions off the list
 ----------------------------------
 
-Since late 2014 we're using [Slack](http://www.slack.com), which has taken some pressure off the team list. Often a conversation starts on Gmail, and then when it gets chatty someone suggests that we continue the conversation on Slack, so people who are interested can opt in.
+Since late 2014 we're using [Slack](https://slack.com), which has taken some pressure off the team list. Often a conversation starts on Gmail, and then when it gets chatty someone suggests that we continue the conversation on Slack, so people who are interested can opt in.
 
 Keep conflicts and sensitive stuff off the list
 -----------------------------------------------

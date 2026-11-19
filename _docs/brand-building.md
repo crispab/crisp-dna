@@ -33,15 +33,15 @@ Visibility happens as a result of two things:
 
 Again, because our model attracts the kind of people that like to learn and spread knowledge, all we have to do is make sure nothing gets in the way. That way, a bunch of cool stuff happens automatically, such as:
 
--   [Blog articles](http://blog.crisp.se/)
+-   [Blog articles](https://blog.crisp.se/)
 -   [YouTube channel](https://www.youtube.com/user/crispagileacademy)
 -   [Books](https://www.crisp.se/bocker-och-produkter)
 -   [Public courses](https://www.crisp.se/kurser) and evening seminars
--   [Talks and keynotes](http://blog.crisp.se/tag/slides) at public conferences
--   Partnerships with well-known people like [Jeff Sutherland](http://en.wikipedia.org/wiki/Jeff_Sutherland), [Mary Poppendieck](http://www.poppendieck.com/people.htm), [Jeff Patton](http://www.agileproductdesign.com), and many more.
+-   [Talks and keynotes](https://blog.crisp.se/tag/slides) at public conferences
+-   Partnerships with well-known people like [Jeff Sutherland](https://en.wikipedia.org/wiki/Jeff_Sutherland), [Mary Poppendieck](https://www.leanessays.com/), [Jeff Patton](https://jpattonassociates.com/), and many more.
 -   Physical products such as [Planning Poker](https://www.crisp.se/bocker-och-produkter/planning-poker) and [Jimmy Cards](https://www.crisp.se/bocker-och-produkter/jimmy-cards)
 -   [Open Source Software](https://github.com/crispab)
--   ... and, of course this [dna.crisp.se](http://dna.crisp.se) site!
+-   ... and, of course this [dna.crisp.se](https://dna.crisp.se) site!
 
 It's all about co-branding
 --------------------------
@@ -50,7 +50,7 @@ As consultants we are very proud to be at Crisp, and very proud of our colleague
 
 > Many companies hide their individual employees (especially individual contact info) because they're afraid employees might be called by recruiters and leave for greener pastures. We do the opposite - we encourage each person expose themselves as much as they like. The idea is that people should stay at Crisp because they **want** to, not because the headhunters haven't found them.
 
-We believe consulting doesn't have to be a [market for lemons](http://blog.crisp.se/2010/10/20/matshenricson/konsultmarknaden_behver_inte_vara_en_market_for_lemons) and our philosophy is to be as transparent as possible. You will never be assigned an anonymous consultant from Crisp - it will always be Lars or Anna, individuals. Our CVs all look different, which may seem unprofessional, but we will always be individuals under the same umbrella.
+We believe consulting doesn't have to be a [market for lemons](https://blog.crisp.se/2010/10/20/matshenricson/konsultmarknaden_behver_inte_vara_en_market_for_lemons) and our philosophy is to be as transparent as possible. You will never be assigned an anonymous consultant from Crisp - it will always be Lars or Anna, individuals. Our CVs all look different, which may seem unprofessional, but we will always be individuals under the same umbrella.
 
 So the Crisp brand is a whole that is greater than the sum of it's parts - a bunch of creative individuals sharing stuff with the world, and indirectly building up their personal brands.
 
