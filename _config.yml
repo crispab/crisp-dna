@@ -1,9 +1,38 @@
+title: Crisp DNA
+description: The inner workings of a rather different consulting company
+url: https://dna.crisp.se
+lang: en
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 defaults:
   -
     scope:
       path: ""
     values:
       layout: "default"
+      description: "The inner workings of a rather different consulting company"
+  -
+    scope:
+      type: docs
+    values:
+      seo:
+        type: WebPage
+  -
+    scope:
+      path: "googleaa11fc69f16597c5.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "index.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "README.md"
+    values:
+      sitemap: false
 collections:
   docs:
     output: true

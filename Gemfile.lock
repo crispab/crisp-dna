@@ -75,6 +75,10 @@ GEM
       webrick (~> 1.7)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
+    jekyll-seo-tag (2.9.1)
+      jekyll (>= 3.8, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.21.2)
@@ -158,6 +162,8 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.4)
+  jekyll-seo-tag
+  jekyll-sitemap
 
 CHECKSUMS
   addressable (2.9.2) sha256=9117c7e7d6ee07230e75ce41fb9401ae55354dc654fcd0e862ba41d539e9a610
@@ -193,6 +199,8 @@ CHECKSUMS
   i18n (1.15.2) sha256=00f9eb62412fe593b2a65a97daa75300d37abb8f7202ec748e94b6d46a9dd1b5
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
+  jekyll-seo-tag (2.9.1) sha256=ed5c757a091048b6ef9109f856f84a29beaeb70f531ba5775a5e92129a28093e
+  jekyll-sitemap (1.4.0) sha256=0de08c5debc185ea5a8f980e1025c7cd3f8e0c35c8b6ef592f15c46235cf4218
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
   json (2.21.2) sha256=1f1d3b7cf2b3ba1a69beca0bb6db13d5438b80bff3cd54cdaaa620b9b07c1c6a
   kramdown (2.6.1) sha256=fbef3479b69c875aacb118dde77a40d6cc3a91e2c1d505a4c3f3f9e92d142641
