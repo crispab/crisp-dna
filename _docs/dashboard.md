@@ -1,7 +1,7 @@
 ---
 title: Dashboard
 prev_section: bun-protocol.html
-next_section: office-team.html
+next_section: admin.html
 ---
 
 Crisp Dashboard
@@ -26,6 +26,6 @@ Who is responsible for keeping it up to date?
 
 We share the responsibility. When any part starts looking old, someone will usually take action (like emailing the team list "Hey guys, time to update the happiness index!").
 
-Some sheets have implicit owners. For example "fee income" and "revenue per consultant" are usually maintained by someone on the office team or the board, since they have better access to the raw economic figures (and are better at interpreting the numbers).
+Some sheets have implicit owners. For example "fee income" and "revenue per consultant" are usually maintained by someone on the board, since they have better access to the raw economic figures (and are better at interpreting the numbers).
 
 In general, if any sheet goes unmaintained for a long time, that's a signal that it isn't important and should be removed from the dashboard.

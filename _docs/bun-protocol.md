@@ -31,7 +31,7 @@ How the protocol works
 
 A bun is born when someone asks you for something and you decide that "hey, this is a bun". Typically through email, but sometimes a phone call or a conference mingle.
 
-**A bun always has an owner** - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared. For example, you are of course responsible for any emails sent directly to you, while the [office team](office-team.html) is responsible for requests to info@crisp.se, etc.
+**A bun always has an owner** - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared. For example, you are of course responsible for any emails sent directly to you, while our sales professional is responsible for requests to info@crisp.se, etc.
 
 **When you have a bun, you are responsible for taking care of it before it gets too dry!** Preferably within 1 working day, definitely within 2.
 
@@ -53,7 +53,7 @@ Summary of the rules
 -   **You can't push a bun onto someone else, they have to pull**. The bun is yours until someone else explicitly takes it (for example by saying "I'll take the bun"). You can of course recommend (or even try to convince) someone else to take it from you. This goes both ways - if someone offers you a bun, you don't have to respond if you aren't interested.
 -   When in doubt:
     -   Broadcast an email to everybody who might be interested or involved in this bun (write BULLE in the subject, as per our [email conventions](email-conventions.html)).
-    -   or send the bun to "upwards" or to a central person such the board or our business developer. For example if the bun seems to be strategic and might lead to a big dinner.
+    -   or send the bun to "upwards" or to a central person such the board or our sales professional. For example if the bun seems to be strategic and might lead to a big dinner.
 -   **When broadcasting to find interested bun-takers, give your colleagues one day** to indicate interest in the bun. Don't just let the first one that answers have the bun. There might be more interested. Letting the first one that answers having the bun leads to race conditions and might cause tension between colleagues.
 
 We don't always succeed in following these rules, especially the 1-2 day age limit. But we really try our best, and we're at least aware of when we fail.
@@ -84,7 +84,7 @@ We've used the protocol for many years and it works really well. Here are some r
 -   **Simple**, anybody can learn it in 5 minutes.
 -   **Can be extended** as needed. New rules can be added, tool support can be added. But don't. Keep it simple and add stuff only if you really, really need it.
 -   **Doesn't require any specific artifacts** or documents that need to be maintained (unless you add that layer yourself...).
--   **Decentralized** - uses "wisdom of the crowds" to ensure that buns reach the right destination in the shortest possible time with the least possible effort. People such as our business developer can focus on important stuff and not become a bottleneck for all kinds of trivial requests.
+-   **Decentralized** - uses "wisdom of the crowds" to ensure that buns reach the right destination in the shortest possible time with the least possible effort. People such as our sales professional can focus on important stuff and not become a bottleneck for all kinds of trivial requests.
 -   It **scales**. We haven't tried in a bigger group than 25-ish, but it should scale to much higher.
 -   **Customer focused** - customers normally get a response within a reasonable time.
 -   It **promotes trust and collaboration**, and avoids bottlenecks and command & control
@@ -112,9 +112,9 @@ The [conflict handling process](conflict-handling.html) should help solve the ed
 
 ### What if it is a business-critical request? Shouldn't some central authority handle it?
 
-The closest thing we have to a central authority is the [board](board.html), and our business developer. If one of them received the request then, well, they already have it.
+The closest thing we have to a central authority is the [board](board.html), and our sales professional. If one of them received the request then, well, they already have it.
 
-What if you received the request? Well, do you think it is business critical and should be handled by the business developer? In that case get in touch and ask her to take it from you. If you don't know what to do, broadcast it to all Crispers (or even external partners that have bought into this protocol) and ask who wants to take it.
+What if you received the request? Well, do you think it is business critical and should be handled by our sales professional? In that case get in touch and ask her to take it from you. If you don't know what to do, broadcast it to all Crispers (or even external partners that have bought into this protocol) and ask who wants to take it.
 
 But don't forget - the bun is still yours until someone else explicitly takes it from you!
 
@@ -130,7 +130,7 @@ So, yes, you might accidentally throw away an important bun. But that doesn't me
 
 Sure, we could do that if we were very scared of losing important customers. But fear comes with a price tag. Sometimes we receive distinctly sour buns. "Can you help my dad install Windows on his PC". Or "MAKE MONEY FAST $$$$$" :o)
 
-What if **all** sour buns received by **everyone** were routed to the business developer or the whole team? That would be a horrible waste of time.
+What if **all** sour buns received by **everyone** were routed to our sales professional or the whole team? That would be a horrible waste of time.
 
 There is great strength in having "waste filters" at all inputs channels to the organization, so we can focus on the important buns rather than waste time on obviously sour ones.
 
@@ -162,8 +162,8 @@ Let's say something important comes in, such as a request from a new potential c
 
 -   **Alternative A: I can do whatever I want.** Perfectly fine to let the email sit unanswered in my inbox, or throw away the email without answering the client.
     -   **Result:** Lost business, disappointed customers, disappointed colleagues. My friend might have wanted that client, and I dumped it. Next time he'll dump a client that I would have wanted.
--   **Alternative B: All client requests have to be sent to person X** (for example the business developer).
-    -   **Result:** Business developer becomes a bottleneck. She becomes ineffective and stressed, clients don't get timely responses. And we miss the chance to utilize the collective intellect of the rest of the team.
+-   **Alternative B: All client requests have to be sent to person X** (for example our sales professional).
+    -   **Result:** Our sales professional becomes a bottleneck. She becomes ineffective and stressed, clients don't get timely responses. And we miss the chance to utilize the collective intellect of the rest of the team.
 -   **Alternative C: I have to be responsible for this request until it is completely resolved, I can't hand over to someone else.**
     -   **Result:** Stress and ineffectiveness, since I can't detach from a request that doesn't interest me. If I get a request that is more suitable for someone else, it is more effective for all parties if I connect the client with that person and eject myself from the loop.
 

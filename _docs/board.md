@@ -1,6 +1,6 @@
 ---
 title: Board of directors
-prev_section: office-team.html
+prev_section: admin.html
 next_section: our-business.html
 ---
 
@@ -14,11 +14,19 @@ At Crisp, this works a little differently. First of all, [we invite all Crispers
 What does the board do?
 -----------------------
 
-The board have monthly board meetings. The most important responsibilities are to make sure the financial aspect of Crisp is OK and that the Crispers and the [office team](office-team.html) are happy. The meetings are open for any Crispers to attend if they wish.
+The board have monthly board meetings. The meetings are open for any Crispers to attend if they wish.
 
-Managing the finances involves keeping an eye on the liquidity to be able to do day-to-day business and to aim for a zero result at the end of the fiscal year. See [Economic Model](economic-model.html) for details.
+The board is responsible for:
 
-If there is any Crisper with a low score on [Happiness Index](happiness-index.html), a board members takes it upon themselves to call that person and to try and find out what can be done to make the Crisper happier.
+-   **Finances** - keeping an eye on the liquidity to be able to do day-to-day business, and aiming for a zero result at the end of the fiscal year. The board manages the bank account continuously, without any up-front budgeting process (see [Crisplets](crisplets.html)). See [Economic Model](economic-model.html) for details.
+-   **The Core fee** - setting the fee every Crisper pays, so that it covers the cost of [Crisp Core](core.html). Opt-in services that are run as [Crisplets](crisplets.html), such as Sales, Engineering and Office, set their own fees, and those must cover their own costs.
+-   **The accounting firm** - an external accounting firm handles our invoicing, payments, bookkeeping and Crisplet Accounts. The board oversees it.
+-   **Legal duties and contracts** - the duties Swedish law puts on a board, such as the annual report. The board signs some of Crisp's contracts; our sales professional signs others.
+-   **Happiness** - if there is any Crisper with a low score on [Happiness Index](happiness-index.html), a board member takes it upon themselves to call that person and to try and find out what can be done to make the Crisper happier.
+
+Board work is paid. Each board member gets a fixed fee per year for their board work, covered by the Core fee like the rest of [Crisp Core](core.html).
+
+Some things are deliberately *not* the board's job. The unconference planners and facilitators are elected at each [unconference](unconference.html), onboarding of new Crispers is done by a Crisper who volunteers, and the office is run by the Office Crisplet. See [Admin and day-to-day operations](admin.html).
 
 This is the template for our monthly board meetings.
 
@@ -30,8 +38,7 @@ This is the template for our monthly board meetings.
 6.  Walk-through of [Happiness Index](happiness-index.html)
     -   The board creates action points to call any Crispers that have a low score on Happiness Index.
 7.  Important calendar events
-8.  Are there any blockers for the office?
-9.  Free topics
+8.  Free topics
     -   Topic suggestions on post-it notes
     -   Prioritization
     -   Work through the topics
@@ -62,7 +69,7 @@ For each position on the board:
 We repeat this process until all four positions are filled.
 
 Since we vote for one position at a time, we have the possibility to vote for a strong team. Let's say the chairman is an intuitive agile coach, then, maybe, people will vote for a thoughtful programmer in the next round to balance the team.
-Past practice that has emerged, the board usually consist of one from our office staff, one programmer and one agile coach.
+In practice, the board usually ends up with a mix of backgrounds, for example programmers and agile coaches.
 
 ### History and future direction
 

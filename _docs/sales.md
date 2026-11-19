@@ -11,7 +11,7 @@ Most of our sales is lead or demand driven. That is, the most common scenario is
 
 As a sales strategy, we believe that by making sure our reputation is at the top of the market we will ensure we have ample access to strong client opportunities. The way we [recruit](recruiting.html) is part of how we accomplish this in practice in combination with high [visibility](brand-building.html) and a generous attitude of sharing what we know.
 
-Regarding the sales process itself, Crisp consultants typically sell themselves and each other.
+The sales process itself is a joint effort: Crisp consultants sell themselves and each other, and our sales professional works on finding new opportunities and supports the rest of the process.
 
 However, even with a strong [brand](brand-building.html) we believe it is important to also have active sales support. As a contractor mainly focused on adding value to our clients, getting some high quality support with client contacts and agreements is something that many of us value. Not just for ourselves, but also as something that can add value to our customer experience. Therefore we offer active professional sales to Crispers as an opt-in service through our [Sales Crisplet](#what-is-the-sales-crisplet-and-how-does-it-work), see below.
 

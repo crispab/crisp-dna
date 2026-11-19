@@ -13,9 +13,10 @@ What is included in Core
 ------------------------
 
 - **Finance function** - an external accounting firm handles our invoicing, incoming and outgoing payments, and bookkeeping.
+- **The board** - the [board](board.html) is paid for running the company: finances, legal duties and overseeing the accounting firm.
 - **Liability insurance** - a shared liability insurance that covers us in our client work.
 - **Marketing and brand building** - our website and the [Crisp brand](brand-building.html), which bring in most of our leads.
-- **Shared leads** - client requests are routed between all Crispers via the [bun protocol](bun-protocol.html).
+- **Shared leads** - client requests are routed between all Crispers via the [bun protocol](bun-protocol.html). Requests to info@crisp.se are handled by our sales professional, and Core pays the Sales Crisplet a share of its costs for that.
 - **Community** - being part of something bigger than the sum of its parts.
 
 The Core fee
@@ -32,9 +33,9 @@ Some services are only wanted by some of us. Those are opt-in, and only the Cris
 
 - **Sales** - access to our sales professional and additional sales support, see [Sales](sales.html).
 - **Engineering** - for Crispers who love software engineering.
-- **Office space** - a place at our shared office.
+- **Office space** - a place at our office in Stockholm, run by the Office Crisplet.
 
-Long-lived opt-in services like Sales and Engineering are run as [Crisplets](crisplets.html).
+Long-lived opt-in services like Sales, Engineering and Office are run as [Crisplets](crisplets.html). See [Admin and day-to-day operations](admin.html) for who handles what.
 
 Why Core + opt-in?
 ------------------
