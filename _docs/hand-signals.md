@@ -18,7 +18,7 @@ Discussion signals aren't needed for small group discussions (like six or less),
 
 ### One hand up = I want to speak (put me in line)
 
-![](../assets/hand-signals/05-Want-to-speak-Crisp-Hand-Signal-225x300.jpg)
+![One hand up: I want to speak](../assets/hand-signals/05-Want-to-speak-Crisp-Hand-Signal-225x300.jpg)
 
 [View large image](../assets/hand-signals/05-Want-to-speak-Crisp-Hand-Signal.jpg)
 
@@ -26,7 +26,7 @@ If you have something to say, and someone else is already speaking, and others s
 
 ### Two hands up = I have an important fact (let me me speak ASAP!)
 
-![](../assets/hand-signals/06-Facts-Crisp-Hand-Signal-225x300.jpg)
+![Two hands up: I have an important fact](../assets/hand-signals/06-Facts-Crisp-Hand-Signal-225x300.jpg)
 
 [View large image](../assets/hand-signals/06-Facts-Crisp-Hand-Signal.jpg)
 
@@ -34,7 +34,7 @@ Sometimes you have a short concise piece of information that everyone should tak
 
 ### Circling finger = +1 (I agree with what I'm hearing right now)
 
-![](../assets/hand-signals/07-Agree-Crisp-Hand-Signal-225x300.jpg)
+![Circling finger: I agree](../assets/hand-signals/07-Agree-Crisp-Hand-Signal-225x300.jpg)
 
 [View large image](../assets/hand-signals/07-Agree-Crisp-Hand-Signal.jpg)
 
@@ -49,13 +49,13 @@ Here are the main hand signals we use when [making decisions](decisions.html) in
 
 ### Thumb up = Yes! I actively support this.
 
-![](../assets/hand-signals/01-Up-Crisp-Hand-Signal-225x300.jpg)
+![Thumb up: yes](../assets/hand-signals/01-Up-Crisp-Hand-Signal-225x300.jpg)
 
 [View large image](../assets/hand-signals/01-Up-Crisp-Hand-Signal.jpg)
 
 ### Thumb down = No! I block this. But I'm willing to discuss.
 
-![](../assets/hand-signals/03-Down-Crisp-Hand-Signal-225x300.jpg)
+![Thumb down: no](../assets/hand-signals/03-Down-Crisp-Hand-Signal-225x300.jpg)
 
 [View large image](../assets/hand-signals/03-Down-Crisp-Hand-Signal.jpg)
 
@@ -63,13 +63,13 @@ This means I understand the proposal, but I don't support it. Obviously I need t
 
 ### Fist forward = I stand aside. I don't need to be involved. Do whatever you want.
 
-![](../assets/hand-signals/04-Stand-Aside-Crisp-Hand-Signal-225x300.jpg)
+![Fist forward: I stand aside](../assets/hand-signals/04-Stand-Aside-Crisp-Hand-Signal-225x300.jpg)
 
 [View large image](../assets/hand-signals/04-Stand-Aside-Crisp-Hand-Signal.jpg)
 
 Not all decisions affect everyone, so the fist-forward signal essentially gives the rest of the group permission to decide without me.
 
-> In the past we used to have just 3 signals: thumb-up, thumb-sideways, thumb-down. It worked, but we realized that thumb-sideways was a bit ambiguous. We introduced the fist-forward signal too visually distinguish between "I need more info" vs "I don't care about this". The thumb-sideways people need to be heard, the fist-forward people don't. For the full story behind this shift, see the blog post [Crisp consensus model 2.1](http://blog.crisp.se/2014/03/27/peterantman/crisp-consensus-model-2-1). And then, a few years later, we realized that thumb-sideways is redundant (because it really means the same as hand-up), so we removed it.
+> In the past we used to have just 3 signals: thumb-up, thumb-sideways, thumb-down. It worked, but we realized that thumb-sideways was a bit ambiguous. We introduced the fist-forward signal too visually distinguish between "I need more info" vs "I don't care about this". The thumb-sideways people need to be heard, the fist-forward people don't. For the full story behind this shift, see the blog post [Crisp consensus model 2.1](https://blog.crisp.se/2014/03/27/peterantman/crisp-consensus-model-2-1). And then, a few years later, we realized that thumb-sideways is redundant (because it really means the same as hand-up), so we removed it.
 
 How a big-group decision is made using hand signals
 ---------------------------------------------------
@@ -94,13 +94,13 @@ Using hand signals without hands
 
 The hand signals can be useful without actual hands too! For example we used a multi-voting technique to decide on our [visions](visions.html):
 
-![](../assets/HandSignals-MultivotingChart.png)
+![Multi-voting wall chart with one column per proposed vision statement and name sticky notes in hand-signal rows](../assets/HandSignals-MultivotingChart.png)
 
 Each column was a proposed vision statement, with all names underneath on sticky-notes. People could move their names up and down into the different hand-signal boxes to show how they feel about each vision statement.
 
 The people in the "No" boxes were asked to explain their objection - do they dislike the vision itself, or just how it is phrased? The people in the "Discuss" were invited to ask questions for clarification.
 
-![](../assets/HandSignals-MultivotingPeople.png)
+![People moving their sticky notes on the multi-voting chart](../assets/HandSignals-MultivotingPeople.png)
 
 We used the input to continuously tweak the vision statements, and by the end of the conference we had [two vision statements](visions.html) with 100% consensus (= all thumbs up or stand aside). That felt extra important in this case, because we'd rather have no vision at all than to have one with weak buy-in.
 
