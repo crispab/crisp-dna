@@ -1,5 +1,6 @@
 ---
 title: Decision making
+description: "How decisions get made at Crisp, a decentralized company with no managers, where anyone can drive any decision."
 prev_section: economic-model.html
 next_section: recruiting.html
 ---
@@ -62,7 +63,7 @@ Some things to consider when choosing a decisions process:
 -   **Is the decision reversible?** Most decisions are. What is the consequence of making the “wrong” decision, and who is affected by that?
 -   **How easy or hard is the decision?** How easy is it to reach consensus with all people affected?
 -   **How urgent is the decision?** What is the consequence of delaying the decision, or not making a decision at all?
--   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, office admin, etc. May also depend on how long you’ve been at Crisp (if you are new and unsure you might need to seek more anchoring from people).
+-   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, Crisplet member, etc. May also depend on how long you’ve been at Crisp (if you are new and unsure you might need to seek more anchoring from people).
 -   **Is the outcome affected by laws?** The board of directors in a Swedish company is bound by Swedish laws, so some decisions must be aligned with the board of directors.
 
 Sample decisions:
@@ -83,7 +84,7 @@ Here are some options:
 
 -   **Take a chance!** “Better to ask for forgiveness than permission”. Most decisions are reversible, so you don’t really need to be afraid of making the “wrong” decision or using the “wrong” decision process. Just accept feedback and learn.
 -   **Talk to a Crisp colleague**, for example someone who has been around longer and can give examples of what has worked in the past.
--   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next Crisp unconference to be in the Maldives I’d involve the [office team](office-team.html), since they usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
+-   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next Crisp unconference to be in the Maldives I’d involve the unconference planners, who are elected at each unconference to arrange the next one. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
 -   **Escalate the decision** to the [board of directors](board.html). For example “hey board, I want to change our recruiting process, how would we make a decision like that?”. We try to minimize the number of decisions that have to be made by the board, but they can give useful input about who needs to be involved.
 
 Our [unconferences](unconference.html) and similar gatherings are a great place to discuss a decision process – and in many cases make the actual decision as well, since everyone is there :)
@@ -103,7 +104,7 @@ So, decision making can look like this:
 
 ![big decision](../assets/BigGroupTalking.jpg "big decision")
 
-> This was the meeting where we decided to remove the CEO role. For a few years we’d had a rotating CEO role, time-boxed to 30% of full-time. A small group (including the current CEO) discussed the issue during our [unconference](unconference.html), and brought up the concrete proposal to the whole team at the end of the day. A quick consensus check (via [hand signals](hand-signals.html)) and the decision was done! We agreed that the CEO role had fulfilled a purpose, but now the [office team](office-team.html) was capable of dealing with stuff without having a CEO.
+> This was the meeting where we decided to remove the CEO role. For a few years we’d had a rotating CEO role, time-boxed to 30% of full-time. A small group (including the current CEO) discussed the issue during our [unconference](unconference.html), and brought up the concrete proposal to the whole team at the end of the day. A quick consensus check (via [hand signals](hand-signals.html)) and the decision was done! We agreed that the CEO role had fulfilled a purpose, but now the office team we had at the time was capable of dealing with stuff without having a CEO.
 > (and what happened to the current CEO? Well, he was happy to be able to drop the role and go back to client-facing work!)
 
 The [open format](unconference.html) of our conference is quite essential to our decision making process, plus the [hand signals](hand-signals.html).

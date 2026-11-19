@@ -1,5 +1,6 @@
 ---
 title: Courses and event production
+description: "How courses and events work at Crisp: every course has a Producer who owns it, and Crisp provides the platform."
 prev_section: building-competence.html
 next_section: brand-building.html
 ---
@@ -7,12 +8,14 @@ next_section: brand-building.html
 Courses and event production
 ============================
 
-Although we are at heart a consulting company, we do offer quite a lot of courses and seminars. In fact, every week we run 1-2 public courses at our office in Stockholm. So how does that work with our model?
+Although we are at heart a consulting company, we do offer quite a lot of courses and seminars. In fact, most weeks there are at least 2-3 course days at our office in Stockholm, and in busy periods often twice that. So how does that work with our model?
 
 How we do courses
 -----------------
 
 Crisp itself doesn't really run courses, it just provides the platform.
+
+The Crispers who produce courses form the Course Crisplet. They are also the ones who use the office the most, so the Course Crisplet works closely with the Office Crisplet that runs the office (see [Crisplets](crisplets.html)). The office has two large training rooms, and a smaller room that is both a podcast studio and an office.
 
 Anyone at Crisp can organize a course (or any kind of event), and when they do so they implicitly take on the Producer role for that course.
 
@@ -20,10 +23,11 @@ Driving principles:
 
 -   Each course or event has a Producer
 -   As Producer, you "own" the course. You are responsible for the course as whole, including course design, quality, marketing, etc.
--   As Producer, you use the Crisp Calendar (a shared Google calendar) to book the classroom and make sure there isn't a conflict.
+-   As Producer, you use the Crisp Calendar (a shared Google calendar) to book a training room and make sure there isn't a conflict. A booked course has priority over other use of the room, whether or not the Producer is a member of the Office Crisplet.
 -   As Producer, you own the financial result of your course (win or loss). Just like with consulting, Crisp retains X% of your profit (see [economic model](economic-model.html)).
--   Crisp's role is to be the "platform", providing things such as a classroom (we have a classroom at our office in Stockholm), onsite assistance (serving coffee & snacks, etc) and lots of administrative support (invoices, lunch reservation, email communication, registration page, etc). The [office team](office-team.html) organizes all of that.
--   Crisp will charge the producer a fixed course admin fee (usually around €600-700 per day), an all-inclusive fee that covers the cost of the office and all administrative support.
+-   As Producer, you also do the course administration (registration page, emails to participants, lunch reservation, onsite arrangements, etc). Other Crispers help out with technical support on a voluntary basis.
+-   Crisp's role is to be the "platform", providing things such as the brand and invoicing through our accounting firm.
+-   The producer pays a fixed fee per course day (usually around €600-700) for using the training room.
 
 The Producer doesn't necessarily have to teach the course (although that's the most common case). Sometimes a producer will invite a "star" (someone outside of Crisp who is a well-known "guru" within his/her field) and host or co-teach a course.
 
@@ -34,14 +38,14 @@ Here's a high-level summary of what happens with a typical course:
 
 1.  Joe decides to teach an Agile Engineering course.
 2.  Joe opens the Crisp calendar on Google, finds an open slot Feb 12-13, and writes "LOKAL: Agile Engineering course (Joe)". (LOKAL means "venue" in Swedish, our convention for booking different parts of the office)
-3.  Joe asks the [office team](office-team.html) to set up a registration page. He has taught this course before, so they copy-paste from last course instance.
+3.  Joe sets up a registration page. He has taught this course before, so he copy-pastes from last course instance.
 4.  Joe synchronizes with other producers to make sure his course is mentioned in the next marketing email (see next section below).
 5.  Registrations start coming in. We have a home-grown tool to process registrations and send email confirmations. Course registrations automatically end up in Google Spreadsheet.
-6.  About a week before the course, the office team sends a welcome email to the course participants
-7.  Feb 12 arrives. Joe shows up at Crisp. Breakfast is served, handouts printed, everything ready to go thanks to the awesome office team!
-8.  This is also the day when the office team sends invoices to participants. They will also follow up on payment.
+6.  About a week before the course, Joe sends a welcome email to the course participants
+7.  Feb 12 arrives. Joe shows up at Crisp. Breakfast is served, handouts printed, everything ready to go.
+8.  This is also the day when the invoices to participants go out through our accounting firm, which also follows up on payment.
 9.  At the end of the course, he asks people to fill in a course feedback sheet. He notes some improvement ideas, calculates the Net Promoter Score, and adds a row to our shared Course Log (see Quality below).
-10. The office team sends an email to all course participants with a link to course materials and such. They also add the course participants to our mailing list for future event notifications (they can of course opt out at any time)
+10. Joe sends an email to all course participants with a link to course materials and such. He also adds the course participants to our mailing list for future event notifications (they can of course opt out at any time)
 11. Joe figures out the course profit and sends an invoice to Crisp (minus the [Crisp tax](economic-model.html), just like with any consulting).
 
 Quality and customer feedback

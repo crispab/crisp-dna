@@ -1,5 +1,6 @@
 ---
 title: Contracts
+description: "The contracts behind Crisp: the team contract every Crisper signs, and the shareholder contract for owners."
 prev_section: conflict-handling.html
 next_section: building-competence.html
 ---

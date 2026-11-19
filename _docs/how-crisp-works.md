@@ -1,5 +1,6 @@
 ---
 title: How Crisp works
+description: "A summary of how Crisp works: what we measure, how the fees finance the company, what we do with the money, and our driving principles."
 prev_section: what-is-crisp.html
 next_section: why-this-works.html
 ---
@@ -24,11 +25,13 @@ We measure:
 How do we finance the home?
 ---------------------------
 
-To cover our costs, every Crisper pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around SEK 3500-5000, and the variable fee is usually around 8-12%. The fee is intended only to cover Crisp's costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
+To cover our costs, every Crisper pays the [Core](core.html) fee: a fixed fee per month + % fee of their revenue. The fixed fee is usually around SEK 3500-5000, and the variable fee is usually around 8-12%. The fee is intended only to cover Crisp's costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
 
 > **Why a fixed + variable fee?** If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable. It is also typical Sveeedish to pick a model that is [lagom](https://en.wikipedia.org/wiki/Lagom) - as in, nobody is totally happy and nobody is totally disappointed ;-)
 
 We also have a ceiling, to limit the total fee a consultant pays to Crisp per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because Crisp gets too expensive. The ceiling is usually around kSEK 250-300 per year.
+
+On top of that, Crispers who opt in to services that not everyone needs, such as sales support or priority at the office, pay a separate fee for each of them. See [Crisp Core](core.html).
 
 See [Economic model](economic-model.html) for concrete examples.
 

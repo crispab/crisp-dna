@@ -1,5 +1,6 @@
 ---
 title: Our business
+description: "What Crispers do: mainly software development, and agile and lean coaching and training."
 prev_section: board.html
 next_section: visions.html
 ---
