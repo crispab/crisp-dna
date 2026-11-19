@@ -3,6 +3,9 @@ lang: sv
 title: Team contract, Swedish original
 ---
 
+Det här är avtalet mellan Crisp och en Crispare, som alla Crispare skriver under när de går med i Crisp. Namn och andra uppgifter om den enskilda Crisparen är utbytta mot platshållare inom hakparenteser.
+{: .intro}
+
 Crisp Team Kontrakt
 ===================
 

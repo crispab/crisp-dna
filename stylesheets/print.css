@@ -127,6 +127,11 @@ table.signatures td {
   border: none;
 }
 
+.intro {
+  border-left: 4px solid #2879d0;
+  padding: 8px 12px;
+}
+
 form {
   background: #f2f2f2;
   padding: 20px;
