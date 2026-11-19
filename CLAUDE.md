@@ -26,7 +26,7 @@ There are no tests or linters. A clean `jekyll build` with no warnings counts as
 - **Back/Next links** (`_includes/section_nav.html`) use each page's hand-written `prev_section` / `next_section` front matter, not `docs.yml`. When you add, remove or reorder a page, update `_data/docs.yml` and the `prev_section`/`next_section` of the pages on either side so the chain still matches the sidebar order.
 - **Cross-links** between docs are relative `.html` links (e.g. `[decisions](decisions.html)`), not `.md`.
 - `{{ site.company_name }}` (from `_config.yml`) is used in some prose so forks can rebrand. See `_docs/how-to-copy.md` for the intended fork/clone workflow.
-- Images and PDFs referenced from docs go in `assets/`. `images/`, `stylesheets/` and `javascripts/` belong to the theme.
+- Images and PDFs referenced from docs go in `assets/`. `images/` and `stylesheets/` belong to the theme.
 
 ## Content conventions
 
