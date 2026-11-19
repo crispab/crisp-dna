@@ -11,7 +11,7 @@ Twice per year we do an internal unconference, in Sweden or abroad.
 
 An unconference is like a normal conference but with no predefined agenda, no predefined list of speakers, no slides, and… er… actually it’s not very much like a normal conference at all! It’s more like an alternative to a conference. If the purpose of a conference is to collaborate and communicate, then an unconference will often fulfill the same purpose in a more simple, fun, and effective way!
 
-> For details, check the ebook [How to run an internal conference](https://leanpub.com/unconference) or [these slides](https://dl.dropboxusercontent.com/u/1018963/Projects/2013-06-18%20Agile%20Evening/HowToRunAnUnconference.pdf) which summarize it.
+> For details, check the ebook [How to run an internal conference](https://leanpub.com/unconference) or [these slides](https://web.archive.org/web/20160314022327/https://dl.dropboxusercontent.com/u/1018963/Projects/2013-06-18%20Agile%20Evening/HowToRunAnUnconference.pdf) which summarize it.
 
 Why we do conferences
 ---------------------
@@ -39,7 +39,7 @@ In practice attendance has not been a problem so far. We usually have at least 9
 Guiding principles
 ------------------
 
-Most of our conference is based on the [Open Space](http://en.wikipedia.org/wiki/Open_Space_Technology) format.
+Most of our conference is based on the [Open Space](https://en.wikipedia.org/wiki/Open_Space_Technology) format.
 
 That means the only real rule is the **Law of 2 feet**. Our version of it is: **"if you aren't contributing or learning or having fun where you stand now, use your two feet (and go somewhere where you can contribute or learn or have fun)!"**
 

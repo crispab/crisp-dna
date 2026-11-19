@@ -15,7 +15,7 @@ Here's an [example & template](https://docs.google.com/a/crisp.se/spreadsheet/cc
 
 There's pretty strong peer pressure for people to update this, and most of us do. Some every month, others less frequently. But nobody is forced (remember one of our [core values](what-is-crisp.html) is freedom, so nobody forces anyone to do anything). But all in all this gives us a great overview of what's working and what needs to be fixed.
 
-> Jeff Sutherland saw this and got so excited that he wrote an article called [Happiness Metric - the wave of the future](http://www.scruminc.com/happiness-metric-wave-of-future) and now [teaches webinars](http://www.scruminc.com/happiness_metric/) on it and talks about it all over the world. Cool :o)
+> Jeff Sutherland saw this and got so excited that he wrote an article called [Happiness Metric - the wave of the future](https://web.archive.org/web/20250914143925/https://www.scruminc.com/happiness-metric-wave-of-future/) and now teaches webinars on it and talks about it all over the world. Cool :o)
 
 Survey questions
 ----------------
