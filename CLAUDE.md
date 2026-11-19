@@ -22,11 +22,12 @@ There are no tests or linters. A clean `jekyll build` with no warnings counts as
 
 - **Pages** live in the `docs` collection (`_docs/*.md`, `output: true` in `_config.yml`) and render to `/docs/<name>.html`. The root `index.html` only redirects to `docs/index.html`.
 - **All pages share one layout.** `_config.yml` sets `layout: default` globally, so front matter usually holds only `title`, `prev_section` and `next_section`.
+- **SEO and sitemap** come from `jekyll-seo-tag` (`{% seo %}` in the layout) and `jekyll-sitemap`. A page can set `description` in its front matter for search results and link previews; otherwise it falls back to the site description in `_config.yml`. Set `lang: sv` on Swedish pages.
 - **Sidebar navigation** comes from `_data/docs.yml`: a list of sections, each listing `.html` filenames. `_includes/docs_contents.html` → `_includes/docs_ul.html` match these against `site.docs` URLs and show each page's `title`. A page left out of `docs.yml` still builds but does not appear in the sidebar. The contract pages (`team-contract-*`, `shareholder-contract-*`) are like this; other pages link to them.
 - **Back/Next links** (`_includes/section_nav.html`) use each page's hand-written `prev_section` / `next_section` front matter, not `docs.yml`. When you add, remove or reorder a page, update `_data/docs.yml` and the `prev_section`/`next_section` of the pages on either side so the chain still matches the sidebar order.
 - **Cross-links** between docs are relative `.html` links (e.g. `[decisions](decisions.html)`), not `.md`.
 - `{{ site.company_name }}` (from `_config.yml`) is used in some prose so forks can rebrand. See `_docs/how-to-copy.md` for the intended fork/clone workflow.
-- Images and PDFs referenced from docs go in `assets/`. `images/`, `stylesheets/` and `javascripts/` belong to the theme.
+- Images and PDFs referenced from docs go in `assets/`. `images/` and `stylesheets/` belong to the theme.
 
 ## Content conventions
 

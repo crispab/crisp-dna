@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: Shareholder contract, Swedish original
 ---
 

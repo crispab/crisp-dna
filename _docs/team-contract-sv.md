@@ -1,4 +1,5 @@
 ---
+lang: sv
 title: Team contract, Swedish original
 ---
 
