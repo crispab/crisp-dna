@@ -47,7 +47,7 @@ Again, because our model attracts the kind of people that like to learn and spre
 It's all about co-branding
 --------------------------
 
-As consultants we are very proud to be at Crisp, and very proud of our colleagues, which is why we list everyone on our [consultants page](https://www.crisp.se/konsulter). From there you can browse to individual pages where each person presents themselves in any way they wish. You'll even find email addresses and phone numbers. Go ahead and call any of us, have a chat, offer us employment if you dare, and prepare to fail :o). Many have tried, some of us Crispers have been severely tempted, but with a select few exceptions we all stay. Our staff turnover is virtually zero.
+As consultants we are very proud to be at Crisp, and very proud of our colleagues, which is why we list everyone on our [consultants page](https://www.crisp.se/konsulter). From there you can browse to individual pages where each person presents themselves in any way they wish. You'll even find email addresses and phone numbers. Go ahead and call any of us and have a chat.
 
 > Many companies hide their individual employees (especially individual contact info) because they're afraid employees might be called by recruiters and leave for greener pastures. We do the opposite - we encourage each person expose themselves as much as they like. The idea is that people should stay at Crisp because they **want** to, not because the headhunters haven't found them.
 

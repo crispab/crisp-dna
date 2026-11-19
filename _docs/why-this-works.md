@@ -9,7 +9,7 @@ next_section: core.html
 Why this model works (for us)
 =============================
 
-After years of experimenting, we've evolved to a model that works really well for us! Our staff turnover is almost zero, the [happiness index](happiness-index.html) is rarely below 4, revenue per consultant is about twice as high as a typical consulting company, and our clients give us amazingly good reviews that we are too humble to display here :o)
+After years of experimenting, we've evolved to a model that works really well for us! The [happiness index](happiness-index.html) is rarely below 4, revenue per consultant is about twice as high as a typical consulting company, and our clients give us amazingly good reviews that we are too humble to display here :o)
 
 But why? Why is this working for us? Here is our guess, illustrated using a [cause-effect diagram](https://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000):
 
