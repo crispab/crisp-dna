@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-# See: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
-#gem 'jekyll'
-gem 'github-pages', "~> 225", group: :jekyll_plugins
+# Built by the GitHub Actions workflow in .github/workflows/pages.yml,
+# so we can use current Jekyll instead of the frozen `github-pages` gem.
+gem "jekyll", "~> 4.4"

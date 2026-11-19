@@ -4,19 +4,19 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Crisp DNA is a Jekyll site describing how the consulting company Crisp works. It is built by GitHub Pages from the `gh-pages` branch (the default branch, and the PR target) and served at http://dna.crisp.se (see `CNAME`). Pushing to `gh-pages` publishes, so nothing goes there unreviewed.
+Crisp DNA is a Jekyll site describing how the consulting company Crisp works. It is built with Jekyll 4 by the GitHub Actions workflow `.github/workflows/pages.yml` on every push to the `gh-pages` branch (the default branch, and the PR target) and served at http://dna.crisp.se (see `CNAME`). Pushing to `gh-pages` publishes, so nothing goes there unreviewed.
 
 The content is prose, not code. Most changes are edits to Markdown files in `_docs/`.
 
 ## Commands
 
 ```bash
-bundle install                 # install github-pages gem (pinned ~> 225 in Gemfile)
+bundle install                 # install Jekyll 4 into ./vendor/bundle (Ruby version pinned in .ruby-version)
 bundle exec jekyll serve       # local preview at http://localhost:4000, auto-rebuilds on edits
 bundle exec jekyll build       # one-off build into _site/; use as the check before committing
 ```
 
-There are no tests or linters. A clean `jekyll build` with no warnings counts as passing. `./run` calls `jekyll serve` without `bundle exec`, so prefer the bundler command.
+There are no tests or linters. A clean `jekyll build` with no warnings counts as passing; CI runs the same build on every PR. `./run` is a shortcut for `bundle exec jekyll serve --livereload`.
 
 ## How the site fits together
 
