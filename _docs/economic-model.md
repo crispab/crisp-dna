@@ -50,7 +50,7 @@ And suppose Joe gets famous for his specialty skills in cybersecurity, and manag
 
 That means Joe will pull in about €240,000, which means the Crisp fee would be €24,000. That's way past the €20,000 ceiling, and we haven't even taken the fixed €500/month into account. The point of having a ceiling is to make sure the cost of being at Crisp doesn't get out of hand for the highest paid consultants.
 
-Joe tells our accounting firm that he's most likely going to hit the ceiling this year, so there's no point bothering with the % fee. Instead, Joe keeps 100% of what he earns, and Crisp just invoices him the ceiling fee of €5000 per quarter (= €20,000 per year divided into 4 quarters). Simple.
+Joe tells the board that he's most likely going to hit the ceiling this year, so there's no point bothering with the % fee. The board updates Joe's settings in our invoicing spreadsheet. Instead of paying the % fee, Joe keeps 100% of what he earns, and Crisp just invoices him the ceiling fee of €5000 per quarter (= €20,000 per year divided into 4 quarters). Simple.
 
 If he turns out to be wrong (because Cyberdyne cancels his engagement) then they'll have to go back and recalculate. No big deal, it's just an internal calculation that the customers don't see.
 
