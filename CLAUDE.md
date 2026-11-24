@@ -18,6 +18,8 @@ bundle exec jekyll build       # one-off build into _site/; use as the check bef
 
 There are no tests or linters. A clean `jekyll build` with no warnings counts as passing; CI runs the same build on every PR. `./run` is a shortcut for `bundle exec jekyll serve --livereload`.
 
+`vendor/` is gitignored, so each fresh clone or git worktree starts without gems and `./run` fails until you run `bundle install` (check with `bundle check`). In the Claude desktop app, `.claude/launch.json` defines a `crisp-dna` preview that runs `./run` on port 4000.
+
 ## How the site fits together
 
 - **Pages** live in the `docs` collection (`_docs/*.md`, `output: true` in `_config.yml`) and render to `/docs/<name>.html`. The root `index.html` only redirects to `docs/index.html`.
