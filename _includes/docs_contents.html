@@ -1,9 +1,9 @@
-<div>
-  <aside>
-    <h4><a href=".">Home</a></h4>
-    {% for section in site.data.docs %}
-    <h4>{{ section.title }}</h4>
-    {% include docs_ul.html items=section.docs %}
-    {% endfor %}
-  </aside>
-</div>
+<nav class="toc__nav" aria-label="Contents">
+  <ul class="toc__list">
+    <li class="{% if page.url == '/docs/index.html' %}current{% endif %}"><a href="{{ site.baseurl }}/docs/index.html">Home</a></li>
+  </ul>
+  {% for section in site.data.docs %}
+  <h4 class="toc__heading">{{ section.title }}</h4>
+  {% include docs_ul.html items=section.docs %}
+  {% endfor %}
+</nav>
