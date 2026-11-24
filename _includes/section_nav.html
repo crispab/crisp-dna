@@ -1,18 +1,12 @@
-<div class="section-nav">
-  <div class="left align-right">
-    {% if page.prev_section != null %}
-      <a href="/docs/{{ page.prev_section }}" accesskey="b" class="prev">&laquo; Back</a>
-    {% else %}
-      <span class="prev disabled">&laquo; Back</span>
-    {% endif %}
-  </div>
-  <div class="right align-left">
-    {% if page.next_section != null %}
-      <a href="/docs/{{ page.next_section }}" accesskey="n" class="next">Next &raquo;</a>
-    {% else %}
-      <span class="next disabled">Next &raquo;</span>
-    {% endif %}
-  </div>
-  <div class="clear"></div>
-</div>
-
+<nav class="section-nav" aria-label="Previous and next page">
+  {% if page.prev_section != null %}
+    <a href="/docs/{{ page.prev_section }}" accesskey="b" class="button button--outline prev">&larr; Back</a>
+  {% else %}
+    <span class="button button--outline prev disabled">&larr; Back</span>
+  {% endif %}
+  {% if page.next_section != null %}
+    <a href="/docs/{{ page.next_section }}" accesskey="n" class="button next">Next &rarr;</a>
+  {% else %}
+    <span class="button next disabled">Next &rarr;</span>
+  {% endif %}
+</nav>

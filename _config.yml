@@ -32,6 +32,11 @@ collections:
   docs:
     output: true
 company_name: "Crisp"
+hero_images:
+  - assets/hero/dna-people-1.webp
+  - assets/hero/dna-people-2.webp
+  - assets/hero/dna-people-3.webp
+  - assets/hero/dna-people-4.webp
 exclude:
   - CLAUDE.md
   - README.md
