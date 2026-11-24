@@ -1,5 +1,6 @@
 ---
 title: Unconference
+description: "The Crisp Unconference: twice a year we meet for a conference with no predefined agenda, to share knowledge, solve problems and decide things together."
 prev_section: sales.html
 next_section: email-conventions.html
 ---
@@ -117,7 +118,7 @@ Our larger unconferences usually look something like this:
 Who organizes and facilitates the conference?
 ---------------------------------------------
 
-The [office team](office-team.html) organize the trip itself (flight, hotel, venue, food, etc). The conference days are facilitated by a pair of Crisp consultants. Usually we rotate one person after every conference - the goal is that each conference should have one facilitator from last conference, and one that is new. That way the facilitator pair has experience from last conference, but also some new insights.
+The unconference planners organize the trip itself (flight, hotel, venue, food, etc). They are elected at each unconference to arrange the next one. The conference days are facilitated by a pair of Crisp consultants. Usually we rotate one person after every conference - the goal is that each conference should have one facilitator from last conference, and one that is new. That way the facilitator pair has experience from last conference, but also some new insights.
 
 > We're lucky in that many Crispers work as coaches and have lots of facilitation experience. Of course, the downside is that it's sometimes challenging to facilitate other experienced facilitators! We sometimes slip into meta-discussions about how we should do stuff, rather than just doing it :)
 

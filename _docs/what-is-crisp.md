@@ -1,5 +1,6 @@
 ---
 title: "What is Crisp?"
+description: "What Crisp is and why: a home for IT consultants who value community, freedom, competence, good citizenship and professionalism."
 prev_section: index.html
 next_section: how-crisp-works.html
 ---

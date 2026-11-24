@@ -1,5 +1,6 @@
 ---
 title: Industries that we avoid
+description: "Which industries Crisp avoids, such as the arms and surveillance industries, and how we balance that against personal freedom."
 prev_section: hand-signals.html
 next_section: hack-summit.html
 ---

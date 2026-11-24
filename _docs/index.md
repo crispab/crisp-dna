@@ -1,5 +1,6 @@
 ---
 title: Crisp DNA
+description: "Crisp DNA describes how Crisp, a consulting company in Stockholm with no employees and no managers, works and why."
 next_section: what-is-crisp.html
 ---
 
@@ -10,7 +11,7 @@ This site is an [open-source](https://en.wikipedia.org/wiki/Open_source) site de
 
 [Crisp](https://www.crisp.se) is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
 
--   None of the ~30 consultants are actually employed by {{ site.company_name }}.
+-   {{ site.company_name }} has no employees. We are about 20 consultants, and none of us, not even the board, are employed by {{ site.company_name }}.
 -   We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
 -   Crisp's main purpose is to enable consultants to be happy, and [Crisp Happiness Index](happiness-index.html) is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
 -   Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants [keep most of what they earn](economic-model.html).
@@ -41,11 +42,12 @@ Driving principles
 -   [How Crisp works](how-crisp-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model has served us so well
 
-Core structure and practices
+Main structure and practices
 ----------------------------
 
 (although these are core to our model, they are mostly just consequences of the principles above)
 
+-   [Crisp Core](core.html) - what do all Crispers get, and what is opt-in?
 -   [Happiness index](happiness-index.html) - how do we know if we are succeeding?
 -   [Ownership model](ownership-model.html) - how do people become owners, and what ownership actually means?
 -   [Economic model](economic-model.html) - how does money flow through the system?
@@ -54,7 +56,7 @@ Core structure and practices
 -   [Communication](communication.html) - how do we collaborate, sync, and improve?
 -   [Bun protocol](bun-protocol.html) - how do we handle customer enquiries and route to the right consultant?
 -   [Dashboard](dashboard.html) - how do we see the big picture?
--   [Office team](office-team.html) - how do we handle admin and day-to-day operations?
+-   [Admin and day-to-day operations](admin.html) - who handles invoicing, the office, the unconference and other admin?
 -   [Board of directors](board.html) - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
 -   [Our business](our-business.html) - what type of work we do
 -   [Visions](visions.html) - How do you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)

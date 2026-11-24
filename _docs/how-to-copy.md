@@ -1,5 +1,6 @@
 ---
 title: "How to clone the Crisp DNA"
+description: "How to clone the Crisp DNA: it is open source, so you can copy our model and adapt it to your own group of consultants."
 prev_section: brand-building.html
 next_section: 
 ---

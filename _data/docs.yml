@@ -4,8 +4,9 @@
   - how-crisp-works.html
   - why-this-works.html
 
-- title: Core structure and practices
+- title: Main structure and practices
   docs:
+  - core.html
   - happiness-index.html
   - ownership-model.html
   - economic-model.html
@@ -14,7 +15,7 @@
   - communication.html
   - bun-protocol.html
   - dashboard.html
-  - office-team.html
+  - admin.html
   - board.html
   - our-business.html
   - visions.html

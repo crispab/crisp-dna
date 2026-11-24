@@ -1,5 +1,6 @@
 ---
 title: Shareholder contract, English translation
+description: "The Crisp shareholder contract. The Swedish original is not yet translated to English, so this page links to a machine translation."
 ---
 
 Shareholder contract

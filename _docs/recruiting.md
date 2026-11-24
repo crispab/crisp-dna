@@ -1,5 +1,6 @@
 ---
 title: Recruitment
+description: "How Crisp grows slowly and carefully: we don't actively recruit, we are picky about who we bring in, and we aim for a few new consultants per year."
 prev_section: decisions.html
 next_section: communication.html
 ---
@@ -12,14 +13,12 @@ We are in no hurry to grow
 
 We don't actively recruit consultants. There's no economic incentive to do so, and each new addition makes Crisp a bit more anonymous, a bit less personal, and a bit harder to coordinate.
 
-So... how did we get to be more than 30 consultants then?
----------------------------------------------------------
+So... why bring in new people at all?
+-------------------------------------
 
-Like vampires, fresh blood makes us stronger. New people who are smart and passionate will challenge the status quo and inject new ideas! That compensates for the pain of growing.
+New people who are smart and passionate will challenge the status quo and inject new ideas! That compensates for the pain of growing.
 
-The right balance seems to be about 1-3 new consultants per year, so that's what we aim for. Enough to keep us on our toes without excessive growth pain. Very few people have ever left Crisp (we're not just like vampires, we're mafia vampires), so our rate of growth has been pretty linear.
-
-OK, maybe vampire isn't the best metaphor. But you get the idea :o)
+The right balance seems to be about 1-3 new consultants per year, so that's what we aim for. Enough to keep us on our toes without excessive growth pain.
 
 Hire awesome people, or don't hire at all
 -----------------------------------------

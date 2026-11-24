@@ -1,6 +1,7 @@
 ---
 title: Happiness Index
-prev_section: why-this-works.html
+description: "The Crisp Happiness Index: the one metric we systematically measure and follow up, and how we act on it."
+prev_section: core.html
 next_section: ownership-model.html
 ---
 
@@ -23,7 +24,7 @@ Survey questions
 The 3 main questions in the survey are:
 
 -   **How happy are you with being at Crisp**? This is the main overarching happiness index.
--   **How happy are you with your tasks in Crisp**? This means internal work such as board meetings, conference facilitation, or creating this Crisp DNA site. This is especially relevant for our [office team](office-team.html), who do most internal work and have no external clients of their own.
+-   **How happy are you with your tasks in Crisp**? This means internal work such as board meetings, conference facilitation, or creating this Crisp DNA site.
 -   **How happy are you with your current client, or your bench situation?** We measure this separately, because sometimes a person could be really happy with Crisp, but sad about the current client. Or vice versa. For people who are on the bench (= no client at the moment), this can express how they feel about that (sometimes people WANT to be on the bench).
 
 The scale is:

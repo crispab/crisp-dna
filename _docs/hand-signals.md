@@ -1,5 +1,6 @@
 ---
 title: Hand signals
+description: "The hand signals Crisp uses to run discussions and check for agreement quickly in large groups."
 prev_section: email-conventions.html
 next_section: industries-that-we-avoid.html
 ---
@@ -9,12 +10,12 @@ Hand signals
 
 Hand signals are an essential part of our [communication](communication.html) and [decision-making](decisions.html) system, especially for important decisions that affect many people.
 
-Think about it. If 25 people are sitting in a big circle, and one person wants to find out how the others feel about a proposal, what's fastest? Asking everyone to speak up? Asking everyone to write on sticky-notes or fill in a survey? Those ways are fine if you want details. But if you just want a quick temperature check, or test for agreement, then hand signals are superior! Because it takes just 10 seconds for everyone to hold up a hand signal and see what everyone else thinks.
+Think about it. If 20 people are sitting in a big circle, and one person wants to find out how the others feel about a proposal, what's fastest? Asking everyone to speak up? Asking everyone to write on sticky-notes or fill in a survey? Those ways are fine if you want details. But if you just want a quick temperature check, or test for agreement, then hand signals are superior! Because it takes just 10 seconds for everyone to hold up a hand signal and see what everyone else thinks.
 
 Discussion signals
 ------------------
 
-Discussion signals aren't needed for small group discussions (like six or less), but they are REALLY useful when we have 25 people sitting in a circle arguing about a pending decision or new idea!
+Discussion signals aren't needed for small group discussions (like six or less), but they are REALLY useful when we have 20 people sitting in a circle arguing about a pending decision or new idea!
 
 ### One hand up = I want to speak (put me in line)
 
